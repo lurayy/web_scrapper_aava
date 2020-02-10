@@ -38,10 +38,10 @@ def miner_handler(member_links):
 
 '''main entry fucntion'''
 if __name__ == "__main__":
-    # options = webdriver.ChromeOptions()
-    # options.add_argument("headless")
-    # driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
-    driver = webdriver.Chrome('/home/lurayy/chromedriver')
+    options = webdriver.ChromeOptions()
+    options.add_argument("headless")
+    driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
+    # driver = webdriver.Chrome('/home/lurayy/chromedriver')
     driver.get(URL)
     initialize_files()
     page_data = get_page_list(driver)

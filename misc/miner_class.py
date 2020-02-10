@@ -13,10 +13,10 @@ class Miner(threading.Thread):
     def run(self):
         website = self.website
         print('mining on ', self.website)
-        # options = webdriver.ChromeOptions()
-        # options.add_argument("headless")
-        # child_driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
-        child_driver = webdriver.Chrome('/home/lurayy/chromedriver')
+        options = webdriver.ChromeOptions()
+        options.add_argument("headless")
+        child_driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
+        # child_driver = webdriver.Chrome('/home/lurayy/chromedriver')
         try:
             child_driver.get(website)
             employee_json = {
