@@ -18,7 +18,7 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
     'state':'',
     'country':'',
     'zip':'',
-    'phone':''
+    'phone':'',
 }```
 
 Use converter.py for converting .json file to .csv
