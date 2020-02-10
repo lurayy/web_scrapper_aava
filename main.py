@@ -4,8 +4,8 @@ import json
 import time
 import threading
 
-from utils import get_links, get_page_list, next_page
-from miner_class import Miner
+from misc.utils import get_links, get_page_list, next_page
+from misc.miner_class import Miner
 from settings import NUMBER_OF_THREADS, URL
 
 
