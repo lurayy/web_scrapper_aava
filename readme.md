@@ -6,7 +6,8 @@ check your chrome version :->About Chrome
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 ```
 ### Data structure collected 
-```{
+```
+{
     'first_name':'',
     'last_name':'',
     'full_name':'',
@@ -19,6 +20,6 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
     'country':'',
     'zip':'',
     'phone':'',
-}```
-
+}
+```
 Use converter.py for converting .json file to .csv
