@@ -5,7 +5,7 @@ check your chrome version :->About Chrome
 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 ```
-### Data structure collected 
+### Structure of collected data
 ```
 {
     'first_name':'',
