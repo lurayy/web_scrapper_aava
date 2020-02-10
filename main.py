@@ -1,35 +1,17 @@
 from selenium import webdriver
 import json 
+import time
 
-URL = "https://aava.site-ym.com/searchserver/people.aspx?id=88D26135-6899-4AB1-998E-455D0D07FEF3&cdbid=&canconnect=0&canmessage=0&map=True&toggle=False&hhSearchTerms="
-
-
-def get_links(driver):
-    member_links = []
-    list_of_docs = driver.find_elements_by_class_name('lineitem')
-    for doc in list_of_docs:
-        try:
-            link_element = (doc.find_element_by_tag_name('a'))
-            member_links.append(link_element.get_attribute('href'))
-        except:
-            pass
-    return(member_links)
-    
-
-def next_page(driver):
-    next_page_section = driver.find_element_by_class_name('DotNetPager')
-    page_list = next_page_section.find_elements_by_tag_name('a')
-    x = len(page_list)
-    print(x)
-    page_list[9].click()
-
+# MAIN_SITE = 'https://aava.site-ym.com/search/newsearch.asp'
+URL = "https://aava.site-ym.com/searchserver/people.aspx?id=442E05AF-6FBE-4AF3-8239-2355D016EF90&cdbid=&canconnect=0&canmessage=0&map=True&toggle=False&hhSearchTerms="
 
 
 def mine_data(website):
-    # options = webdriver.ChromeOptions()
-    # options.add_argument("headless")
-    # child_driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
-    child_driver = webdriver.Chrome('/home/lurayy/chromedriver')
+    print('mining')
+    options = webdriver.ChromeOptions()
+    options.add_argument("headless")
+    child_driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
+    # child_driver = webdriver.Chrome('/home/lurayy/chromedriver')
     try:
         child_driver.get(website)
 
@@ -116,36 +98,102 @@ def mine_data(website):
         return {'status':0}
     finally:
         child_driver.quit()
-        
+    
+
+def get_links(driver):
+    member_links = []
+    list_of_docs = driver.find_elements_by_class_name('lineitem')
+    for doc in list_of_docs:
+        try:
+            link_element = (doc.find_element_by_tag_name('a'))
+            member_links.append(link_element.get_attribute('href'))
+        except:
+            pass
+    return(member_links)
+    
+
+def get_page_list(driver):
+    print('getting page list')
+    page_data = {
+        'current_page':0,
+        'other_pages':[]
+    }
+    info_grid = driver.find_element_by_id('SearchResultsGrid')
+    page_info_tr_element = driver.find_element_by_class_name('DotNetPager')
+    current_page = page_info_tr_element.find_element_by_tag_name('b').text
+    page_data['current_page'] = int(current_page)
+    pages = page_info_tr_element.find_elements_by_tag_name('a')
+    #for sorting the pages just in case
+    for page in pages:
+        temp_page = {
+        'id':0,
+        'element':''
+        }
+        try:
+            temp_page['id'] = int(page.text)
+        except:
+            temp_page['id'] = 999999999999
+        temp_page['element'] = page
+        page_data['other_pages'].append(temp_page)
+    return page_data
+
+
+def mine_main(driver):
+    output = []
+    error_list = []
+    time.sleep(10)
+    member_links = get_links(driver)
+    for member_link in member_links:
+        print('Mining on : ',member_link)
+        response_json = mine_data(member_link)
+        if response_json['status']:
+            output.append(response_json['data'])
+            print(response_json['data'])
+        else:
+            error_list.append(member_link)
+    return (output, error_list)
+
+
+def save_data(output, error_list):
+    print('saving data')
+    with open('data/output_json.json', 'a') as output_file:
+            json.dump(temp_output, output_file)
+
+    with open('data/error_list.json', 'a') as output_file:
+        json.dump(error_list, output_file)
+
+
+def next_page(page_data, driver):
+    for i in range(len(page_data['other_pages'])):
+        if page_data['current_page'] < page_data['other_pages'][i]['id']:
+            print('clicking')
+            page_data['other_pages'][i]['element'].click()
+            print('clicked')
+            return True
+        print('caluclating')
+    return False
 
 if __name__ == "__main__":
-    
     # options = webdriver.ChromeOptions()
     # options.add_argument("headless")
     # driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
     driver = webdriver.Chrome('/home/lurayy/chromedriver')
     driver.get(URL)
 
-    temp_output = []
-    error_list = []
-    member_links = get_links(driver)
+
+    page_data = get_page_list(driver)
+    state = True
     
-    for member_link in member_links:
-        response_json = mine_data(member_link)
-        if response_json['status']:
-            temp_output.append(response_json['data'])
-        else:
-            error_list.append(member_link)
-        
+    while state:
+        print('Mining on page number: ',page_data['current_page'])
+        output, error_list = mine_main(driver)
+        page_data = get_page_list(driver)
+        state = next_page(page_data, driver)
+
     driver.close()
 
-    print(temp_output)
+    # print(temp_output)
 
-    with open('output_json.json', 'w') as output_file:
-        json.dump(temp_output, output_file)
-
-    with open('error_list.json', 'w') as output_file:
-        json.dump(error_list, output_file)
-
+    
 # firstname, lastname, fullname, title,email, website,
 #  address, city, state,country, zip, , phone ,
