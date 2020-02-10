@@ -114,8 +114,9 @@ class Miner(threading.Thread):
     def save_data(self, data):
         print('saving data for ',self.website)
         with open('data/output_json.json', 'a') as output_file:
-                json.dump(data, output_file)
-
+            json.dump(data, output_file)
+            output_file.write(',')
+        
     '''if error occurs, this function will save the link to error_list.json'''
     def add_on_error_list(self):
         with open('data/error_list.json', 'a') as output_file:
