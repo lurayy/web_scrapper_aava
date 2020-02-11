@@ -10,9 +10,11 @@ pip3 install -r requirements.txt
 
 ```
 check your chrome version :->About Chrome 
-
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 ```
+4. Use settings.py to set URL and number of threads
+5. Use converter.py for converting .json file to .csv
+
 ### Structure of collected data
 ```
 {
@@ -30,4 +32,3 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
     'phone':'',
 }
 ```
-4. Use converter.py for converting .json file to .csv
