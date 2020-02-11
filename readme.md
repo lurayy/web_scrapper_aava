@@ -1,5 +1,13 @@
 # Simple Web Scrapper
-### Install and configure selenium
+##How to use:
+
+1. Install python3 
+2. Install requirements
+```
+pip3 install -r requirements.txt 
+```
+3.Install and configure selenium
+
 ```
 check your chrome version :->About Chrome 
 
@@ -22,4 +30,4 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
     'phone':'',
 }
 ```
-Use converter.py for converting .json file to .csv
+4. Use converter.py for converting .json file to .csv
