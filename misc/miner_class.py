@@ -12,10 +12,10 @@ class Miner(threading.Thread):
     '''main fucntion'''
     def run(self):
         print('mining on ', self.website)
-        # options = webdriver.ChromeOptions()
-        # options.add_argument("headless")
-        # child_driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
-        child_driver = webdriver.Chrome('/home/lurayy/chromedriver')
+        options = webdriver.ChromeOptions()
+        options.add_argument("headless")
+        child_driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
+        # child_driver = webdriver.Chrome('/home/lurayy/chromedriver')
         child_driver.set_page_load_timeout(30)
         try:
             child_driver.get(self.website)

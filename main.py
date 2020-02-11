@@ -1,12 +1,11 @@
 from selenium import webdriver
-
 import json 
 import time
 import threading
 
-from misc.utils import get_links, get_page_list, next_page
+from misc.utils import get_links, get_page_list, next_page, get_active_page_number
 from misc.miner_class import Miner
-from settings import NUMBER_OF_THREADS, URL
+from settings import NUMBER_OF_THREADS, URL, START_FROM
 
 
 def initialize_files():
@@ -36,24 +35,37 @@ def miner_handler(member_links):
             print(x, "   ===   ", len(current_miners))
             break
 
+def get_to_page(driver, page_number):
+    while True:    
+        page_data = get_page_list(driver)
+        if page_data.__contains__(page_number):
+            for i in page_data.keys():
+                if page_number < i:
+                    page_data[i].click()
+                    print('----- Clicked on page : ',i, '------------------')
+                    return True
+        else:
+            page_data[0].click()
+
+
 '''main entry fucntion'''
 if __name__ == "__main__":
+    n = NUMBER_OF_THREADS
+    state = True
     # options = webdriver.ChromeOptions()
     # options.add_argument("headless")
     # driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
     driver = webdriver.Chrome('/home/lurayy/chromedriver')
     driver.get(URL)
-    initialize_files()
-    page_data = get_page_list(driver)
-    n = NUMBER_OF_THREADS
-    state = True
+    # 
+    # initialize_files()
+    get_to_page(driver, START_FROM)
     try:
-        x=0
-        while state:
-            print('-------------------------Mining on page number: ',page_data['current_page'],'---------------------------')
+        while state==True:
+            current_page = get_active_page_number(driver)
             member_links = get_links(driver)
+            print('-------------------------   Mining on page number: ',current_page,'---------------------------')
             while member_links:
-                x = x + 1
                 if len(member_links) > n:
                     process_links = member_links[:n]
                     member_links = member_links[n:]
@@ -61,10 +73,9 @@ if __name__ == "__main__":
                     process_links = member_links[:len(member_links)]
                     member_links = member_links[len(member_links):]
                 miner_handler(process_links)
-                if x==20:
-                    break
             page_data = get_page_list(driver)
             state = next_page(page_data, driver)
+            time.sleep(2)
     except:
         print('Error on the main loop')
     finally:

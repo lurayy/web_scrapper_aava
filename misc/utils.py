@@ -15,34 +15,42 @@ def get_links(driver):
 def get_page_list(driver):
     print('getting page list')
     page_data = {
-        'current_page':0,
-        'other_pages':[]
     }
     info_grid = driver.find_element_by_id('SearchResultsGrid')
     page_info_tr_element = driver.find_element_by_class_name('DotNetPager')
-    current_page = page_info_tr_element.find_element_by_tag_name('b').text
-    page_data['current_page'] = int(current_page)
+    current_page = get_active_page_number(driver)
     pages = page_info_tr_element.find_elements_by_tag_name('a')
-    #for sorting the pages just in case
     for page in pages:
-        temp_page = {
-        'id':0,
-        'element':''
-        }
         try:
-            temp_page['id'] = int(page.text)
+            page_data[int(page.text)] = page
         except:
-            temp_page['id'] = 999999999999
-        temp_page['element'] = page
-        page_data['other_pages'].append(temp_page)
+            page_data[0] = page
     return page_data
 
 
 '''calculates and clicks on the next page'''
 def next_page(page_data, driver):
-    for i in range(len(page_data['other_pages'])):
-        if page_data['current_page'] < page_data['other_pages'][i]['id']:
-            page_data['other_pages'][i]['element'].click()
-            print('---- Clicked on page : ',page_data['other_pages'][i]['id'])
+    current_page = get_active_page_number(driver)
+    print(page_data.keys())
+    for i in page_data.keys():
+        if current_page < i:
+            page_data[i].click()
+            print('----- Clicked on page : ',i, '------------------')
             return True
+    try:
+        page_data[0].click()
+        print('----- Clicked on page : ',"NEXT", '------------------')
+        return True
+    except:
+        pass
+    print('############################### NO NEXT PAGE ############################')
     return False
+        
+
+
+
+def get_active_page_number(driver):
+    temp_s = driver.find_element_by_id('SearchResultsGrid')
+    temp_s = temp_s.find_element_by_class_name('DotNetPager')
+    temp_s = temp_s.find_element_by_tag_name('b').text
+    return int(temp_s)

@@ -1,59 +1,993 @@
 first_name,last_name,full_name,title,email,website,address,city,state,country,zip,phone
-Mary,Aboko-Cole,Dr. Mary Aboko-Cole,Dr.,drmary@southsidemobilevet.com,,Southside Mobile Veterinary Services PO Box 1467 Jonesboro Georgia 30237  United States,Jonesboro,Georgia,United States,30237,770 703-3324 
 Nancy,Adams,Dr. Nancy Adams,Dr.,,http://www.adamsequinewellness.com/,,,,,,513-319-2699 
 Morgan,Agnew,Dr. Morgan Agnew,Dr.,agnew.morgan@gmail.com,,Country Companion Animal Hospital 110 Moreview Blvd. Morgantown Pennsylvania 19543  United States,Morgantown,Pennsylvania,United States,19543,610 286-9065 
+Mary,Aboko-Cole,Dr. Mary Aboko-Cole,Dr.,drmary@southsidemobilevet.com,,Southside Mobile Veterinary Services PO Box 1467 Jonesboro Georgia 30237  United States,Jonesboro,Georgia,United States,30237,770 703-3324 
 Lauren,Adams,Dr. Lauren E. Adams,Dr.,lauren.adams.dvm@gmail.com,,Hunter Animal Hospital 5246W. 3500S. West Valley City Utah 84120  United States,West Valley City,Utah,United States,84120,801 968-0123 
-Jean,Allbright,Dr. Jean Allbright,Dr.,,,,,,,,
-Emily,Amsler,Dr. Emily Amsler,Dr.,emsler@gmail.com,,Emily Amsler Portland Oregon United States,Portland,Oregon,United States,,
-Ronald,Anders,Dr. Ronald C. Anders,Dr.,,http://www.countyanimalclinic.net/,,,,,,
 Dayna,Ames,Dr. Dayna W. Ames,Dr.,daynaw123@aol.com,,United States,,,United States,,
-Sara,Andreu,Dr. Sara I. Andreu,Dr.,sandreu@companionhp.com,,Hyde Park Animal Hospital/Clinic 6937 S. Steny Island Ave. Chicago Illinois 60649  United States,Chicago,Illinois,United States,60649,773 324-4484 
-Jennifer,Anderson,Dr. Jennifer Anderson,Dr.,dranderson@lincolnwayvet.com,,"Lincolnway Veterinary Clinic, LLC 4019 Lincolnway East Mishawaka Indiana 46544  United States",Mishawaka,Indiana,United States,46544,
-Camille,Andrews,Dr. Camille R. Andrews,Dr.,camilleandrewsdvm@gmail.com,,United States,,,United States,,
+Jean,Allbright,Dr. Jean Allbright,Dr.,,,,,,,,
 Christine,Anderson,Dr. Christine Anderson,Dr.,christine.andersondvm@gmail.com,,Northern Lights Integrative Medical Complex 14270 87th Ct. N Loxahatchee Florida 33470  United States,Loxahatchee,Florida,United States,33470,561 855-8453 
-Erica,Andrews-Sanford,Dr. Erica A. Andrews-Sanford,Dr.,alperformancehorse@bellsouth.net,,Alabama Performance Horse Services Dr. 201 Mockingbird Lane Pike Road Alabama 36064  United States,Pike Road,Alabama,United States,36064,334 271-3895 
-Kelli,Ator,Dr. Kelli Ator,Dr.,onpointmva@gmail.com,,Montana United States,,Montana,United States,,
-James,Armer,Dr. James Armer,Dr.,,http://www.apahvet.com/,,,,,,
+Ronald,Anders,Dr. Ronald C. Anders,Dr.,,http://www.countyanimalclinic.net/,,,,,,
+Emily,Amsler,Dr. Emily Amsler,Dr.,emsler@gmail.com,,Emily Amsler Portland Oregon United States,Portland,Oregon,United States,,
+Jennifer,Anderson,Dr. Jennifer Anderson,Dr.,dranderson@lincolnwayvet.com,,"Lincolnway Veterinary Clinic, LLC 4019 Lincolnway East Mishawaka Indiana 46544  United States",Mishawaka,Indiana,United States,46544,
 Isla,Arcaro,Dr. Isla Arcaro,Dr.,islaarcaro@gmail.com,,PVSEC Blue Pearl 807 Camp Herne Rd. Pittsburgh Pennsylvania 15237  United States,Pittsburgh,Pennsylvania,United States,15237,412 366-3400 
-Robert,Atton,Dr. Robert J. Atton,Dr.,bobatton@gmail.com,,Felton Veterinary Hospital 5996 Highway 9 Felton California 95018  United States,Felton,California,United States,95018,831 335-3466 
+Sara,Andreu,Dr. Sara I. Andreu,Dr.,sandreu@companionhp.com,,Hyde Park Animal Hospital/Clinic 6937 S. Steny Island Ave. Chicago Illinois 60649  United States,Chicago,Illinois,United States,60649,773 324-4484 
+Erica,Andrews-Sanford,Dr. Erica A. Andrews-Sanford,Dr.,alperformancehorse@bellsouth.net,,Alabama Performance Horse Services Dr. 201 Mockingbird Lane Pike Road Alabama 36064  United States,Pike Road,Alabama,United States,36064,334 271-3895 
+Camille,Andrews,Dr. Camille R. Andrews,Dr.,camilleandrewsdvm@gmail.com,,United States,,,United States,,
+James,Armer,Dr. James Armer,Dr.,,http://www.apahvet.com/,,,,,,
+Kelli,Ator,Dr. Kelli Ator,Dr.,onpointmva@gmail.com,,Montana United States,,Montana,United States,,
 Raphaelle,Arseneault,Dr. Raphaelle Arseneault,Dr.,raphaelle.arseneault@gmail.com,,SVEDB Inc. 100-250 Boul. Vachon N. Ste. Marie Quebec G6E 0H2  Canada,Ste. Marie,Quebec,Canada,G6E 0H2,418 369-8772 
+Robert,Atton,Dr. Robert J. Atton,Dr.,bobatton@gmail.com,,Felton Veterinary Hospital 5996 Highway 9 Felton California 95018  United States,Felton,California,United States,95018,831 335-3466 
 Erin,Averett,Dr. Erin M. Averett,Dr.,emaverett@gmail.com,,Fayetteville Animal Hospital 765 Bradley Dr. Fayetteville Georgia 30214  United States,Fayetteville,Georgia,United States,30214,770 461-4211 
-Ellen,Aviel,Dr. Ellen Aviel,Dr.,eaviel@lowcostspayneuterat.org,,Low Cost Spay/Neuter Clinic 1707 E. Andy Devine Ave. Kingman Arizona 86401  United States,Kingman,Arizona,United States,86401,928 692-5226 
 Farrah,Austin,Dr. Farrah R. Austin,Dr.,,http://www.mygracevet.com/,Grace Animal Hospital 902 Lodgeville Rd. Bridgeport West Virginia 26330  United States,Bridgeport,West Virginia,United States,26330,304 848-2420 
+Ellen,Aviel,Dr. Ellen Aviel,Dr.,eaviel@lowcostspayneuterat.org,,Low Cost Spay/Neuter Clinic 1707 E. Andy Devine Ave. Kingman Arizona 86401  United States,Kingman,Arizona,United States,86401,928 692-5226 
 Cynthia,Baker,Dr. Cynthia Baker,Dr.,cbaker@bargersvillevet.com,,Bargersville Veterinary Hospital medical director 4253 N. State Rd 135 Franklin Indiana 46131  United States,Franklin,Indiana,United States,46131,317 422-9536 
-Sally,Barchman,Dr. Sally Barchman,Dr.,,http://www.statelineah.com/,State Line Animal Hospital 2009 W. 104th Street Leawood Kansas 66206  United States,Leawood,Kansas,United States,66206,913 3813272 
 Tamara,Baroody,Dr. Tamara E. Baroody,Dr.,equinejet@yahoo.com,,Animal Wellness Veterinary Services 121 Lake Ave. Saratoga Springs New York 12866  United States,Saratoga Springs,New York,United States,12866,518 633-4340 
-Brittney,Barton,Dr. Brittney Barton,Dr.,,http://www.healvet.com/,,,,,,
 Toni,Barnes,Dr. Toni F. Barnes,Dr.,vetbarnes@msn.com,,Westside Veterinary Clinic 963 W. Rt66 #230 Flagstaff Arizona 86001  United States,Flagstaff,Arizona,United States,86001,
+Sally,Barchman,Dr. Sally Barchman,Dr.,,http://www.statelineah.com/,State Line Animal Hospital 2009 W. 104th Street Leawood Kansas 66206  United States,Leawood,Kansas,United States,66206,913 3813272 
+Brittney,Barton,Dr. Brittney Barton,Dr.,,http://www.healvet.com/,,,,,,
 Sharon,Barotz,Dr. Sharon B. Barotz,Dr.,info@tranquilpawsvet.com,http://www.tranquilpawsvet.com/,"Tranquil Paws Veterinary Owner, Veterinarian & Acupuncturist 1349 Lexington Ave 3B New York New York 10128  United States",New York,New York,United States,10128,212 996-3144 
+Mary,Battistella,Dr. Mary Battistella,Dr.,,http://www.wholehealthpetcare.com/,Kowaliga Whole Health & Pet Care & Resort 8610 Kowaliga Road Eclectic Alabama 35024  United States,Eclectic,Alabama,United States,35024,334-857-1816 
+Erica,Beadle,Dr. Erica R. Beadle,Dr.,erbeadle2016@hotmail.com,,Waller Equine Hospital 28234 Farm to Market 2920 Waller Texas 77484  United States,Waller,Texas,United States,77484,936 931-2900 
 Rebecca,Bean,Dr. Rebecca L. Bean,Dr.,rbeandvm@gmail.com,,The Integrative Vet 749 Touraine Ave. E. Lansing Michigan 48823  United States,E. Lansing,Michigan,United States,48823,517 580-2114 
 Diana,Bauer,Dr. Diana Bauer,Dr.,diana.bauerdvm@gmail.com,,"Diana Bauer, DVM San Rafael California United States",San Rafael,California,United States,,
-Erica,Beadle,Dr. Erica R. Beadle,Dr.,erbeadle2016@hotmail.com,,Waller Equine Hospital 28234 Farm to Market 2920 Waller Texas 77484  United States,Waller,Texas,United States,77484,936 931-2900 
-Mary,Battistella,Dr. Mary Battistella,Dr.,,http://www.wholehealthpetcare.com/,Kowaliga Whole Health & Pet Care & Resort 8610 Kowaliga Road Eclectic Alabama 35024  United States,Eclectic,Alabama,United States,35024,334-857-1816 
-Inger,Beecher,Dr. Inger Beecher,Dr.,,,,,,,,
-Colleen,Beestman,Dr. Colleen Beestman,Dr.,cbeestman@gmail.com,,Ranier Veterinary Hospital 815 Ranier Ave Seattle Washington 98144  United States,Seattle,Washington,United States,98144,206 324-4144 
-Natasha,Bell,Dr. Natasha Bell,Dr.,natasha.e.v.bell@gmail.com,,Dr. New York United States,,New York,United States,,
 Emily,Beason,Dr. Emily S. Beason,Dr.,emilyshull77@gmail.com,,Russellville Animal Clinic 15312 Hwy. 43N Russellville Alabama 35653  United States,Russellville,Alabama,United States,35653,256 332-2254 
+Inger,Beecher,Dr. Inger Beecher,Dr.,,,,,,,,
+Natasha,Bell,Dr. Natasha Bell,Dr.,natasha.e.v.bell@gmail.com,,Dr. New York United States,,New York,United States,,
 Adrienne,Bennett,Dr. Adrienne Bennett,Dr.,drmommacat@yahoo.com,,"Whidbey Veterinary House Calls, Woodinville Veterinary Hospital & Mobile Services 1714 Hastie Lake Rd. Oak Harbor Louisiana 98277  United States",Oak Harbor,Louisiana,United States,98277,425 233-5104 
-Sarah,Berthiaume,Dr. Sarah M. Berthiaume,Dr.,,http://www.topazvet.com/,,,,,,
+Colleen,Beestman,Dr. Colleen Beestman,Dr.,cbeestman@gmail.com,,Ranier Veterinary Hospital 815 Ranier Ave Seattle Washington 98144  United States,Seattle,Washington,United States,98144,206 324-4144 
 Katharine,Berlin,Dr. Katharine Berlin,Dr.,katiekberlin@gmail.com,,Shiloh Veterinary Hospital 110 Morgan Lane Manchester Pennsylvania 17406  United States,Manchester,Pennsylvania,United States,17406,717 767-0180 
-Jacquelyn,Beyerlein,Dr. Jacquelyn Beyerlein,Dr.,jacquelyn@deloeste.vet,,Del Oeste Equine Hospital 90238 Prairie Rd. Eugene Oregon 97402  United States,Eugene,Oregon,United States,97402,541 852-3120 
+Sarah,Berthiaume,Dr. Sarah M. Berthiaume,Dr.,,http://www.topazvet.com/,,,,,,
 John,Bergeson,Dr. John Bergeson,Dr.,jbergeson@vetcor.com,,Tanneberger Veterinary Hospital 997 Fairfax Road St. Albans Vermont 05478  United States,St. Albans,Vermont,United States,05478,802 524-2001 
-Lori,Bidwell,Dr. Lori Bidwell,Dr.,loribidwell@hotmail.com,,East West Equine Sports Medicine owner/partner 7220 Russell Cane Rd. Georgetown Kentucky 40324  United States,Georgetown,Kentucky,United States,40324,859 940-4478 
+Jacquelyn,Beyerlein,Dr. Jacquelyn Beyerlein,Dr.,jacquelyn@deloeste.vet,,Del Oeste Equine Hospital 90238 Prairie Rd. Eugene Oregon 97402  United States,Eugene,Oregon,United States,97402,541 852-3120 
 Steven,Bird,Dr. Steven J. Bird,Dr.,sbird@hancockvet.com,,Hancock Veterinary Services 1507 Wesley Ave. Springdale Arkansas 72764  United States,Springdale,Arkansas,United States,72764,479 717-2688 
-Jennifer,Blair,Dr. Jennifer Blair,Dr.,,,St. Francis Animal & Bird Hospital 1227 Larpenteur Ave. W. Roseville Minnesota 55113  United States,Roseville,Minnesota,United States,55113,651 645-2808 
 Mark,Bianchi,Dr. Mark Bianchi,Dr.,,,White Oaks Vet Clinic 131 W Waterloo Rd Edmond Oklahoma 73025  United States,Edmond,Oklahoma,United States,73025,405-330-0676 
-Stephenie,Blythe,Dr. Stephenie Blythe,Dr.,sablythedvm@gmail.com,,Animal Hospital of Cornelius 18726 W. Catawba Ave. Cornelius North Carolina 28031  United States,Cornelius,North Carolina,United States,28031,704 892-1585 
-Alice,Blazer,Dr. Alice Blazer,Dr.,,http://www.stonecrestanimalhospital.com/,Stonecrest Animal Hospital 4626 E Thunderbird Ste 100 Phoenix Arizona 85032  United States,Phoenix,Arizona,United States,85032,602 996-0966 
-Carrie,Bonacorsi,Dr. Carrie Bonacorsi,Dr.,carrie.bonacorsi@gmail.com,,Melrose Animal Clinic 26 Essex St. Melrose Massachusetts 02176  United States,Melrose,Massachusetts,United States,02176,781 662-4888 
+Lori,Bidwell,Dr. Lori Bidwell,Dr.,loribidwell@hotmail.com,,East West Equine Sports Medicine owner/partner 7220 Russell Cane Rd. Georgetown Kentucky 40324  United States,Georgetown,Kentucky,United States,40324,859 940-4478 
 Pamela,Bluestone,Dr. Pamela Bluestone,Dr.,,http://yorkvillagevet.com/,Associate Veterinarian Kennebunk Veterinary Hospital 149 Fletcher St. Kennebunk Maine 04043  United States,Kennebunk,Maine,United States,04043,207 985-4277 
-Edward,Boldt,Dr. Edward Boldt,Dr.,,,"Performance Horse Complementary Medicine Services, PLLC 6520 E County Rd 44 Fort Collins Colorado 80524  United States",Fort Collins,Colorado,United States,80524,970-482-2287 
-Carey,Bonds,Dr. Carey Bonds,Dr.,goldenvet007@sbcglobal.net,http://trinityveterinaryhospital.com/,Trinity Veterinary Hospital Dr. 3100 N. Perkins Road Stillwater Oklahoma 74075  United States,Stillwater,Oklahoma,United States,74075,405 533-0001 
+Jennifer,Blair,Dr. Jennifer Blair,Dr.,,,St. Francis Animal & Bird Hospital 1227 Larpenteur Ave. W. Roseville Minnesota 55113  United States,Roseville,Minnesota,United States,55113,651 645-2808 
+Alice,Blazer,Dr. Alice Blazer,Dr.,,http://www.stonecrestanimalhospital.com/,Stonecrest Animal Hospital 4626 E Thunderbird Ste 100 Phoenix Arizona 85032  United States,Phoenix,Arizona,United States,85032,602 996-0966 
+Stephenie,Blythe,Dr. Stephenie Blythe,Dr.,sablythedvm@gmail.com,,Animal Hospital of Cornelius 18726 W. Catawba Ave. Cornelius North Carolina 28031  United States,Cornelius,North Carolina,United States,28031,704 892-1585 
 Lynda,Bond,Dr. Lynda Bond,Dr.,,,"Energetic Veterinary Health Care 56 Lincoln St., Apt A Saco Maine 04072  United States",Saco,Maine,United States,04072,207-408-9500 
 Kim,Bonaventure,Dr. Kim Bonaventure,Dr.,kimbonaventure@new-pointe.com,,New Pointe Veterinary Services 8964 False River Rd. New Roads Louisiana 70760  United States,New Roads,Louisiana,United States,70760,
-Mary,Bonner-Bacheldor,Dr. Mary C. Bonner-Bacheldor,Dr.,bacheldorsrock@att.net,,"Mary C. Bonner-Bacheldor, DVM 517 N. Court St. Howell Michigan 48843  United States",Howell,Michigan,United States,48843,
-Mona,Boudreaux,Dr. Mona Boudreaux,Dr.,,,A Circle In Time,,,,,
+Edward,Boldt,Dr. Edward Boldt,Dr.,,,"Performance Horse Complementary Medicine Services, PLLC 6520 E County Rd 44 Fort Collins Colorado 80524  United States",Fort Collins,Colorado,United States,80524,970-482-2287 
+Carrie,Bonacorsi,Dr. Carrie Bonacorsi,Dr.,carrie.bonacorsi@gmail.com,,Melrose Animal Clinic 26 Essex St. Melrose Massachusetts 02176  United States,Melrose,Massachusetts,United States,02176,781 662-4888 
 Jessica,Borgmeyer,Dr. Jessica Borgmeyer,Dr.,jessiefee@gmail.com,,Back on Track Veterinary Hospital & Rehabb Center 957 Waterbury Falls Dr. Ofallon Missouri 63368  United States,Ofallon,Missouri,United States,63368,636 477-6740 
-JoAnn,Boyer,Dr. JoAnn Boyer,Dr.,,,VCA Advanced Vet Care Center 328 19th Street Manhattan Beach California 90266  United States,Manhattan Beach,California,United States,90266,310-542-8018 
+Mary,Bonner-Bacheldor,Dr. Mary C. Bonner-Bacheldor,Dr.,bacheldorsrock@att.net,,"Mary C. Bonner-Bacheldor, DVM 517 N. Court St. Howell Michigan 48843  United States",Howell,Michigan,United States,48843,
+Carey,Bonds,Dr. Carey Bonds,Dr.,goldenvet007@sbcglobal.net,http://trinityveterinaryhospital.com/,Trinity Veterinary Hospital Dr. 3100 N. Perkins Road Stillwater Oklahoma 74075  United States,Stillwater,Oklahoma,United States,74075,405 533-0001 
+Mona,Boudreaux,Dr. Mona Boudreaux,Dr.,,,A Circle In Time,,,,,
 Nancy,Bozeman,Dr. Nancy Bozeman,Dr.,,http://www.theanimaldoctortx.com/,"The Animal Doctor, P.C. 621 Little School Rd Kennedale Texas 76060  United States",Kennedale,Texas,United States,76060,(817) 572-2400 
 Teresa,Bays,Dr. Teresa Bradley Bays,Dr.,,http://www.beltonanimal.com/,Belton Animal Clinic and Exotic Care Center 1308 N. Scott Avenue Belton Missouri 64012  United States,Belton,Missouri,United States,64012,816-331-3120 
+JoAnn,Boyer,Dr. JoAnn Boyer,Dr.,,,VCA Advanced Vet Care Center 328 19th Street Manhattan Beach California 90266  United States,Manhattan Beach,California,United States,90266,310-542-8018 
+Nancy,Brandt,Dr. Nancy Brandt,Dr.,,http://www.nancybrandtdvm.com/,"Natural Care Institute, LLC 6315 S. Rainbow Blvd. Suite 104 Las Vegas Nevada 89118  United States",Las Vegas,Nevada,United States,89118,702 617-3285 
+Alan,Brady,Dr. Alan Brady,Dr.,,,University of Texas MD Anderson Cancer Center Assoc. Professor 650 Cool Water Dr. Bastrop Texas 78602  United States,Bastrop,Texas,United States,78602,512 332-7360 
+Jill,Brady,Dr. Jill Brady,Dr.,fixinpets@yahoo.com,,Westside Veterinary Clinic 4736 County Club Dr. Jefferson City Missouri 65109  United States,Jefferson City,Missouri,United States,65109,573 893-7707 
+Katharina,Brandt,Dr. Katharina Brandt,Dr.,seacoastvetcalls@gmail.com,,Seacoast Veterinary Housecalls 487 Cider Hill Rd. York Maine 03909  United States,York,Maine,United States,03909,603 944-5681 
+Rosemary,Branson,Dr. Rosemary Branson,Dr.,,http://www.blythewoodanimalhospital.vetstreet.com/,"Blythewood Animal Hospital, Inc. 10332 Wilson Blvd Blythewood South Carolina 29016  United States",Blythewood,South Carolina,United States,29016,803-735-8004 
+Holly,Breaux,Dr. Holly Breaux,Dr.,hbreauxdvm@yahoo.com,,2000 Gum Creek Spur Loganville Georgia 30052  United States,Loganville,Georgia,United States,30052,770 713-6747 
+Dr,Braun,Dr Jana M. Braun,,DrBraun@braun.vet,,Braun Veterinary Services/VCA SnoWood Animal Hospital United States,,,United States,,
+John,Brett,Dr. John Brett,Dr.,,http://www.petclinictucson.com/,Rosemont Pet Clinic 5065 E 5th Street Tuscon Arizona 85711  United States,Tuscon,Arizona,United States,85711,520-881-2103 
+Alexandra,Bray,Dr. Alexandra Bray,Dr.,,http://www.baysideanimal.com/,"Bayside Animal Medical Center 844 Ritchie Highway, Suite 102 Severna Park Maryland 21146  United States",Severna Park,Maryland,United States,21146,410-544-4423 
+Crystal,Brobst-Wormell,Dr. Crystal Brobst-Wormell,Dr.,,,,,,,,
+Teresa,Brockman,Dr. Teresa Brockman,Dr.,,,Richland Animal Clinic 6109 Charlotte Ave Nashville Tennessee 37209  United States,Nashville,Tennessee,United States,37209,615 292-5752 
+Laura,Brisbane-Cohen,Dr. Laura R. Brisbane-Cohen,Dr.,l.brisbanecohen@gmail.com,,United States,,,United States,,
+Cassidy,Briggs,Dr. Cassidy Briggs,Dr.,cassidyjbriggs@gmail.com,,Bend Equine Medical Center & Small Animal Division 19121 Couch Market Rd. Bend Oregon 97703  United States,Bend,Oregon,United States,97703,541 388-4006 
+Teresa,Brown,Dr. Teresa Brown,Dr.,,http://www.princewilliamanimalhospital.com/,Prince William Animal Hospital 10227 Nokesville Road Manassas Virginia 20110  United States,Manassas,Virginia,United States,20110,703-361-5223 
+Wayne,Browning,Dr. Wayne N. Browning,Dr.,wbrowningdvm@bayhillequine.com,,"Bayhill Equine, Inc. 123 Belmont Ave. Redwood City California 94061  United States",Redwood City,California,United States,94061,650 851-2300 
+Kerry,Brown,Dr. Kerry Brown,Dr.,,http://vvhcny.com/,Village Veterinary Hospital 230 Genesee St Canastota New York 13032  United States,Canastota,New York,United States,13032,(315) 363-8700 
+Elizabeth,Brown,Dr. Elizabeth Brown,Dr.,,http://www.westcoastveterinarycenterfl.com/,West Coast Veterinary Center 7910 State Road 72 Sarasota Florida 34241  United States,Sarasota,Florida,United States,34241,941-925-2262 
+Christene,Bryant,Dr. Christene Bryant,Dr.,cah691@bellsouth.net,http://cherokeeanimalhospital.com/,Cherokee Animal Hospital Dr. 2424 Marietta Hwy Canton Georgia 30114  United States,Canton,Georgia,United States,30114,770 479-6505 
+Elizabeth,Bruns,Dr. Elizabeth Bruns,Dr.,ebrunsdvm@gmail.com,,Equilibrium Equine Acupuncture DVM 2181 Vining Dr. Unit C Woodbury Minnesota 55125  United States,Woodbury,Minnesota,United States,55125,860 8393888 
+Grace,Buchanan,Dr. Grace Buchanan,Dr.,graceeburns@gmail.com,http://www.huntcountryequine.com/,Hunt Country Equine Mobile Veterinary Service 1669 Hugh Champion Rd Tryon North Carolina 28782  United States,Tryon,North Carolina,United States,28782,828 8942627 
+Julia,Brugliera,Dr. Julia Brugliera,Dr.,,,,,,,,
+Jennifer,Burke,Dr. Jennifer Burke,Dr.,,http://www.apetcenter.com/,Atascadero Pet Hospital & Emergency 9575 El Camino Real Atascadero California 93422  United States,Atascadero,California,United States,93422,805 466-3880 
+Dr,Buchanan,Dr Megan Buchanan,,M.Buchanan@moorepetmobility.com,http://www.moorepetmobility.com/,Moore Pet Mobility Owner Southern Pines North Carolina 28387  United States,Southern Pines,North Carolina,United States,28387,910 5859504 
+Shannon,Budiselic,Dr. Shannon Budiselic,Dr.,,http://www.equilibriumvrc.com/,Dr. 95 Crystal Shores Crescent Okotoks Alberta T1S 2C6  Canada,Okotoks,Alberta,Canada,T1S 2C6,
+Nancy,Buonpane,Dr. Nancy Buonpane,Dr.,,,"Nancy Buonpane, DVM 29 Walker Place Melville New York 11747  United States",Melville,New York,United States,11747,631-643-0766 
+Meredith,Burkholder,Dr. Meredith B. Burkholder,Dr.,drbarkerdvm@gmail.com,,Adam's Mill Veterinary Hospital United States,,,United States,,703 757-7570 
+Cynthia,Burnett,Dr. Cynthia Burnett,Dr.,,http://www.healinghandsanimal.com/,,,,,,
+Vicki,Burton,Dr. Vicki Burton,Dr.,,,Healing Ways Veterinary Care 812 S 13th St Laramie Wyoming 82070  United States,Laramie,Wyoming,United States,82070,307 742-2488 
+Brenna,Burkett,Dr. Brenna Burkett,Dr.,b.burkett.dvm@gmail.com,,"Burkett Veterinary Services, LLC 511 Harvey Lane Walterboro South Carolina 29488  United States",Walterboro,South Carolina,United States,29488,843 790-4838 
+Courtney,Butts,Dr. Courtney Butts,Dr.,drcourtneybutts@gmail.com,,McGregor Blvd. Veterinary Clinic 12581 McGregor Blvd. Ft. Myers Florida 33907  United States,Ft. Myers,Florida,United States,33907,239 481-1175 
+Autum,Busarow-Kosco,Dr. Autum Busarow-Kosco,Dr.,busarowdvm@gmail.com,,United States,,,United States,,
+Rachel,Butterworth-Tice,Dr. Rachel Butterworth-Tice,Dr.,dr.b@rutherfordlargeanimal.com,,"Rutherford Large Animal Mobile Services, DLLC 361 Aydlotle Rd. Rutherfordton North Carolina 28139  United States",Rutherfordton,North Carolina,United States,28139,828 447-9600 
+Dr,Bussières,Dr Geneviève Bussières,,gbussier@utk.edu,,UT CVM Clinical Associate Professor Anesthesiology 2407 River Drive Knoxville Tennessee 37996  United States,Knoxville,Tennessee,United States,37996,865 221-0160 
+Chris,Cahill,Dr. Chris Cahill,Dr.,,,"Cahill Veterinary Services, Inc. 1744 Hawthorne Ln Lexington Kentucky 40505  United States",Lexington,Kentucky,United States,40505,859 229-5558 
+Rachel,Cain,Dr. Rachel Cain,Dr.,drcain@carolinavetrec.com,,Vet-REC: Veterinary Rehabilitation 300 Unionville - Indian Trail Rd. Indian Trail North Carolina 28079  United States,Indian Trail,North Carolina,United States,28079,704 821-7161 
+Kristen,Cage,Dr. Kristen T. Cage,Dr.,,,Town & Country Animal Hospital 9836 Fairfax Boulevard Fairfax Virginia 22030  United States,Fairfax,Virginia,United States,22030,703 2732110 
+Holly,Cahoon,Dr. Holly Cahoon,Dr.,hncahoon@ucdavis.edu,,Veterinary Healing Center of Eldorado Hills 2222 Francisco Dr. El Dorado Hills California 95762  United States,El Dorado Hills,California,United States,95762,916 933-9270 
+Barbara,Calm,Dr. Barbara Calm,Dr.,calmanimalcare@gmail.com,http://calmanimalcare.com/,481 Main Street Kila Montana 59920  United States,Kila,Montana,United States,59920,
+Grace,Calabrese,Dr. Grace Calabrese,Dr.,,,Holistic Veterinary Care PO Box 245 Phoenix Maryland 21131  United States,Phoenix,Maryland,United States,21131,(410) 557-6040 
+Arabella,Callejo,Dr. Arabella N. Callejo,Dr.,drc.thevetinspringboro@gmail.com,,"The Vet in Springboro, Inc. 263-B W. Central Ave. Springboro Ohio 45066  United States",Springboro,Ohio,United States,45066,937 344-9454 
+Debra,Canapp,Dr. Debra Canapp,Dr.,,,Veterinary Orthopedic & Sports Medicine Group 10975 Guilford Road Ste. B Annapolis Junction Maryland 20701  United States,Annapolis Junction,Maryland,United States,20701,410-418-8446 
+Elizabeth,Campbell,Dr. Elizabeth Campbell,Dr.,,,"Four Corners Veterinary Hospital 2956 Treat Boulevard, Suite E Concord California 94518  United States",Concord,California,United States,94518,925 685-0512 
+Carolyn,Cannon,Dr. Carolyn Cannon,Dr.,,http://www.millertonvet.com/,Millerton Veterinary Practice 199 Route 44 East/PO Box 1058 Millerton New York 12546  United States,Millerton,New York,United States,12546,518-789-3440 
+Shauna,Cantwell,Dr. Shauna Cantwell,Dr.,mwvetservice@gmail.com,,"Medicine Wheel Veterinary Services, Inc. 2775 NW 49th Ave. #205-359 Ocala Florida 34482  United States",Ocala,Florida,United States,34482,352 538-3021 
+Deborah,Carey,Dr. Deborah Carey,Dr.,,,,,,,,
+Roxana,Caraballo,Dr. Roxana M. Caraballo,Dr.,rcaraballo1@bellsouth.net,,Pet Fit Animal Rehabilitation and Fitness Dr. 1000 Reddrock Cove Memphis Tennessee 38119  United States,Memphis,Tennessee,United States,38119,
+Steven,Carlson,Dr. Steven Carlson,Dr.,slcnkdc@gmail.com,,Bushland Small Animal Veterinary Clinic 18600 I40 West Amarillo Texas 79124  United States,Amarillo,Texas,United States,79124,806 355-5713 
+Janelle,Canty,Dr. Janelle C. Canty,Dr.,vetcanty83@gmail.com,,6439 Edsall Road Unit #4 Alexandria Virginia 22312  United States,Alexandria,Virginia,United States,22312,585 309-5545 
+Toby,Carmichael,Dr. Toby Carmichael,Dr.,,,Lake City Animal Hospital 3671 Cobb Pkwy NW Acworth Georgia 30101  United States,Acworth,Georgia,United States,30101,770 974-3536 
+Shannon,Carmichael,Dr. Shannon Carmichael,Dr.,pawsonlydoc@gmail.com,,United States,,,United States,,
+Sandra,Carroll,Dr. Sandra Carroll,Dr.,,,Mount Rose Animal Hospital 16560 Wedge Parkway Reno Nevada 89511  United States,Reno,Nevada,United States,89511,775 8538550 
+Anne,Carroll,Dr. Anne Carroll,Dr.,,http://www.chelseaanimalhospital.com/,Chelsea Animal Hospital 276 VT Route 110 Chelsea Vermont 5038  United States,Chelsea,Vermont,United States,5038,802-685-3232 
+Ron,Carsten,Dr. Ron Carsten,Dr.,,http://www.birchtreevet.com/,"Birch Tree Animal Hospital 1602 Grand Ave, Glenwood Springs Colorado 81061  United States",Glenwood Springs,Colorado,United States,81061,970-945-0125 
+Kira,Castro,Dr. Kira N. Castro,Dr.,knmdvm@gmail.com,,Echo Ridge Veterinary Hospital 1072C Williams Lake Rd. Evans Washington 99126  United States,Evans,Washington,United States,99126,509 684-6062 
+Timothy,Cavanagh,Dr. Timothy Cavanagh,Dr.,,,All Creatures Veterinary Service 720 West Ave Arlington Washington 98223  United States,Arlington,Washington,United States,98223,(360) 435-8929 
+Maurice,Casey,Dr. Maurice Casey,Dr.,,,PO Box 147 Marshall Virginia 20116  United States,Marshall,Virginia,United States,20116,540-364-4281 
+Kirsten,Caskey,Dr. Kirsten T. Caskey,Dr.,kcaskeydvm@gmail.com,,"Select Veterinary Services, PLLC Dr. 18376 178th Street Big Lake Minnesota 55309  United States",Big Lake,Minnesota,United States,55309,763 250-1838 
+Susan,Cechner,Dr. Susan Cechner,Dr.,,http://www.elburnanimalhospital.net/,Elburn Animal Hospital PC 403 E North St Elburn Illinois 60119  United States,Elburn,Illinois,United States,60119,630 365-9599 
+David,Chao,Dr. David Z. Chao,Dr.,david8525@gmail.com,,Banfield pet Hospital 308 N Glendale Ave Glendale California 91206  United States,Glendale,California,United States,91206,
+Kelly,Chandler,Dr. Kelly Chandler,Dr.,,,,,,,,
+Karin,Cavanaugh,Dr. Karin O. Cavanaugh,Dr.,klo22@cornell.edu,,2965 Monkey Run Rd. Gillett Pennsylvania 16925  United States,Gillett,Pennsylvania,United States,16925,
+Dr,Chevallier,Dr Beverly K. Chevallier,,thedrisrealin@gmail.com,,Western Grove Veterinary Clinic Owner Rt 1 Box 113 C Western Grove Arkansas 72685  United States,Western Grove,Arkansas,United States,72685,870 4295299 
+Shirley,Chen,Dr. Shirley S. Chen,Dr.,punch@ucdavis.edu,,792 Elizabeth Street San Francisco California 74114  United States,San Francisco,California,United States,74114,
+A.,Chesen,Dr. A. Chesen,Dr.,,http://www.ecwellness.com/,Equine Comprehensive Wellness 118 Camino Los Abuelos Santa Fe New Mexico 87508  United States,Santa Fe,New Mexico,United States,87508,505-259-9802 
+Aleda,Cheng,Dr. Aleda Cheng,Dr.,drchengdvm@gmail.com,,Crown Veterinary Specialists and Flanders Veterinary Clinic,,,,,
+Julia,Christopher-White,Dr. Julia Christopher-White,Dr.,juliaachristopher@hotmail.com,,White Equine Veterinary Services 17120 Sooner Avenue Purcell Oklahoma 73080  United States,Purcell,Oklahoma,United States,73080,785 410-4526 
+Keum,Choi,Dr. Keum Hwa Choi,Dr.,,,"University of Minnesota Integrative Medicine, College of Vet Med St. Paul Minnesota 55108  United States",St. Paul,Minnesota,United States,55108,612-624-0505 
+Karen,Christopherson,Dr. Karen Christopherson,Dr.,karen@bigbearaa.com,http://www.bigbearaa.com/,Big Bear Animal Acupuncture LLC Veterinarian 2038 Ford Parkway #417 St. Paul Minnesota 55116  United States,St. Paul,Minnesota,United States,55116,612 676-1161 
+David,Clegg,Dr. David Clegg,Dr.,,,Liverpool Animal Health Center 8205 Oswego Road Liverpool New York 13090  United States,Liverpool,New York,United States,13090,(315) 622-2882 
+Ngoc,Chu,Dr. Ngoc Chu,Dr.,nchudvm@gmail.com,,Turquoise Animal Hospital 950 Turquoise St. San Diego California 92109  United States,San Diego,California,United States,92109,858 488-0658 
+Keri,Clarkson,Dr. Keri Clarkson,Dr.,k.clarkson.dvm@gmail.com,,Southview Animal Hospital 32 Merdota Rd. W. Inver Grove Minnesota 55077  United States,Inver Grove,Minnesota,United States,55077,651 455-2258 
+Romina,Cohen,Dr. Romina J. Cohen,Dr.,rominacohendvm@gmail.com,,Inwood Animal Center/ Big Spring Animal Hospital 7611 Winchester Ave. Inwood West Virginia 25428  United States,Inwood,West Virginia,United States,25428,304 229-7387 
+Lucy,Cohen,Dr. Lucy N. Cohen,Dr.,lnmcohen@gmail.com,,Park Animal Hospital 2767 Tapo St. Simi Valley California 93063  United States,Simi Valley,California,United States,93063,805 526-0573 
+Connie,Clemons-Chevis,Dr. Connie Clemons-Chevis,Dr.,,,Alternative Medicine for Pets 2016 Benigno Lane Bay Saint Louis Mississippi 39520  United States,Bay Saint Louis,Mississippi,United States,39520,228-671-6210 
+Lisa,Coder,Dr. Lisa Coder,Dr.,lisacoder@gmail.com,,Pine Bluff Animal Hospital 7995 E. Pine Bluff Rd. Morris Illinois 60450  United States,Morris,Illinois,United States,60450,815 942-5365 
+Victoria,Colby,Dr. Victoria L. Colby,Dr.,victoriacolbydvm@gmail.com,,Lombard Animal Hospital 607 NE Lombard St. Portland Oregon 97211  United States,Portland,Oregon,United States,97211,503 285-2337 
+Patricia,Collins,Dr. Patricia J. Collins,Dr.,,,Valley Cottage Animal Hospital 202 Route 303 Valley Cottage New York 10989  United States,Valley Cottage,New York,United States,10989,845 2689263 
+Rebecca,Coleman,Dr. Rebecca Coleman,Dr.,,,Integrative Mobile Veterinary Care 129 Hayfield Ct. Wilmington North Carolina 28411  United States,Wilmington,North Carolina,United States,28411,910 821-8125 
+Dr,Coke,Dr Rob Coke,,,,San Antonio Zoo Director of Veterinary Care 3903 N St Mary's Street San Antonio Texas 78212  United States,San Antonio,Texas,United States,78212,210 7347184 (ext. 1320) 
+Todd,Collins,Dr. Todd A. Collins,Dr.,drcollins.ta@gmail.com,,US Army Dr. P O Box 85 Riverview Florida 33568  United States,Riverview,Florida,United States,33568,
+Hillary,Conant,Dr. Hillary Conant,Dr.,haconant@gmail.com,,San Roque Pet Hospital/Santa Barbara Veterinary Group 3034 State St. Santa Barbara California 93105  United States,Santa Barbara,California,United States,93105,805 682-2647 
+Toni,Connell,Dr. Toni Connell,Dr.,,,Independant Hill Veterinary Clinic 13444 Dumfries Road Manassas Virginia 20112  United States,Manassas,Virginia,United States,20112,703-791-2083 
+Denette,Cooke,Dr. Denette Cooke,Dr.,,http://www.cookevet.com/,The Cooke Veterinary Medical Center 1520 Volvo Parkway Chesapeake Virginia 23320  United States,Chesapeake,Virginia,United States,23320,757-547-9421 
+Michelle,Corse,Dr. Michelle Corse,Dr.,corsedvm@gmail.com,,United States,,,United States,,
+Kathleen,Corbett,Dr. Kathleen Corbett,Dr.,,,Veterinary House Calls 8207 Fernwood Drive Augusta Michigan 49012  United States,Augusta,Michigan,United States,49012,269-731-4344 
+Cameron,Corman,Dr. Cameron P. Corman,Dr.,cpadams99@yahoo.com,http://www.lovelandah.com/,Loveland Animal Hospital Lead DVM and Owner 685 Loveland Maderia Rd Loveland Ohio 45140  United States,Loveland,Ohio,United States,45140,513 683 7700 
+Julie,Cornell,Dr. Julie M. Cornell,Dr.,juliecornelldvm@gmail.com,,United States,,,United States,,
+Anna,Costin,Dr. Anna Costin,Dr.,abnorwood@gmail.com,,Equine Veterinary Associates Associate 14920 FM 2854 Montgomery Texas 77381  United States,Montgomery,Texas,United States,77381,919 6198696 
+Colleen,Coyne,Dr. Colleen Coyne,Dr.,colleencoyne@spectrumvet.com,http://spectrumvet.com/,Spectrum Veterinary Care veterinarian Belliingham Washington 98229  United States,Belliingham,Washington,United States,98229,360 927-4203 
+Karmen,Couret,Dr. Karmen Couret,Dr.,,http://karmencouret-dvm.com/,Stone Veterinary Hospital 51 Depot St. Watertown Connecticut 06795  United States,Watertown,Connecticut,United States,06795,860-945-9339 
+Kathryn,Cronin,Dr. Kathryn Cronin,Dr.,kcronindvm@gmail.com,,Atlantic Veterinary Hospital 10 Ocean Ave. Marblehead Massachusetts 01945  United States,Marblehead,Massachusetts,United States,01945,781 631-8881 
+Sandra,Criner,Dr. Sandra L. Criner,Dr.,lcrinerdvm@gmail.com,,Texas Equine & Pet 22707 Piper Rd. Needville Texas 77461  United States,Needville,Texas,United States,77461,832 264-6444 
+Tanya,Cruz,Dr. Tanya Cruz,Dr.,tanya.g.dvm@gmail.com,,Veterinary Medical and Surgical Group 31896 Plaza Dr. Suite C-1 San Juan Capistrano California 92675  United States,San Juan Capistrano,California,United States,92675,949 201-4100 
+Delores,Craig,Dr. Delores Craig,Dr.,,http://dvmneedles.com/,DVMNeedles 1229 Rubye Mae Pl El Paso Texas 79912  United States,El Paso,Texas,United States,79912,915-276-8597 
+Cynthia,Dahle,Dr. Cynthia Dahle,Dr.,,http://www.bavethospital.com/,Bay Area Veterinary Hospital 1520 Postal Road Chester Maryland 21619  United States,Chester,Maryland,United States,21619,410 643-7888 
+Jennifer,Curran,Dr. Jennifer Curran,Dr.,jcgreggvet1@yahoo.com,,Gregg Veterinary Hospital 1150 Logan Sewell Rd. Vidalia Louisiana 71373  United States,Vidalia,Louisiana,United States,71373,318 336-1700 
+Angelique,Cucaro,Dr. Angelique Cucaro,Dr.,,,Linda Mar Veterinary Hospital 985 Linda Mar Blvd Pacifica California 94044  United States,Pacifica,California,United States,94044,650 359-6471 
+Grace,Dahlgren,Dr. Grace Dahlgren,Dr.,dahlgrendvm@gmail.com,,Mountain View Animal Hospital 6474 Bonde Ln. Reno Nevada 89511  United States,Reno,Nevada,United States,89511,775 853-6900 
+Hannah,Daigle,Dr. Hannah Daigle,Dr.,newfoundahw@gmail.com,,Newfound Animal Health & Wellness Bristol New Hampshire United States,Bristol,New Hampshire,United States,,603 481-0980 
+Margot,Daly,Dr. Margot Daly,Dr.,margot.c.daly@gmail.com,,Sage Veterinary Centers 907 Dell Ave. Campbell California 95008  United States,Campbell,California,United States,95008,408 343-7243 
+Rebecca,Dallam,Dr. Rebecca A. Dallam,Dr.,rdallam@gmail.com,,North Country Veterinary Services 1457 Counte Rte. 53 Oswego New York 13126  United States,Oswego,New York,United States,13126,315 342-2913 
+Devlyn,D'Alfonzo,Dr. Devlyn D'Alfonzo,Dr.,devdalfon@gmail.com,,Virginia Veterinary Centers Veterinarian 1301 Central Park Blvd Fredricksburg Virginia 22401  United States,Fredricksburg,Virginia,United States,22401,540 372-3470 
+Anya,Dapena,Dr. Anya V. Dapena,Dr.,,,Thoreau Veterinary Hospital 3300 Fox Hill Rd Easton Pennsylvania 18045  United States,Easton,Pennsylvania,United States,18045,610 5590728 
+Maria,Davidson,Dr. Maria M. Davidson,Dr.,davidsonmam@gmail.com,,VCA Braelinn Village Animal Hospital 1130 Crosstown Ct. Peachtree City Georgia 30269  United States,Peachtree City,Georgia,United States,30269,770 486-0077 
+Tracy,Davenport,Dr. Tracy Lynn Davenport,Dr.,,http://lovepethospital.com/,"Love Pet Hospital 8106 Brodie Lane, #102 Austin Texas 78745  United States",Austin,Texas,United States,78745,512 282-0221 
+Julie,Davis,Dr. Julie Davis,Dr.,,,Circle D Veterinary Services 9669 W. 600 S Modoc Indiana 47358  United States,Modoc,Indiana,United States,47358,765 853-5760 
+Carolina,Garza,Dr. Carolina de la Garza,Dr.,carolinadelagarzadvm@gmail.com,,East El Paso Animal Hospital 3370 Wedgewood El Paso Texas 79925  United States,El Paso,Texas,United States,79925,915 593-1712 
+Ashleigh,Davis-Bergsohn,Dr. Ashleigh Davis-Bergsohn,Dr.,drashleighdb@gmail.com,,94 Owens Road Goshen 10924  United States,Goshen,,United States,10924,
+Debra,Decker,Dr. Debra D. Decker,Dr.,,http://www.synergyvetcare.com/,Synergy Veterinary Care 29217 Center Ridge Rd. Westlake Ohio 44145  United States,Westlake,Ohio,United States,44145,440 499-7100 
+Alexandra,Devereux,Dr. Alexandra Devereux,Dr.,drdevereux@midriversequine.com,,Mid Rivers Equine Centre 404 Stable Ln. Wentzville Missouri 63385  United States,Wentzville,Missouri,United States,63385,713 805-4767 
+Julie,DeMarco,Dr. Julie DeMarco,Dr.,j.demarco@wholepetvetcare.com,,Whole Pet Veterinary Care 340 Leslie Sts Salem Oregon 97301  United States,Salem,Oregon,United States,97301,
+Lynne,Dennis,Dr. Lynne Dennis,Dr.,drlynne@harmonyvet.com,http://www.harmonyvet.com/,Harmonyvet Acupuncture & Spine Care 4502 Monona Dr. Madison Wisconsin 53716  United States,Madison,Wisconsin,United States,53716,608 886-8930 
+Dr,Denton,Dr Gabre Denton,,gabredenton@gmail.com,,Banfield Pet Hospital Doctor 936 Diamond St Apt 1 San Diego California 92104  United States,San Diego,California,United States,92104,619 5136524 
+Katherine,DeVore,Dr. Katherine DeVore,Dr.,,,7682 Harlow Rd High Point North Carolina 27263  United States,High Point,North Carolina,United States,27263,(336) 431-0038 
+Jessica,Diaz,Dr. Jessica L. Diaz,Dr.,drjessica.diaz@gmail.com,,United States,,,United States,,
+Tiffany,Diab,Dr. Tiffany A. Diab,Dr.,kingsfoilacupunctureservices@gmail.com,http://www.kingsfoilacupuncture.com/,"Kingsfoil Integrative Veterinary Care Owner, DVM 2910 N Powers Boulevard #354 Colorado Springs Colorado 80922  United States",Colorado Springs,Colorado,United States,80922,719 2573728 
+Melissa,DiFrancesco,Dr. Melissa A. DiFrancesco,Dr.,melanne7752@gmail.com,,Commerce Veterinary Clinic Veterinarian 113 State HWY 224 Commerce Texas 75428  United States,Commerce,Texas,United States,75428,903 8867941 
+Stephen,Dill,Dr. Stephen Dill,Dr.,,,14094 Erin Lane Rixeyville Virginia 22737  United States,Rixeyville,Virginia,United States,22737,540-937-6682 
+Geraldine,Diethelm,Dr. Geraldine Diethelm,Dr.,,,Marathon Veterinary Hospital 5001 Overseas Hwy Marathon Florida 33050  United States,Marathon,Florida,United States,33050,(305) 743-7099 
+Rose,DiLeva,Dr. Rose DiLeva,Dr.,,http://www.altpetdoc.com/,Animal Wellness Center 286 Wilmington West Chester Pike Chadds Ford Pennsylvania 19317  United States,Chadds Ford,Pennsylvania,United States,19317,610-558-1616 
+Heather,Dillon,Dr. Heather Dillon,Dr.,beesandkale@gmail.com,,At Home Veterinary Services 5775 Jean Rd. Lake Oswego Oregon 97035  United States,Lake Oswego,Oregon,United States,97035,503 281-1631 
+Leslye,D'Ingianni,Dr. Leslye C. D'Ingianni,Dr.,biteygrowlyone@yahoo.com,,Shore Veterinarians 73 Hope Corson Rd. Seaville New Jersey 08230  United States,Seaville,New Jersey,United States,08230,609 390-9113 
+Allison,Doherty,Dr. Allison Doherty,Dr.,luvmedu8225@gmail.com,,Laursen Veterinary Service 5885 W. Darbee Rd. Fairgrove Michigan 48733  United States,Fairgrove,Michigan,United States,48733,989 693-6201 
+Cate,Mitchell,Dr. Cate Dolan Mitchell,Dr.,,http://www.inbalancevet.com/,In Balance Veterinary Care Salt Lake City Utah United States,Salt Lake City,Utah,United States,,801 215-9065 
+Lisa,Donato,Dr. Lisa J. Donato,Dr.,,http://www.vaaha.com/,Veterinary Acupuncture and Healing Arts PO Box 333 Albertson New York 11507  United States,Albertson,New York,United States,11507,516-242-7209 
+Coleen,Dossey,Dr. Coleen Dossey,Dr.,,http://tcvhosp.com/,Town and Country Veterinary Hospital 923 Main Street Pleasanton California 94566  United States,Pleasanton,California,United States,94566,925-462-1666 
+Susan,Drapek,Dr. Susan Drapek,Dr.,,http://www.travelling-vet.com/,Travelling Vet 4095 South Waverly Eaton Rapids Michigan 48827  United States,Eaton Rapids,Michigan,United States,48827,(517) 663-0428 
+Wenchao,Dong,Dr. Wenchao Dong,Dr.,dongwenchao1986@126.com,,United States,,,United States,,
+Pamela,Dragos,Dr. Pamela J. Dragos,Dr.,,http://www.dragosveterinaryacupuncture.com/,"Veterinary Acupuncture and Alternative Medicine, LLC Certified Veterinary Acupuncturist Paradise Plaza Suite 14A 14819 N. Cave Creek Rd. Phoenix Arizona 85032  United States",Phoenix,Arizona,United States,85032,602 686-5081 
+Pamela,Duggan,Dr. Pamela Duggan,Dr.,,,97213  United States,,,United States,97213,
+Jessica,Dugan,Dr. Jessica A. Dugan,Dr.,drdugandvm@gmail.com,,Halcyon Veterinary PO Box 675938 Rancho Santa Fe California 92067  United States,Rancho Santa Fe,California,United States,92067,760 815-9815 
+Lauren,Duffee,Dr. Lauren Duffee,Dr.,lduffeevmd@gmail.com,,Massachusetts Veterinary Referral Hospital 20 Cabot road Woburn Massachusetts 01801  United States,Woburn,Massachusetts,United States,01801,781 932-5802 
+Chris,Draper,Dr. Chris Draper,Dr.,,,Saucon Valley Animal Hospital 1979 Leithsville Rd Hellertown Pennsylvania 18055  United States,Hellertown,Pennsylvania,United States,18055,(610) 838-6644 
+Andrea,Duvall,Dr. Andrea Duvall,Dr.,,http://www.andreaduvalldvm.com/,South Clackamas Veterinary Services 206 Shaver Ave Molalla Oregon 97038  United States,Molalla,Oregon,United States,97038,503-829-4428 
+Geneve,Dundas,Dr. Geneve Dundas,Dr.,gdundasdvm@hotmail.com,,Dundas Veterinary Services PLLC 2021 Rock Creek Dr. Grand Prairie Texas 75050  United States,Grand Prairie,Texas,United States,75050,903 689-3509 
+Martha,Eaton,Dr. Martha Eaton,Dr.,,,,,,,,
+Terry,Durkes,Dr. Terry Durkes,Dr.,,http://www.durkesveterinaryclinic.com/,Durkes Veterinary Clinic 1021 E. State Rd. 18 Marion Indiana 46952  United States,Marion,Indiana,United States,46952,(765) 664-0734 
+Rachel,Eddleman,Dr. Rachel C. Eddleman,Dr.,,,Mt. Yonah Animal Hospital 515 W. Kytle St. Cleveland Georgia 30528  United States,Cleveland,Georgia,United States,30528,706 219-1212 
+Kim,Edwards-Mitchell,Dr. Kim Edwards-Mitchell,Dr.,,http://bristowveterinaryhospital.com/,,,,,,
+Kristin,Edwards,Dr. Kristin Edwards,Dr.,,,855 Lake St. Dallas Pennsylvania 18612  United States,Dallas,Pennsylvania,United States,18612,570 674-2950 
+Barbara,Eisner,Dr. Barbara Eisner,Dr.,,http://www.northsideveterinaryclinic.com/,Northside Veterinary Clinic 233 Berry St Brooklyn New York 11211  United States,Brooklyn,New York,United States,11211,(718) 387-0541 
+Mark,Ekerberg,Dr. Mark Ekerberg,Dr.,,http://www.northridgevet.com/,Northridge Veterinary Clinic & Rehabilitation 3233 N. Ridge Rd. Wichita Kansas 67205  United States,Wichita,Kansas,United States,67205,316-260-2229 
+Michelle,Elgersma,Dr. Michelle Elgersma,Dr.,,http://www.kalmeren.com/,Kalmeren Veterinary Acupuncture 25 Love Place Pittsburgh Pennsylvania 15218  United States,Pittsburgh,Pennsylvania,United States,15218,412 2469798 
+Yuko,Eguchi-Coe,Yuko Eguchi-Coe,,yukocoe@gmail.com,https://www.westhillsanimalhospital.com/,West Hills Animal Hospital DVM 430 SW 53rd St. Corvallis Oregon 97333  United States,Corvallis,Oregon,United States,97333,541 758-4509 
+Emily,Elliot,Dr. Emily Elliot,Dr.,,http://www.chippenshillvet.com/,Chippens Hill Veterinary Hospital 595 Clark Ave Bristol Connecticut 06010  United States,Bristol,Connecticut,United States,06010,860-538-9271 
+Abigail,Elliott,Dr. Abigail Elliott,Dr.,abigailmaryelliott@gmail.com,http://www.countryhillsanimalclinic.com/,Country Hills Animal Clinic 2919 Rolling Hills Road Torrance California 90505  United States,Torrance,California,United States,90505,310 539-3851 
+Tammi,Epp,Dr. Tammi Epp,Dr.,,,Healing Solutions 17536 74th Street Ottumwa Iowa 52501  United States,Ottumwa,Iowa,United States,52501,785 456-4973 
+Nancy,Elliot,Dr. Nancy D. Elliot,Dr.,,,Equine Acupuncture & Spinal Care 47 Maywood Way San Rafael California 94901  United States,San Rafael,California,United States,94901,(650) 888-4946 
+Dr,Ermeling,Dr H. Marguerite Ermeling,,,http://www.gcahlawrence.com/,Gentle Care Animal Hospital Owner 601 Kasold Drive Suite D105 Lawrence Kansas 66049  United States,Lawrence,Kansas,United States,66049,785 841-1919 
+Benjamin,Espy,Dr. Benjamin Espy,Dr.,,,"Ben Espy, DVM, DACT 310 East Wildwood San Antonio Texas 78212  United States",San Antonio,Texas,United States,78212,210-861-4765 
+Heather,Evans,Dr. Heather L. Evans,Dr.,,,All Creatures Acupuncture PO Box 50084 Minneapolis Minnesota 55405  United States,Minneapolis,Minnesota,United States,55405,612 243-0260 
+Heather,Evans,Dr. Heather N. Evans,Dr.,,,At Home Mobile Veterinary Clinic 795 Twin View Boulevard Redding California 96003  United States,Redding,California,United States,96003,530-524-7336 
+Melissa,Euchner,Dr. Melissa Euchner,Dr.,,,Salisbury Animal Hospital 1500 E Innes Street Salisbury North Carolina 28146  United States,Salisbury,North Carolina,United States,28146,704-637-0227 
+Lisanne,Evans,Dr. Lisanne Evans,Dr.,,http://www.allpetsvh.com/,All Pets Veterinary Hospital 28326 S. Western Ave Rancho Palos Verdes California 90275  United States,Rancho Palos Verdes,California,United States,90275,310-547-2784 
+Joy,Evered,Dr. Joy Evered,Dr.,jaevered@gmail.com,,26901 Panorama Court Sedro Woolley Washington 98284  United States,Sedro Woolley,Washington,United States,98284,360 878-2309 
+Katherine,Evans,Dr. Katherine Evans,Dr.,,http://www.holisticvetcenter.com/,Holistic Veterinary Center 34 West St Concord New Hampshire 3301  United States,Concord,New Hampshire,United States,3301,(603) 225-9680 
+Rocky,Fairbank,Dr. Rocky Fairbank,Dr.,docroc@ucom.net,,Western Veterinary Clinic LLC 700 West Avenue A Cimarron Kansas 67835  United States,Cimarron,Kansas,United States,67835,620 855-7741 
+Sonja,Falkenberg,Dr. Sonja Falkenberg,Dr.,versatilevet@yahoo.com,,Canada,,,Canada,,
+Leigh,Farrar,Dr. Leigh A. Farrar,Dr.,drlfarrar@icloud.com,,Whitehouse Veterinary Hospital 274 Main St. Whitehouse Station New Jersey 08889  United States,Whitehouse Station,New Jersey,United States,08889,908 534-4121 
+Christy,Farber,Dr. Christy Farber,Dr.,christyfarber@gmail.com,,United States,,,United States,,
+Emily,Falk,Dr. Emily J. Falk,Dr.,emilyfalk427@gmail.com,,Animal Hospital of Shawnee Hills 9540 Dublin Rd. Powell Ohio 43065  United States,Powell,Ohio,United States,43065,614 389-6455 
+Deneen,Fasano,Dr. Deneen Fasano,Dr.,,http://www.animalhealingsolutions.com/,,,,,,
+Elizabeth,Fernandez,Dr. Elizabeth A. Fernandez,Dr.,,http://www.acupuncture4pets.net/,Acupuncture For Pets 740 Paseo De Leon Newbury Park California 91320  United States,Newbury Park,California,United States,91320,805 2622408 
+Karyn,Fein,Dr. Karyn Fein,Dr.,karyn@dvmrehab.com,,Rocky Mountain Veterinary Rehabilitation 350 Kalamath St. Denver Colorado 80223  United States,Denver,Colorado,United States,80223,720 295-1781 
+Jeanne,Feldhaus,Dr. Jeanne Feldhaus,Dr.,,http://www.threenotch.com/,Three Notch Veterinary Hospital 44215 Airport View Drive Hollywood Maryland 20636  United States,Hollywood,Maryland,United States,20636,301-373-8633 
+Kenneth,Fischer,Dr. Kenneth Fischer,Dr.,,http://www.healingvet.com/,Hillsdale Animal Hospital 201 Broadway Hillsdale New Jersey 07642  United States,Hillsdale,New Jersey,United States,07642,201-358-6520 
+Karen,Fine,Dr. Karen Fine,Dr.,,https://karenfinedvm.com/,Fine Veterinary House Calls/Central Animal Hospital 1285 Central St Leominster Massachusetts 01453  United States,Leominster,Massachusetts,United States,01453,978 5370239 
+Chelsea,Field,Dr. Chelsea Field,Dr.,chelseafielddvm@gmail.com,,Happy Pet Acupuncture 1914 Calgary Trail Little Rock Arkansas 72211  United States,Little Rock,Arkansas,United States,72211,714 742-2208 
+Morgan,Ferrell,Dr. Morgan R. Ferrell,Dr.,mrm2286@gmail.com,,Canyon Creek Animal Clinic 2717 Custer Pkwy. Richardson Texas 75080  United States,Richardson,Texas,United States,75080,972 234-1181 
+Miriam,Fitchett,Dr. Miriam Fitchett,Dr.,,,Dr. 122 Skunk Hollow Road Chalfont Pennsylvania 18914  United States,Chalfont,Pennsylvania,United States,18914,215 659-3611 
+Anne-Marie,Fjeld,Dr. Anne-Marie Fjeld,Dr.,,,,,,,,
+Charles,Fleming,Dr. Charles A. Fleming,Dr.,catman14607@gmail.com,,Animal Integrative Medicine Rochester DVM 13 Alvin Pl. Rochester New York 14607  United States,Rochester,New York,United States,14607,585 471-1947 
+Polly,Fleckenstein,Dr. Polly Fleckenstein,Dr.,,http://www.vmccny.com/,The Veterinary Medical Center of Central NY 5841 Bridge Street E. Syracuse New York 13057  United States,E. Syracuse,New York,United States,13057,315-446-7933 
+Tim,Fleck,Dr. Tim Fleck,Dr.,,http://www.noblesvillevetclinic.com/,Noblesville Veterinary Clinic 3355 E Conner St Noblesville Indiana 46060  United States,Noblesville,Indiana,United States,46060,(317) 773-3283 
+Gerri,Fletcher,Dr. Gerri Fletcher,Dr.,anidocger@gmail.com,,United States,,,United States,,
+Margaret,Fleming,Dr. Margaret Fleming,Dr.,,,Florida Equine Acupuncture Center 21412 Field of Dreams Ln Dade City Florida 33523  United States,Dade City,Florida,United States,33523,(352) 583-2400 
+Bronwen,Foster,Dr. Bronwen L. Foster,Dr.,bronwen_dela@hotmail.com,,"Bronwen Foster Veterinary Relief Services, LLC 421 S. Howes St. #901 Fort Collins Colorado 80521  United States",Fort Collins,Colorado,United States,80521,970 290-2706 
+Sally,Football,Sally Football,,reed.adele@gmail.com,,United States,,,United States,,
+Michael,Foss,Dr. Michael Foss,Dr.,,,Alpine Veterinary Hospital PO Box 421 Hood River Oregon 97031  United States,Hood River,Oregon,United States,97031,541-386-6658 
+Janet,Forrer,Dr. Janet Forrer,Dr.,,http://www.sunrisepetclinicaz.com/,Sunrise Pet Clinic 5635 N Swan Rd Tucson Arizona 85718  United States,Tucson,Arizona,United States,85718,520 299-5044 
+Cheryl,Fox,Dr. Cheryl Fox,Dr.,,,,,,,,
+Holly,Foster,Dr. Holly Foster,Dr.,,,Acupuncture For Animals 7905 Ralston Road Unit 104 Arvada Colorado 80002  United States,Arvada,Colorado,United States,80002,303-456-4136 
+Jeanne,Fowler,Dr. Jeanne Fowler,Dr.,,http://www.holisticvetsc.com/,"All About Pets, PA. Veterinary Services 409 Old Buncombe Rd Travelers Rest South Carolina 29690  United States",Travelers Rest,South Carolina,United States,29690,864 834-7334 
+Katherine,Francis,Dr. Katherine M. Francis,Dr.,,,Haven Lake Animal Hospital 300 Milford-Harrington Highway Milford Delaware 19963  United States,Milford,Delaware,United States,19963,302 4228100 
+Richard,Fredericks,Dr. Richard Fredericks,Dr.,,,North Shore Veterinary Hospital 835 Fort Salonga Rd. Northport New York 11768  United States,Northport,New York,United States,11768,631-757-0522 
+Joni,Freshman,Dr. Joni Freshman,Dr.,,http://www.acupets.com/,Acupets Mobile Veterinary Acupuncture Peyton Colorado 80831  United States,Peyton,Colorado,United States,80831,719-749-2287 
+Joy,Fox-Beaudet,Dr. Joy E. Fox-Beaudet,Dr.,fox-beaudet@att.net,,Arcata Animal Hosptal 1300 Givntoli Ln. Arcata California 95521  United States,Arcata,California,United States,95521,707 822-5204 
+Sonja,Friedbauer,Dr. Sonja R. Friedbauer,Dr.,,,2742 NW 86 Way Coral Springs Florida 33065  United States,Coral Springs,Florida,United States,33065,954 344-5466 
+Jessica,Friedland,Dr. Jessica Friedland,Dr.,pawsofhanover@yahoo.com,,Paws Animal Hospital 1055 Baltimore St. Ste. 1 Hanover Pennsylvania 17331  United States,Hanover,Pennsylvania,United States,17331,717 633-7297 
+Matthew,Fricke,Dr. Matthew E. Fricke,Dr.,,http://mahpc.com/,,,,,,
+Samantha,Freudenthal,Dr. Samantha E. Freudenthal,Dr.,sefreud6@gmail.com,http://www.foothillsanimalclinicnc.com/,Foothills Animal Clinic Dr. 126 Cherry Mountain Street Forest City North Carolina 28043  United States,Forest City,North Carolina,United States,28043,828 248-2168 
+Howard,Friedman,Dr. Howard Friedman,Dr.,,http://www.cougarmtnvet.com/,Cougar Mountain Vet Hosp & Wellness Ctr 880 Front St. South Issaquah Washington 98027  United States,Issaquah,Washington,United States,98027,(425) 369-9291 
+Christina,Fuoco,Dr. Christina Fuoco,Dr.,,http://www.wag-philly.com/,,,,,,
+Theresa,Fuess,Dr. Theresa Fuess,Dr.,,http://www.lakehillsanimalhealth.com/,Lakehills Animal Health 8997 FM 1283 Lake Hills Texas 78063  United States,Lake Hills,Texas,United States,78063,830-751-2617 
+Carole,Fujioka,Dr. Carole Fujioka,Dr.,,,"Kilani Pet Clinic, Inc. 810 Kilani Ave Ste C Wahiawa Hawaii 96786  United States",Wahiawa,Hawaii,United States,96786,(808) 622-2607 
+Jana,Froeling,Dr. Jana L. Froeling,Dr.,fullcircleequineservice@gmail.com,http://www.fullcircleequine.com/,Full Circle Equine Service 40 Judge Rothrock Lane Amissville Virginia 20106  United States,Amissville,Virginia,United States,20106,540-937-1754 
+Jamie,Furutani,Dr. Jamie W. Furutani,Dr.,jfdvm@hawaiiantel.net,,Mililani Mauka Veterinary Clinic 95-1095 Ainamakua Drive Mililani Hawaii 96789  United States,Mililani,Hawaii,United States,96789,808 626-7600 
+Maude,Gagnon,Dr. Maude Gagnon,Dr.,maude.ga@hotmail.com,,Selkirk Veterinary Hospital Nelson British Columbia Canada,Nelson,British Columbia,Canada,,
+Marya,Gabriel,Dr. Marya V. Gabriel,Dr.,mvgabriel456@gmail.com,http://spinnakervetclinic.com/,Spinnaker Veterinary Clinic Dr. 167 County Street Somerset Massachusetts 02726  United States,Somerset,Massachusetts,United States,02726,508 673-3690 
+Dr,Gaia,Dr Bonnie Gaia,,drgaia@beaglesbay.net,,"Beagles Bay Animal Hospital Owner, Veterinarian 7 Jon St Metropolis Illinois 62960  United States",Metropolis,Illinois,United States,62960,618 524-1817 
+Jason,Galicki,Dr. Jason Galicki,Dr.,galicki60@hotmail.com,,Blackman Animal Clinic 2300 Wildwood Ave. Jackson Michigan 48202  United States,Jackson,Michigan,United States,48202,517 784-8457 
+Rene,Gandolfi,Dr. Rene C. Gandolfi,Dr.,,http://cvcah.com/,Castro Valley Companion Animal Hospital 2509 Lessley Avenue Castro Valley California 94546  United States,Castro Valley,California,United States,94546,510 5826311 
+Lawrence,Gallagher,Dr. Lawrence Gallagher,Dr.,manager@villianovavet.com,,Villianova Veterinary Hospital 275 Matsonford Rd. Wayne Pennsylvania 19087  United States,Wayne,Pennsylvania,United States,19087,610 527-7387 
+Rosemary,Ganser,Dr. Rosemary Ganser,Dr.,,,"Rosemary Ganser, VMD, LLC PO Box 420 Georgetown Connecticut 06829  United States",Georgetown,Connecticut,United States,06829,203-731-7778 
+Sherri,Gard,Dr. Sherri D. Gard,Dr.,sherrigard16@gmail.com,,The Oaks Veterinary Clinic 14204 Benns Church Road Smithfield Virginia 23430  United States,Smithfield,Virginia,United States,23430,757 365-4887 
+Jim,Garfinkel,Dr. Jim Garfinkel,Dr.,jimgdvm@email.com,,AT Farm Veterinary Services 17725 State Hwy. 49 Plymouth California 95669  United States,Plymouth,California,United States,95669,209 245-4585 
+Joanna,Gardner,Dr. Joanna L. Gardner,Dr.,doctor@joannagardnerdvm.com,http://www.joannagardnerdvm.com/,Queens New York 11101  United States,Queens,New York,United States,11101,347 306-0287 
+Margarethe,Garrett,Dr. Margarethe Garrett,Dr.,,http://www.arkveterinaryservice.com/,,,,,,
+Christina,Garloff,Dr. Christina L. Garloff,Dr.,,http://www.equinevetspecialists.com/,SoCal Equine Hospital Associate Veterinarian 875 Sixth St. Norco California 91710  United States,Norco,California,United States,91710,951 737-1615 
+Carroll,Garland,Dr. Carroll M. Garland,Dr.,carroll061666@gmail.com,http://www.shadygroveanimalclinic.com/,Shady Grove Animal Clinic 11399 Nuckols Road Glen Allen Virginia 23059  United States,Glen Allen,Virginia,United States,23059,804 421-7422 
+Anthony,George,Dr. Anthony George,Dr.,,http://dranthonygeorge.com/,,,,,,
+Jeanette,Gibson,Dr. Jeanette Gibson,Dr.,jgibsondvm@aol.com,,Noah's Ark Animal Hospital 1782 Bryan Station Rd. Lexington Kentucky 40505  United States,Lexington,Kentucky,United States,40505,859 269-0600 
+Mellissa,Geldmacher,Dr. Mellissa Geldmacher,Dr.,,,Abington Animal Hospital 19 Randolph Street Abington Massachusetts 02359  United States,Abington,Massachusetts,United States,02359,781-982-0606 
+Tetyana,Gephart,Dr. Tetyana Gephart,Dr.,Tanusha26@yahoo.com,,Balance Mobile Veterinary Clinic,,,,,208 908-9050 
+Jennifer,Gibson,Dr. Jennifer Gibson,Dr.,gibsonvet@gmail.com,,United States,,,United States,,
+Margaret,Gioseffi,Dr. Margaret Gioseffi,Dr.,,,John Steele Associates 5474 Youngs Road Vernon New York 13476  United States,Vernon,New York,United States,13476,315-829-2222 
+Carol,CVSMT,Dr. Carol Gifford DVM CVA FAAVA CVCH CVSMT,Dr.,,http://www.waldenwoodsvet.com/,,,,,,
+Clifford,Gidlund,Dr. Clifford Gidlund,Dr.,,http://village-acupuncture.com/,,,,,,
+Rosanne,Gilbert,Dr. Rosanne Gilbert,Dr.,dr.rosie@vikingveterinarycare.com,,Viking Veterinary Care 18335 NW West Union Rd. Ste. I Portland Oregon 97229  United States,Portland,Oregon,United States,97229,971 371-4024 
+Cynthia,Glover,Dr. Cynthia E. Glover,Dr.,vet@lunarpoodle.com,,Lunar Poodle Veterinary Services 14023 Ashworth Ave. N. Seattle Washington 98133  United States,Seattle,Washington,United States,98133,425 395-4815 
+Jaime,Gonzalez,Dr. Jaime Gonzalez,Dr.,,http://www.bearcreeksarasota.com/,Bear Creek Veterinary Alternatives 7509 S Tamiami Trail Sarasota Florida 34231  United States,Sarasota,Florida,United States,34231,941-312-6825 
+Yaela,Gleusteen,Dr. Yaela Gleusteen,Dr.,,,,,,,,
+Aziza,Glass,Dr. Aziza Glass,Dr.,Drg@azizaglass.com,,Personal Touch Veterinary Clinic PO Box 88261 Houston Texas 77288  United States,Houston,Texas,United States,77288,
+Jennifer,Good,Dr. Jennifer Good,Dr.,jennifer.good@uga.edu,,University of Georgia Veterinary Teaching Hospital 2200 College Station Rd. Athens Georgia 20602  United States,Athens,Georgia,United States,20602,706 542-3221 
+David,Gordon,Dr. David Gordon,Dr.,,http://www.archbeachvet.com/,Arch Beach Veterinary Clinic 2900 S. Coast Hwy Laguna Beach California 92651  United States,Laguna Beach,California,United States,92651,949 494-6583 
+Stephanie,Gorman-Trammell,Dr. Stephanie Gorman-Trammell,Dr.,stephgvet1317@gmail.com,,Animal Hospital of Ovilla 3357 Ovilla Road Ovilla Texas 75154  United States,Ovilla,Texas,United States,75154,972 617-9996 
+Joanne,Goodman,Dr. Joanne Goodman,Dr.,drgoodman@ebapethospital.com,,Evendale-Blue Ash Pet Hospital 10519 Reeding Rd. Cincinnati Ohio 45241  United States,Cincinnati,Ohio,United States,45241,513 563-0410 
+Lynelle,Graham,Dr. Lynelle Graham,Dr.,,,North Carolina State University CVM 1060 William Moore Drive Raleigh North Carolina 27607  United States,Raleigh,North Carolina,United States,27607,919-513-6937 
+Tonya,Gossard,Dr. Tonya Gossard,Dr.,tgossarddvm@gmail.com,,Kensington Veterinary Hospital 3817 Adams Ave. San Diego California 92116  United States,San Diego,California,United States,92116,619 584-8418 
+Patricia,Graham,Dr. Patricia S. Graham,Dr.,,,Wellspring Veterinary Services 1863 Kicaster Drive Floresville Texas 78114  United States,Floresville,Texas,United States,78114,(210) 387-8389 
+Pamela,Grasso,Dr. Pamela Grasso,Dr.,,http://www.lowdownvet.com/,Ashburn Farm Animal Hospital 43330 Junction Plaza Blvd. #172 Ashburn Virginia 20147  United States,Ashburn,Virginia,United States,20147,(703) 726-8784 
+Carron,Grant,Dr. Carron Grant,Dr.,,,13018 Woodstock Road Glen Allen Virginia 23059  United States,Glen Allen,Virginia,United States,23059,804-387-8971 
+Stacy,Gravelle,Dr. Stacy Gravelle,Dr.,drstacy@4seasonsequine.com,http://www.4seasonsequine.com/,Four Seasons Equine Veterinary Service Owner 16545 Cox Mill Rd Orange Virginia 22960  United States,Orange,Virginia,United States,22960,804 8544884 
+Kristina,Grewal,Dr. Kristina Grewal,Dr.,drgrewal@crestonlargeanimal.com,,Creston Veterinary Service PO Box 473 Creston California 93432  United States,Creston,California,United States,93432,805 239-9963 
+Marv,Greenberg,Dr. Marv Greenberg,Dr.,,,Monkton Vermont United States,Monkton,Vermont,United States,,
+Michele,Greer,Dr. Michele Greer,Dr.,,,,,,,,
+Gregory,Greene,Dr. Gregory Greene,Dr.,,,Greenville Delaware 19807  United States,Greenville,Delaware,United States,19807,302-463-9145 
+Patricia,Grinnell,Dr. Patricia Grinnell,Dr.,,http://www.aspetuckanimalhospital.com/,,,,,,
+Heather,Groundwater,Dr. Heather Groundwater,Dr.,hmgroundwater@gmail.com,,Banfield Pet Hospital 11101 University Ave. Ste. B Clive Iowa 50325  United States,Clive,Iowa,United States,50325,515 457-1381 
+Claude,Grosjean,Dr. Claude D. Grosjean,Dr.,,http://www.oldetowneanimalhosp.com/,Olde Towne Animal Hospital 380 County Rd. 39A Southhampton New York 11968  United States,Southhampton,New York,United States,11968,631-283-0611 
+Julia,Grossman,Dr. Julia A. Grossman,Dr.,,http://applehillanimalhospital.com/,Apple Hill Animal Hospital 407 E Royalton Road Broadview Heights Ohio 44147  United States,Broadview Heights,Ohio,United States,44147,440 5262915 
+Jose,Gutierrez,Dr. Jose Gutierrez,Dr.,,,Mexico,,,Mexico,,52 (81)19335588 
+Deborah,Grude,Dr. Deborah Grude,Dr.,,,Natural Veterinary Care 10314 Oak Ridge Rd. Marengo Illinois 60152  United States,Marengo,Illinois,United States,60152,815 260-6600 
+H.,Gurney,Dr. H. Gurney,Dr.,,http://www.moledoc.com/,Aspen Park Veterinary Hospital PO Box 222 Conifer Colorado 80433  United States,Conifer,Colorado,United States,80433,(303) 674-5048 
+Yucheng,Guan,Dr. Yucheng Guan,Dr.,gzlwyuki@163.com,,Ainuo Blessing Veterinary Hospital No. 53 Jiang Nan Dong Lu Guangzhou Guang Dong 510000  China,Guangzhou,Guang Dong,China,510000,020 34330913 
+Cori,Gross,Dr. Cori Gross,Dr.,drcorigross@yahoo.com,,Dr. Cori Gross Snohomish Washington 98290  United States,Snohomish,Washington,United States,98290,425 679-1671 
+Spring,Halland,Dr. Spring Halland,Dr.,,,Western University's College Of Veterinary Medicine 923 N. Laurel Ave. Ontario California 91762  United States,Ontario,California,United States,91762,909-469-5626 
+Ann,Hahn-Marchand,Dr. Ann M. Hahn-Marchand,Dr.,,http://www.eastwestvetmed.com/,,,,,,
+Leslie,Halsall,Dr. Leslie Halsall,Dr.,mvaofoc@gmail.com,,Mobile Integrative Veterinary Medicine Owner/Veterinarian 11331 183rd Street #1068 Cerritos California 90703  United States,Cerritos,California,United States,90703,562 5881631 
+Marna,Hall,Dr. Marna Hall,Dr.,drmarna@islandtoislandvet.com,,Island to Island Veterinary Clinic 355 Carlanna Lake Rd. Ketchikan Alaska 99901  United States,Ketchikan,Alaska,United States,99901,907 313-7911 
+Timothy,Halstead,Dr. Timothy Halstead,Dr.,,http://www.blackmananimalclinic.com/,Pusch Ridge Pet Clinic 12142 N. Rancho Vistoso Blvd. Ste. B-100 Oro Valley Arizona 85755  United States,Oro Valley,Arizona,United States,85755,520 818-3313 
+Amy,Hamm,Dr. Amy Hamm,Dr.,anachille@gmail.com,,Hometown Animal Hospital 1255 NE 3rd St. Prineville Oregon 97754  United States,Prineville,Oregon,United States,97754,541 447-5219 
+Ingrid,Hamann,Dr. Ingrid Hamann,Dr.,,,,,,,,
+Sara,Hamilton,Dr. Sara J. Hamilton,Dr.,sarajhamilton@gmail.com,,Southgate Animal Hospital Sarasota Florida United States,Sarasota,Florida,United States,,
+Elizabeth,Hardoon,Dr. Elizabeth Hardoon,Dr.,wpah207@gmail.com,http://willistonparkanimalhospital.com/,Williston Park Animal Hospital Doctor 207 Hillside Ave Williston Park New York 11596  United States,Williston Park,New York,United States,11596,516 2481489 
+John,Hanover,Dr. John Hanover,Dr.,,,The Animal Hospital of Gurnee 38028 N Dilleys Rd Wadsworth Illinois 60083  United States,Wadsworth,Illinois,United States,60083,(847) 997-4401 
+Kelsey,Hanson,Dr. Kelsey E. Hanson,Dr.,khansondvm@gmail.com,,Crossroads Animal Hospital 466 Hwy. 6 West Oxford Mississippi 38655  United States,Oxford,Mississippi,United States,38655,662 234-2928 
+Sarah,Hann,Dr. Sarah Hann,Dr.,sdh39@cornell.edu,http://gallatinveterinaryhospital.com/,DVM 1635 Reeves Rd. East Bozeman Montana 59718  United States,Bozeman,Montana,United States,59718,406 587-4458 
+Wendy,Harris,Dr. Wendy Harris,Dr.,,,,,,,,
+Joyce,Harman,Dr. Joyce Harman,Dr.,,http://harmanyequine.com/,Harmany Equine Clinic 1214 North Poes Road Flint Hill Virginia 22627  United States,Flint Hill,Virginia,United States,22627,540-229-1855 
+Carissa,Harold,Dr. Carissa Harold,Dr.,,,Mustang Animal Health Clinic 130 E Hwy 152 Mustang Oklahoma 73064  United States,Mustang,Oklahoma,United States,73064,405-376-4556 
+Laura,Hardy,Dr. Laura B. Hardy,Dr.,laurabhardy@gmail.com,,Pawsitive Wellness Veterinary Care DVM 2759 Shadow View Dr. Eugene Oregon 97408  United States,Eugene,Oregon,United States,97408,541 515-6789 
+Cori,Gross,Dr. Cori Gross,Dr.,drcorigross@yahoo.com,,Dr. Cori Gross Snohomish Washington 98290  United States,Snohomish,Washington,United States,98290,425 679-1671 
+Julia,Grossman,Dr. Julia A. Grossman,Dr.,,http://applehillanimalhospital.com/,Apple Hill Animal Hospital 407 E Royalton Road Broadview Heights Ohio 44147  United States,Broadview Heights,Ohio,United States,44147,440 5262915 
+Claude,Grosjean,Dr. Claude D. Grosjean,Dr.,,http://www.oldetowneanimalhosp.com/,Olde Towne Animal Hospital 380 County Rd. 39A Southhampton New York 11968  United States,Southhampton,New York,United States,11968,631-283-0611 
+Heather,Groundwater,Dr. Heather Groundwater,Dr.,hmgroundwater@gmail.com,,Banfield Pet Hospital 11101 University Ave. Ste. B Clive Iowa 50325  United States,Clive,Iowa,United States,50325,515 457-1381 
+Jose,Gutierrez,Dr. Jose Gutierrez,Dr.,,,Mexico,,,Mexico,,52 (81)19335588 
+H.,Gurney,Dr. H. Gurney,Dr.,,http://www.moledoc.com/,Aspen Park Veterinary Hospital PO Box 222 Conifer Colorado 80433  United States,Conifer,Colorado,United States,80433,(303) 674-5048 
+Yucheng,Guan,Dr. Yucheng Guan,Dr.,gzlwyuki@163.com,,Ainuo Blessing Veterinary Hospital No. 53 Jiang Nan Dong Lu Guangzhou Guang Dong 510000  China,Guangzhou,Guang Dong,China,510000,020 34330913 
+Deborah,Grude,Dr. Deborah Grude,Dr.,,,Natural Veterinary Care 10314 Oak Ridge Rd. Marengo Illinois 60152  United States,Marengo,Illinois,United States,60152,815 260-6600 
+Spring,Halland,Dr. Spring Halland,Dr.,,,Western University's College Of Veterinary Medicine 923 N. Laurel Ave. Ontario California 91762  United States,Ontario,California,United States,91762,909-469-5626 
+Ann,Hahn-Marchand,Dr. Ann M. Hahn-Marchand,Dr.,,http://www.eastwestvetmed.com/,,,,,,
+Marna,Hall,Dr. Marna Hall,Dr.,drmarna@islandtoislandvet.com,,Island to Island Veterinary Clinic 355 Carlanna Lake Rd. Ketchikan Alaska 99901  United States,Ketchikan,Alaska,United States,99901,907 313-7911 
+Leslie,Halsall,Dr. Leslie Halsall,Dr.,mvaofoc@gmail.com,,Mobile Integrative Veterinary Medicine Owner/Veterinarian 11331 183rd Street #1068 Cerritos California 90703  United States,Cerritos,California,United States,90703,562 5881631 
+Ingrid,Hamann,Dr. Ingrid Hamann,Dr.,,,,,,,,
+Amy,Hamm,Dr. Amy Hamm,Dr.,anachille@gmail.com,,Hometown Animal Hospital 1255 NE 3rd St. Prineville Oregon 97754  United States,Prineville,Oregon,United States,97754,541 447-5219 
+Sara,Hamilton,Dr. Sara J. Hamilton,Dr.,sarajhamilton@gmail.com,,Southgate Animal Hospital Sarasota Florida United States,Sarasota,Florida,United States,,
+Timothy,Halstead,Dr. Timothy Halstead,Dr.,,http://www.blackmananimalclinic.com/,Pusch Ridge Pet Clinic 12142 N. Rancho Vistoso Blvd. Ste. B-100 Oro Valley Arizona 85755  United States,Oro Valley,Arizona,United States,85755,520 818-3313 
+John,Hanover,Dr. John Hanover,Dr.,,,The Animal Hospital of Gurnee 38028 N Dilleys Rd Wadsworth Illinois 60083  United States,Wadsworth,Illinois,United States,60083,(847) 997-4401 
+Elizabeth,Hardoon,Dr. Elizabeth Hardoon,Dr.,wpah207@gmail.com,http://willistonparkanimalhospital.com/,Williston Park Animal Hospital Doctor 207 Hillside Ave Williston Park New York 11596  United States,Williston Park,New York,United States,11596,516 2481489 
+Sarah,Hann,Dr. Sarah Hann,Dr.,sdh39@cornell.edu,http://gallatinveterinaryhospital.com/,DVM 1635 Reeves Rd. East Bozeman Montana 59718  United States,Bozeman,Montana,United States,59718,406 587-4458 
+Kelsey,Hanson,Dr. Kelsey E. Hanson,Dr.,khansondvm@gmail.com,,Crossroads Animal Hospital 466 Hwy. 6 West Oxford Mississippi 38655  United States,Oxford,Mississippi,United States,38655,662 234-2928 
+Joyce,Harman,Dr. Joyce Harman,Dr.,,http://harmanyequine.com/,Harmany Equine Clinic 1214 North Poes Road Flint Hill Virginia 22627  United States,Flint Hill,Virginia,United States,22627,540-229-1855 
+Wendy,Harris,Dr. Wendy Harris,Dr.,,,,,,,,
+Laura,Hardy,Dr. Laura B. Hardy,Dr.,laurabhardy@gmail.com,,Pawsitive Wellness Veterinary Care DVM 2759 Shadow View Dr. Eugene Oregon 97408  United States,Eugene,Oregon,United States,97408,541 515-6789 
+Carissa,Harold,Dr. Carissa Harold,Dr.,,,Mustang Animal Health Clinic 130 E Hwy 152 Mustang Oklahoma 73064  United States,Mustang,Oklahoma,United States,73064,405-376-4556 
+Tracey,Haslitt,Dr. Tracey M. Haslitt,Dr.,,http://www.vetspeciality.com/,Veterinary Specialty Center 1515 Busch Parkway Buffalo Grove Illinois 60089  United States,Buffalo Grove,Illinois,United States,60089,847 4597535 
+Maribeth,Hartwick,Dr. Maribeth C. Hartwick,Dr.,blackdogdvm@aol.com,,Westwood Regional Veterinary Hospital 346 Kinderkamack Road Westwood New Jersey 07675  United States,Westwood,New Jersey,United States,07675,201 885-5040 
+Elizabeth,Hassinger,Dr. Elizabeth Hassinger,Dr.,,http://www.wolfrockanimals.com/,Wolf Rock Animal Health Center 710 S County Trail Exeter Rhode Island 02822  United States,Exeter,Rhode Island,United States,02822,(401) 294-0102 
+John,Harthorn,Dr. John Harthorn,Dr.,,,Alternative Equine Clinic 2176 Brush Run Rd Avella Pennsylvania 15312  United States,Avella,Pennsylvania,United States,15312,724-345-3350 
+Jenna,Hauck,Dr. Jenna Hauck,Dr.,jenna.hauck@vetacuwellness.com,,Veterinary Acupuncture and Wellness 480 Osceola Ave. Jacksonville Beach Florida 32250  United States,Jacksonville Beach,Florida,United States,32250,904 403-8222 
+Fatima,Hayes,Dr. Fatima Kimiyo Kimitsuka Hayes,Dr.,ninakijo@gmail.com,http://24thstreetanimalclinic.com/,24th Street Animal Clinic 3258 South 24th Street Omaha Nebraska 68108  United States,Omaha,Nebraska,United States,68108,402 345-2211 
+Piper,Hays,Dr. Piper C. Hays,Dr.,drpch@eastsideanimal.com,http://www.eastsideanimal.com/,Eastside Animal Hospital Dr. 1623 E. 10th Street Jeffersonville Indiana 47130  United States,Jeffersonville,Indiana,United States,47130,812 282-3855 
+Jessica,Hathaway,Dr. Jessica L. Hathaway,Dr.,drhathaway.floridawild@gmail.com,,FloridaWild Veterinary Hospital 115 E. Euclid DeLand Florida 32724  United States,DeLand,Florida,United States,32724,386 734-9899 
+Don,Heinert,Dr. Don M. Heinert,Dr.,,,Natural Animal Veterinary Clinic 42 Waterford St. Union City Pennsylvania 16438  United States,Union City,Pennsylvania,United States,16438,(814) 438-3800 
+Nathan,Heilman,Dr. Nathan Heilman,Dr.,,http://www.qiveterinaryclinic.com/,Qi Veterinary Clinic 1333 Shelburne Road South Burlington Vermont 05403  United States,South Burlington,Vermont,United States,05403,802 951-8800 
+Bryan,Hayter,Dr. Bryan W. Hayter,Dr.,hayter.brian@gmail.com,,Tustana Animal Hospital 1142 El Camino Real Tustin California 92780  United States,Tustin,California,United States,92780,714 544-4440 
+Donna,Hein,Dr. Donna Hein,Dr.,,http://www.acu-vet.net/,The Healing Point Veterinary Acupuncture 23623 Indian Hills Circle Tomball Texas 77377  United States,Tomball,Texas,United States,77377,281-770-7915 
+Heidi,Hemmett,Dr. Heidi Hemmett,Dr.,,https://www.healthybalancevet.com/,Healthy Balance Veterinary Acupuncture Veterinarian/ Owner 1555 Classen Drive Belleville Illinois 62220  United States,Belleville,Illinois,United States,62220,618 972-8683 
+Jessie,Hennessey,Dr. Jessie Hennessey,Dr.,j.hennessey2013@gmail.com,,Great Lakes Integrative Veterinary Care 9496 Norwalk Rd. Litchfield Ohio 44253  United States,Litchfield,Ohio,United States,44253,216 802-8820 
+Kimberly,Henneman,Dr. Kimberly Henneman,Dr.,,http://animalhealthoptionsvet.com/,,,,,,
+Victoria,Hekman,Dr. Victoria M. Hekman,Dr.,v.hek86@gmail.com,,Cascade Hospital for Animals 6730 Cascade Rd. SE Grand Rapids Michigan 49546  United States,Grand Rapids,Michigan,United States,49546,616 949-0960 
+Holly,Henseler,Dr. Holly Henseler,Dr.,,http://www.accofpahrump.com/,Animal Care Center of Pahrump PO Box 819 Pahrump Nevada 89041  United States,Pahrump,Nevada,United States,89041,775 764-0332 
+Mary,Herrera,Dr. Mary E. Herrera,Dr.,,http://www.sutherlinvethospital.com/,Sutherlin Veterinary Hospital 702 W. Central Avenue Sutherlin Washington 97479  United States,Sutherlin,Washington,United States,97479,541 459-9577 
+Christina,Herejk,Dr. Christina Herejk,Dr.,cherejk@gmail.com,,Royal Palm Veterinary Center 610 Royal Palm Beach Blvd. Royal Palm Beach Florida 33411  United States,Royal Palm Beach,Florida,United States,33411,561 793-7000 
+Diane,Henney-Clark,Dr. Diane Henney-Clark,Dr.,,http://www.omvets.com/,Orchard Mesa Veterinary Hospital 2668 Highway 50 Grand Junction Colorado 81503  United States,Grand Junction,Colorado,United States,81503,970-241-9866 
+Marie,Higel,Dr. Marie Higel,Dr.,mariehigeldvm@gmail.com,,Rock Creek Animal Hospital 1445 NW 185th Ave. Aloha Oregon 97006  United States,Aloha,Oregon,United States,97006,503 645-4458 
+Christine,Hinze,Dr. Christine Hinze,Dr.,,,Galveston Texas 77550  United States,Galveston,Texas,United States,77550,409 457-2438 
+Amy,Hiebert,Dr. Amy Hiebert,Dr.,amy.hiebert@gmail.com,,Hawks Prairie Veterinary Hospital 8919 Martin Way E. Lacey Washington 98516  United States,Lacey,Washington,United States,98516,360 459-6556 
+John,Jr..,Dr. John F. Herrity Jr..,Dr.,jfherrity@gmail.com,http://www.burkeanimal.com/,Burke Animal Clinic 6307 Lee Chapel Road Burke Virginia 22015  United States,Burke,Virginia,United States,22015,703 569-9600 
+Stephanie,Hobbs,Dr. Stephanie Hobbs,Dr.,,,Equine Medical & Acupuncture Center 2569 N. Rocky River Road Lancaster South Carolina 29720  United States,Lancaster,South Carolina,United States,29720,803 517-8785 
+Doreen,Hock,Dr. Doreen Hock,Dr.,,,,,,,,
+Seychelle,Hoffer,Dr. Seychelle Hoffer,Dr.,,http://www.atlanticanimalhospital.com/,Atlantic Animal Hospital & Wellness Center 5001B South County Trail Charlestown Rhode Island 02813  United States,Charlestown,Rhode Island,United States,02813,401-473-5326 
+Hunter,Hodges,Dr. Hunter Hodges,Dr.,,http://www.hodgesvet.com/,Hodges Integrative Veterinary Services 1004 Olive Street Greensboro North Carolina 27401  United States,Greensboro,North Carolina,United States,27401,336 9081771 
+Jane,Hodges,Dr. Jane Hodges,Dr.,drjanie@luxvetcare.com,,"Luxury Veterinary Care 13901 Midway, Ste. 102-357 Farmers Branch Texas 75244  United States",Farmers Branch,Texas,United States,75244,469 644-4275 
+Kristina,Hogg,Dr. Kristina Hogg,Dr.,dancingdogacupuncture@gmail.com,http://http//www.dancingdogacupuncture.com/,Dancing Dog Acupuncture Owner 6308 NE Rodney Ave Portland Oregon 97211  United States,Portland,Oregon,United States,97211,503 3454750 
+Todd,Holbrook,Dr. Todd Holbrook,Dr.,todd.c.holbrook@okstate.edu,,18051 Deer Ridge Stillwater Oklahoma 74075  United States,Stillwater,Oklahoma,United States,74075,
+Timothy,Holt,Dr. Timothy Holt,Dr.,,,,,,,,
+Stephanie,Holloway,Dr. Stephanie Holloway,Dr.,sdbholloway@gmail.com,,Range Animal Hospital E 6116 US 2 Ironwood Michigan 49938  United States,Ironwood,Michigan,United States,49938,906 932-3531 
+Karen,Hooks,Dr. Karen Hooks,Dr.,KarenHooksDVM@animaloptions.com,,,,,,,501 223-5400 
+Katie,Hom,Dr. Katie Hom,Dr.,,http://eaglerivervet.com/,,,,,,
+Molly,Hopp,Dr. Molly M. Hopp,Dr.,mollyvanbommel@gmail.com,,"Wisconsin Veterinary Referral Center DVM, CVA 360 Bluemound Rd. Waukesha Wisconsin 53188  United States",Waukesha,Wisconsin,United States,53188,920 5793502 
+Sara,Hopkins,Dr. Sara Hopkins,Dr.,,http://www.compassion4paws.com/,Compassion 4 Paws PO Box 1896 Edmonds Washington 98020  United States,Edmonds,Washington,United States,98020,425-802-2444 
+Amy,Horlings,Dr. Amy M. Horlings,Dr.,amyhorlings@yahoo.com,,Powell Boulevard Veterinary Center 3654 SE Powell Blvd. Portland Oregon 97202  United States,Portland,Oregon,United States,97202,503 236-1834 
+Kelly,Horgan,Dr. Kelly M. Horgan,Dr.,khorgan87@hotmail.com,,United States,,,United States,,
+Christina,Howard,Dr. Christina Howard,Dr.,,,Lap of Love Washington United States,,Washington,United States,,
+Leilani,Hotaling,Dr. Leilani Hotaling,Dr.,,,Minnetonka Animal Hospital 17408 Minnetonka Blvd Minnetonka Minnesota 55345  United States,Minnetonka,Minnesota,United States,55345,(952) 473-1239 
+Allison,Howell,Dr. Allison M. Howell,Dr.,,,,,,,,
+Susan,Howell,Dr. Susan J. Howell,Dr.,drsue@thrivepetvet.com,http://www.thrivepetvet.com/,"Thrive Wholistic Veterinary Care Veterinarian/Owner 188 S. Main Street, 188 S. Main Street Thiensville Wisconsin 53092  United States",Thiensville,Wisconsin,United States,53092,262 2891028 
+Julia,Howland,Dr. Julia Howland,Dr.,jhawlanddvm@gmail.com,,United States,,,United States,,
+Darcy,Hoyt,Dr. Darcy Hoyt,Dr.,,,,,,,,
+Thomas,Hufnagel,Dr. Thomas Hufnagel,Dr.,,,Hufnagel Veterinary Clinic 374 Perry Hwy Harmony Pennsylvania 16037  United States,Harmony,Pennsylvania,United States,16037,724-452-0910 
+Benjamin,Huelsbergen,Dr. Benjamin Huelsbergen,Dr.,,,,,,,,
+Gerald,Huff,Dr. Gerald Huff,Dr.,,,Gerald K. Huff 2480 N Decatur Blvd Las Vegas Nevada 89108  United States,Las Vegas,Nevada,United States,89108,(702) 647-6234 
+Stacey,Huber,Dr. Stacey A. Huber,Dr.,drstaceyh@gmail.com,,14753 Snowcrest Dr. Broomfield Colorado 80023  United States,Broomfield,Colorado,United States,80023,
+Kate,Huggler-Rubin,Dr. Kate Huggler-Rubin,Dr.,drhuggler@onpointvetacupuncture.com,http://www.onpointveterinary.com/,On Point Veterinary Services PLLC Veterinarian 247 Wellington Ave Rochester New York 14611  United States,Rochester,New York,United States,14611,
+Doreen,Hock,Dr. Doreen Hock,Dr.,,,,,,,,
+Hunter,Hodges,Dr. Hunter Hodges,Dr.,,http://www.hodgesvet.com/,Hodges Integrative Veterinary Services 1004 Olive Street Greensboro North Carolina 27401  United States,Greensboro,North Carolina,United States,27401,336 9081771 
+Seychelle,Hoffer,Dr. Seychelle Hoffer,Dr.,,http://www.atlanticanimalhospital.com/,Atlantic Animal Hospital & Wellness Center 5001B South County Trail Charlestown Rhode Island 02813  United States,Charlestown,Rhode Island,United States,02813,401-473-5326 
+Jane,Hodges,Dr. Jane Hodges,Dr.,drjanie@luxvetcare.com,,"Luxury Veterinary Care 13901 Midway, Ste. 102-357 Farmers Branch Texas 75244  United States",Farmers Branch,Texas,United States,75244,469 644-4275 
+Timothy,Holt,Dr. Timothy Holt,Dr.,,,,,,,,
+Stephanie,Holloway,Dr. Stephanie Holloway,Dr.,sdbholloway@gmail.com,,Range Animal Hospital E 6116 US 2 Ironwood Michigan 49938  United States,Ironwood,Michigan,United States,49938,906 932-3531 
+Kristina,Hogg,Dr. Kristina Hogg,Dr.,dancingdogacupuncture@gmail.com,http://http//www.dancingdogacupuncture.com/,Dancing Dog Acupuncture Owner 6308 NE Rodney Ave Portland Oregon 97211  United States,Portland,Oregon,United States,97211,503 3454750 
+Todd,Holbrook,Dr. Todd Holbrook,Dr.,todd.c.holbrook@okstate.edu,,18051 Deer Ridge Stillwater Oklahoma 74075  United States,Stillwater,Oklahoma,United States,74075,
+Katie,Hom,Dr. Katie Hom,Dr.,,http://eaglerivervet.com/,,,,,,
+Karen,Hooks,Dr. Karen Hooks,Dr.,KarenHooksDVM@animaloptions.com,,,,,,,501 223-5400 
+Molly,Hopp,Dr. Molly M. Hopp,Dr.,mollyvanbommel@gmail.com,,"Wisconsin Veterinary Referral Center DVM, CVA 360 Bluemound Rd. Waukesha Wisconsin 53188  United States",Waukesha,Wisconsin,United States,53188,920 5793502 
+Sara,Hopkins,Dr. Sara Hopkins,Dr.,,http://www.compassion4paws.com/,Compassion 4 Paws PO Box 1896 Edmonds Washington 98020  United States,Edmonds,Washington,United States,98020,425-802-2444 
+Kelly,Horgan,Dr. Kelly M. Horgan,Dr.,khorgan87@hotmail.com,,United States,,,United States,,
+Leilani,Hotaling,Dr. Leilani Hotaling,Dr.,,,Minnetonka Animal Hospital 17408 Minnetonka Blvd Minnetonka Minnesota 55345  United States,Minnetonka,Minnesota,United States,55345,(952) 473-1239 
+Amy,Horlings,Dr. Amy M. Horlings,Dr.,amyhorlings@yahoo.com,,Powell Boulevard Veterinary Center 3654 SE Powell Blvd. Portland Oregon 97202  United States,Portland,Oregon,United States,97202,503 236-1834 
+Christina,Howard,Dr. Christina Howard,Dr.,,,Lap of Love Washington United States,,Washington,United States,,
+Allison,Howell,Dr. Allison M. Howell,Dr.,,,,,,,,
+Darcy,Hoyt,Dr. Darcy Hoyt,Dr.,,,,,,,,
+Susan,Howell,Dr. Susan J. Howell,Dr.,drsue@thrivepetvet.com,http://www.thrivepetvet.com/,"Thrive Wholistic Veterinary Care Veterinarian/Owner 188 S. Main Street, 188 S. Main Street Thiensville Wisconsin 53092  United States",Thiensville,Wisconsin,United States,53092,262 2891028 
+Julia,Howland,Dr. Julia Howland,Dr.,jhawlanddvm@gmail.com,,United States,,,United States,,
+Benjamin,Huelsbergen,Dr. Benjamin Huelsbergen,Dr.,,,,,,,,
+Stacey,Huber,Dr. Stacey A. Huber,Dr.,drstaceyh@gmail.com,,14753 Snowcrest Dr. Broomfield Colorado 80023  United States,Broomfield,Colorado,United States,80023,
+Thomas,Hufnagel,Dr. Thomas Hufnagel,Dr.,,,Hufnagel Veterinary Clinic 374 Perry Hwy Harmony Pennsylvania 16037  United States,Harmony,Pennsylvania,United States,16037,724-452-0910 
+Gerald,Huff,Dr. Gerald Huff,Dr.,,,Gerald K. Huff 2480 N Decatur Blvd Las Vegas Nevada 89108  United States,Las Vegas,Nevada,United States,89108,(702) 647-6234 
+Kate,Huggler-Rubin,Dr. Kate Huggler-Rubin,Dr.,drhuggler@onpointvetacupuncture.com,http://www.onpointveterinary.com/,On Point Veterinary Services PLLC Veterinarian 247 Wellington Ave Rochester New York 14611  United States,Rochester,New York,United States,14611,
+Doreen,Hock,Dr. Doreen Hock,Dr.,,,,,,,,
+Seychelle,Hoffer,Dr. Seychelle Hoffer,Dr.,,http://www.atlanticanimalhospital.com/,Atlantic Animal Hospital & Wellness Center 5001B South County Trail Charlestown Rhode Island 02813  United States,Charlestown,Rhode Island,United States,02813,401-473-5326 
+Jane,Hodges,Dr. Jane Hodges,Dr.,drjanie@luxvetcare.com,,"Luxury Veterinary Care 13901 Midway, Ste. 102-357 Farmers Branch Texas 75244  United States",Farmers Branch,Texas,United States,75244,469 644-4275 
+Hunter,Hodges,Dr. Hunter Hodges,Dr.,,http://www.hodgesvet.com/,Hodges Integrative Veterinary Services 1004 Olive Street Greensboro North Carolina 27401  United States,Greensboro,North Carolina,United States,27401,336 9081771 
+Stephanie,Holloway,Dr. Stephanie Holloway,Dr.,sdbholloway@gmail.com,,Range Animal Hospital E 6116 US 2 Ironwood Michigan 49938  United States,Ironwood,Michigan,United States,49938,906 932-3531 
+Timothy,Holt,Dr. Timothy Holt,Dr.,,,,,,,,
+Todd,Holbrook,Dr. Todd Holbrook,Dr.,todd.c.holbrook@okstate.edu,,18051 Deer Ridge Stillwater Oklahoma 74075  United States,Stillwater,Oklahoma,United States,74075,
+Kristina,Hogg,Dr. Kristina Hogg,Dr.,dancingdogacupuncture@gmail.com,http://http//www.dancingdogacupuncture.com/,Dancing Dog Acupuncture Owner 6308 NE Rodney Ave Portland Oregon 97211  United States,Portland,Oregon,United States,97211,503 3454750 
+Katie,Hom,Dr. Katie Hom,Dr.,,http://eaglerivervet.com/,,,,,,
+Karen,Hooks,Dr. Karen Hooks,Dr.,KarenHooksDVM@animaloptions.com,,,,,,,501 223-5400 
+Molly,Hopp,Dr. Molly M. Hopp,Dr.,mollyvanbommel@gmail.com,,"Wisconsin Veterinary Referral Center DVM, CVA 360 Bluemound Rd. Waukesha Wisconsin 53188  United States",Waukesha,Wisconsin,United States,53188,920 5793502 
+Sara,Hopkins,Dr. Sara Hopkins,Dr.,,http://www.compassion4paws.com/,Compassion 4 Paws PO Box 1896 Edmonds Washington 98020  United States,Edmonds,Washington,United States,98020,425-802-2444 
+Amy,Horlings,Dr. Amy M. Horlings,Dr.,amyhorlings@yahoo.com,,Powell Boulevard Veterinary Center 3654 SE Powell Blvd. Portland Oregon 97202  United States,Portland,Oregon,United States,97202,503 236-1834 
+Kelly,Horgan,Dr. Kelly M. Horgan,Dr.,khorgan87@hotmail.com,,United States,,,United States,,
+Christina,Howard,Dr. Christina Howard,Dr.,,,Lap of Love Washington United States,,Washington,United States,,
+Leilani,Hotaling,Dr. Leilani Hotaling,Dr.,,,Minnetonka Animal Hospital 17408 Minnetonka Blvd Minnetonka Minnesota 55345  United States,Minnetonka,Minnesota,United States,55345,(952) 473-1239 
+Julia,Howland,Dr. Julia Howland,Dr.,jhawlanddvm@gmail.com,,United States,,,United States,,
+Susan,Howell,Dr. Susan J. Howell,Dr.,drsue@thrivepetvet.com,http://www.thrivepetvet.com/,"Thrive Wholistic Veterinary Care Veterinarian/Owner 188 S. Main Street, 188 S. Main Street Thiensville Wisconsin 53092  United States",Thiensville,Wisconsin,United States,53092,262 2891028 
+Allison,Howell,Dr. Allison M. Howell,Dr.,,,,,,,,
+Darcy,Hoyt,Dr. Darcy Hoyt,Dr.,,,,,,,,
+Gerald,Huff,Dr. Gerald Huff,Dr.,,,Gerald K. Huff 2480 N Decatur Blvd Las Vegas Nevada 89108  United States,Las Vegas,Nevada,United States,89108,(702) 647-6234 
+Thomas,Hufnagel,Dr. Thomas Hufnagel,Dr.,,,Hufnagel Veterinary Clinic 374 Perry Hwy Harmony Pennsylvania 16037  United States,Harmony,Pennsylvania,United States,16037,724-452-0910 
+Stacey,Huber,Dr. Stacey A. Huber,Dr.,drstaceyh@gmail.com,,14753 Snowcrest Dr. Broomfield Colorado 80023  United States,Broomfield,Colorado,United States,80023,
+Benjamin,Huelsbergen,Dr. Benjamin Huelsbergen,Dr.,,,,,,,,
+Kate,Huggler-Rubin,Dr. Kate Huggler-Rubin,Dr.,drhuggler@onpointvetacupuncture.com,http://www.onpointveterinary.com/,On Point Veterinary Services PLLC Veterinarian 247 Wellington Ave Rochester New York 14611  United States,Rochester,New York,United States,14611,
+Kimberly,Huppe,Dr. Kimberly Huppe,Dr.,,http://www.upandrunningrehab.com/,Aron Lake Animal Clinic 124 Miller Road Aron Lake Ohio 44012  United States,Aron Lake,Ohio,United States,44012,440-933-5297 
+Tamra,Hunt,Dr. Tamra E. Hunt,Dr.,tamiehunt@gmail.com,,House Paws Austin Mobile Vet United States,,,United States,,512 745-1296 
+Sara,Hutchings,Dr. Sara K. Hutchings,Dr.,shutchings@lowercapevet.com,,Herring Cove Animal Hospital 83A Shank Painter Rd. Provincetown Massachusetts 02657  United States,Provincetown,Massachusetts,United States,02657,508 487-6449 
+Jade,Huynh,Dr. Jade Huynh,Dr.,jhuynhdvm@gmail.com,,United Vet 905 Dell Ave. Campbell California 95008  United States,Campbell,California,United States,95008,408 371-6252 
+Bart,Iaia,Dr. Bart Iaia,Dr.,,http://www.evergreenpethospital.com/,,,,,,
+Bethany,Innis,Dr. Bethany S. Innis,Dr.,,http://www.sleepydog.vet/,Sleepy Dog Veterinary 114 Massachusetts Ave Arlington Massachusetts 02474  United States,Arlington,Massachusetts,United States,02474,781 6432162 
+Yann-Ching,Hwang,Yann-Ching Hwang,,,,,,,,,
+Nancy,Isbell,Dr. Nancy Isbell,Dr.,,http://www.belltownevetcenter.com/,Belltowne Veterinary Center 24161 NE State Hwy 3 Belfair Washington 98528  United States,Belfair,Washington,United States,98528,360-277-3800 
+Richard,Jackson,Dr. Richard Jackson,Dr.,,,Animal Medical Center 1525 Grass Valley Hwy. Auburn California 95602  United States,Auburn,California,United States,95602,530-823-5166 
+Hayley,Jackson,Dr. Hayley Jackson,Dr.,,,Rio Grande Animal Acupuncture Albuquerque New Mexico 87031  United States,Albuquerque,New Mexico,United States,87031,505 5089905 
+Dr,Jackson,Dr Peter Jackson,,pjxndvm@aol.com,,Lifetime Veterinary Care 11999 Cleveland Ave Suite E Nunica Michigan 49448  United States,Nunica,Michigan,United States,49448,616 837-0700 
+Penelope,Jacobs,Dr. Penelope Jacobs,Dr.,,http://berryhillcenter.com/,"Berry Hill Veterinary Center 418 Beavercreek Rd, Ste 101 Oregon City Oregon 97045  United States",Oregon City,Oregon,United States,97045,503-650-1667 
+Kim,Jacobi,Dr. Kim Jacobi,Dr.,luvu_k@hotmail.com,,South Towns Animal Hospital 154 Orchard Park Road West Seneca New York 14224  United States,West Seneca,New York,United States,14224,716 824-4108 
+Matt,Januszewski,Dr. Matt Januszewski,Dr.,,http://www.integrativeveterinaryservices.com/,Integrative Veterinary Services 1122 S. Michigan Ave. Howell Michigan 48843  United States,Howell,Michigan,United States,48843,(517) 292-8880 
+Hollyann,Johnson,Dr. Hollyann Johnson,Dr.,,,,,,,,
+Blake,Johnson,Dr. Blake Johnson,Dr.,,http://www.interlakencentre.com/,Interlaken Centre 8750 Hwy 5 Waconia Minnesota 55387  United States,Waconia,Minnesota,United States,55387,(952) 442-4421 
+Kelly,Jensen,Dr. Kelly Jensen,Dr.,,,,,,,,
+Rachael,Jones,Dr. Rachael Jones,Dr.,,http://southlanevet.com/,,,,,,
+Jennifer,Johnson,Dr. Jennifer Johnson,Dr.,jen4health2016@gmail.com,,"McConnellsburg Veterinary Clinic, LLC 163 Reservoir Rd. McConnellsburg Pennsylvania 17233  United States",McConnellsburg,Pennsylvania,United States,17233,717 485-3552 
+Renea,Johnson,Dr. Renea Johnson,Dr.,,,"V Renea Johnson DVM, CVA, Inc. PO Box 4844 Culver City California 90231  United States",Culver City,California,United States,90231,310 503-1404 
+Patricia,Jolie-Zotzmann,Dr. Patricia Jolie-Zotzmann,Dr.,pati1959vet@earthlink.net,,Hearthstone Veterinary Hospital 826 Route 29 Saratoga Springs New York 12866  United States,Saratoga Springs,New York,United States,12866,518 583-1117 
+Dr,Jordan,Dr Karen Jordan,,karen@drjmobilevet.com,,"DVM,CVA 146 Martin Luther King Jr Blvd #306 Monroe Georgia 30655  United States",Monroe,Georgia,United States,30655,770 8764144 
+Irene,Juaristic,Dr. Irene Juaristic,Dr.,dr.juaristic@gmail.com,,Andote Animal Hospital 1840 ALT 19S Tarpon Springs Florida 34689  United States,Tarpon Springs,Florida,United States,34689,727 934-0814 
+Victoria,Jordan,Dr. Victoria Jordan,Dr.,,http://www.kensingtonvet.com/,Kensington Veterinary Hospital 3817 Adams Ave San Diego California 92116  United States,San Diego,California,United States,92116,(619) 584-8418 
+Samantha,Judge,Dr. Samantha L. Judge,Dr.,samantha_judge@hotmail.com,,Eagles Nest Animal Hospital 7955 Kings Highway King George Virginia 22485  United States,King George,Virginia,United States,22485,540 775-6800 
+Jeffrey,Judkins,Dr. Jeffrey Judkins,Dr.,,http://www.animalkindvet.com/,PO Box 835 Jacksonville Oregon 97530  United States,Jacksonville,Oregon,United States,97530,541 702-2288 
+Christine,Jurek,Dr. Christine Jurek,Dr.,,,,,,,,
+Mary,Kahan,Dr. Mary Kahan,Dr.,,,PO Box 159 Byfield Massachusetts 1922  United States,Byfield,Massachusetts,United States,1922,978 462-5553 
+Shantel,Julius,Dr. Shantel Julius,Dr.,,http://www.juliusdvm.com/,Julius Rehabilitation & Integrative Veterinary Service Owner/Veterinarian Minnesota 55016  United States,,Minnesota,United States,55016,612 636-9575 
+Jennifer,Kareklas,Dr. Jennifer Kareklas,Dr.,,http://bloomingrove.vetstreet.com/,Bloomingrove Veterinary Hospital 498 North Greenbush Rd Rensselaer New York 12158  United States,Rensselaer,New York,United States,12158,518 283-2700 
+Sarah,Kalivoda,Dr. Sarah Kalivoda,Dr.,skkalivoda@hotmail.com,http://www.mtnview.net/,Mountainview Animal Hospital & Holistic Pet Care 6474 Bonde Lane Reno Nevada 89521  United States,Reno,Nevada,United States,89521,775 853-6900 
+Miwa,Kanbe,Dr. Miwa Kanbe,Dr.,drkanbe@hotmail.co.jp,,"Hemopet Holistic Care D.V.M., C.V.A. 11561 Salinaz Ave. Garden Grove California 92843  United States",Garden Grove,California,United States,92843,714 494-1175 
+Kirstin,Kamps,Dr. Kirstin Kamps,Dr.,,https://www.veterinaryconciergeofsandiego.com/,Veterinary Concierge of San Diego Dr. San Diego California United States,San Diego,California,United States,,858 3860909 
+Marissa,Katt,Dr. Marissa Katt,Dr.,,,Animal Care Clinic of Randall Pointe 477 Briargate Dr. South Elgin Illinois 60177  United States,South Elgin,Illinois,United States,60177,847 742-5700 
+Nicole,Kayser,Dr. Nicole Kayser,Dr.,,http://www.heartfirevet.com/,Animal Healing Arts of Portland 3775 NE Broadway St. Portland Oregon 97232  United States,Portland,Oregon,United States,97232,503 719-4088 
+Revital,Kastner,Dr. Revital Kastner,Dr.,,http://www.parkstreetvet.com/,Park Street Veterinary Clinic 238 Park Street North Reading Massachusetts 01864  United States,North Reading,Massachusetts,United States,01864,978 978-664-5855 
+James,Kenney,Dr. James Kenney,Dr.,,,PO Box 717 Clarksburg New Jersey 08510  United States,Clarksburg,New Jersey,United States,08510,732-780-1818 
+Megan,Kelley,Dr. Megan M. Kelley,Dr.,info@cashmerevetclinic.com,http://www.cashmerevetclinic.com/,,,,,,
+Nicole,Kelleher,Dr. Nicole Kelleher,Dr.,nicole.kelleher67@gmail.com,,Journey Veterinary Services 1225 Canton Rd NW Carrollton Ohio 44615  United States,Carrollton,Ohio,United States,44615,330 627-4898 
+Maureen,Kelleher,Dr. Maureen Kelleher,Dr.,maureen@acurovet.com,,"Acuro, Inc. 1560 Newbury Road Suite 1, #348 Newbury Park California 91320  United States",Newbury Park,California,United States,91320,760 504-8627 
+George,Khalil,Dr. George A. Khalil,Dr.,info@yourneighborvet.com,,Your Neighbor Vet 914 164th St. SE B12 #333 Mill Creek Washington 98012  United States,Mill Creek,Washington,United States,98012,425 610-9020 
+Alison,Key,Dr. Alison Key,Dr.,,http://www.everhartvet.com/,,,,,,
+Daniela,Keslar,Dr. Daniela Keslar,Dr.,daniela@kfk2.com,,Companion Animal Integrative Acupuncture Dr. 2810 Redriver Rd. San Antonio Texas 78259  United States,San Antonio,Texas,United States,78259,210 907-6383 
+Tari,Kern,Dr. Tari Kern,Dr.,frontdesk@pawsitivestepsrehab.com,http://www.pawsitivestepsrehab.com/,Pawsitive Steps Rehabilitation & Sports Medicine Veterinarian 1894 Star Batt Dr. Rochester Hills Michigan 48309  United States,Rochester Hills,Michigan,United States,48309,248 5640309 
+Bashir,Khan,Dr. Bashir A. Khan,Dr.,doctorbashirkhan321@gmail.com,,"Mobile Vet Care Indiana, LLC 5749 Riverwood Dr. Indianapolis Indiana 46250  United States",Indianapolis,Indiana,United States,46250,317 273-3320 
+Simon,Kim,Dr. Simon Kim,Dr.,simondvm@gmail.com,,United States,,,United States,,
+Hye-Young,Kim,Dr. Hye-Young Kim,Dr.,hkim@westernu.edu,,850 E. Pepper Tree Dr. Azusa California 91702  United States,Azusa,California,United States,91702,
+Jason,King,Dr. Jason King,Dr.,dr.king@liveoakvetneuro.com,,Live Oak Veterinary Neurology 335 Stephenson Ave. Savannah Georgia 31405  United States,Savannah,Georgia,United States,31405,
+Cathy,Klemenger,Dr. Cathy O. Klemenger,Dr.,klemengerdvm@gmail.com,,Companions Animal Hospital 1798 Merrick Rd. Merrick New York 11566  United States,Merrick,New York,United States,11566,516 431-1133 
+Jeanne,Klafin,Dr. Jeanne Klafin,Dr.,jeanneklafin@gmail.com,,Brooklyn New York United States,Brooklyn,New York,United States,,
+Lisa,King,Dr. Lisa King,Dr.,,,,,,,,
+Alison,Klee,Dr. Alison Klee,Dr.,,,,,,,,
+Victoria,Klibanoff,Dr. Victoria Klibanoff,Dr.,victoria.klibanoff@gmail.com,,Rehoboth Massachusetts 02769  United States,Rehoboth,Massachusetts,United States,02769,
+Lisa,Knapp,Dr. Lisa Knapp,Dr.,,http://www.veteransmemorialdranimalhospital.com/,Veterans Memorial Drive Animal Clinic 12315 Veterans Memorial Dr Houston Texas 77014  United States,Houston,Texas,United States,77014,281 440-4441 
+David,Knox,Dr. David A. Knox,Dr.,davidknoxdvm@gmail.com,,Companion Animal Clinic 1215-A So. Escondido Blvd. Escondido California 92025  United States,Escondido,California,United States,92025,
+Douglas,Knueven,Dr. Douglas Knueven,Dr.,,http://www.beaveranimalclinic.com/,Beaver Animal Clinic 357 State St Beaver Pennsylvania 15009  United States,Beaver,Pennsylvania,United States,15009,(724) 774-8047 
+Melissa,Knutzen,Dr. Melissa Knutzen,Dr.,peacefulpetrelief@gmail.com,,Peaceful Pet Relief Burlington Washington 98233  United States,Burlington,Washington,United States,98233,
+Jordan,Kocen,Dr. Jordan Kocen,Dr.,,http://www.vhcnova.com/,Veterinary Holistic Center 7950 Woodruff Ct. Suite 1 Springfield Virginia 22151  United States,Springfield,Virginia,United States,22151,703 662-4494 
+Quinley,Koch,Dr. Quinley Koch,Dr.,qkoch@eliteequineks.com,http://eliteequineks.com/,Elite Equine Veterinary Services 901 W Willow Creek Valley Center Kansas 67147  United States,Valley Center,Kansas,United States,67147,316 293-6273 
+Simone,Koster,Dr. Simone J. Koster,Dr.,koster.27@osu.edu,,Califon Animal Hospital 421 Rte 513 Califon New Jersey 07830  United States,Califon,New Jersey,United States,07830,
+Alexander,Korol,Dr. Alexander Korol,Dr.,drsasha.k@gmail.com,,Westway Animal Clinic 1500 Royal York Rd. #29 Etobicore Ontario M9P 3B6  Canada,Etobicore,Ontario,Canada,M9P 3B6,416 243-3200 
+Sarah,Koressel,Dr. Sarah R. Koressel,Dr.,drsarahrene.wvc@gmail.com,,New River Animal Hospital 7295 Beech Run Rd. Nimitz West Virginia 25978  United States,Nimitz,West Virginia,United States,25978,304 466-0251 
+Judith,Koerselman,Dr. Judith J. Koerselman,Dr.,judith.koerselman@yahoo.com,,United States,,,United States,,
+Darrel,Kramer,Dr. Darrel Kramer,Dr.,,,3481 E Stampede Way Casa Grande Arizona 85194  United States,Casa Grande,Arizona,United States,85194,520 426-9349 
+Janna,Kottke,Dr. Janna Kottke,Dr.,,http://www.risingsunvet.org/,,,,,,
+Debra,Kress,Dr. Debra Kress,Dr.,,,Acupuncture House Call Practice 8349 Ascolano Ave. Fair Oaks California 95628  United States,Fair Oaks,California,United States,95628,916-835-5686 
+Christine,Krenicki,Dr. Christine Krenicki,Dr.,christinekrenicki@gmail.com,,Bridgewater Veterinary Hospital 830 US-206 Bridgewater New Jersey 08807  United States,Bridgewater,New Jersey,United States,08807,
+Kim,Krivit,Dr. Kim Krivit,Dr.,kim.krivit@gmail.com,,North Star Veterinary Clinic 532 Canady Road Parkton North Carolina 28371  United States,Parkton,North Carolina,United States,28371,910 858-2525 
+Allison,Krichgatter,Dr. Allison Krichgatter,Dr.,allisonkirchgatter@gmail.com,,Gully Animal Hospital 6300 S. Cooper St. Arlington Texas 76001  United States,Arlington,Texas,United States,76001,817 468-2333 
+Charlotte,Krugler,Dr. Charlotte A. Krugler,Dr.,capkrug@gmail.com,,Clemson University Livestock-Poultry Health 500 Clemson Road Columbia South Carolina 29229  United States,Columbia,South Carolina,United States,29229,803 726-7801 
+Karen,Krstich,Dr. Karen Krstich,Dr.,,http://www.karenkrstichdvm.com/,Karen Krstich DVM - Mobile Veterinary Services PO Box 726 Winters California 95694  United States,Winters,California,United States,95694,530-902-7178 
+Tiffany,Kutner,Dr. Tiffany C. Kutner,Dr.,tiffvet@gmail.com,,Banfield Pet Hospital 2800 E. Millbrook Rd. Raleigh North Carolina 27604  United States,Raleigh,North Carolina,United States,27604,919 790-8337 
+Andrea,Kuperschmid,Dr. Andrea Kuperschmid,Dr.,akuperschmid@mac.com,,"Andrea Kuperschmid, DVM Huntington New York 11743  United States",Huntington,New York,United States,11743,
+Peggy,LaCombe,Dr. Peggy LaCombe,Dr.,,http://www.atyourbarkandcall.net/,"At your Bark & Call, Veterinary House Calls, LLC 610 E. Bell Rd., #2-146 Phoenix Arizona 85022  United States",Phoenix,Arizona,United States,85022,602-418-6545 
+Kimberly,Lackey,Dr. Kimberly Lackey,Dr.,lackey76@gmail.com,,Gailor Animal Hospital 7422 Old 3rd Street Louisville Kentucky 40214  United States,Louisville,Kentucky,United States,40214,502 367-6400 
+Lisa,LaCross,Dr. Lisa LaCross,Dr.,llah9929@aol.com,http://www.longlakeanimalhospital.com/,Long Lake Animal Hospital Doctor 9929 N Long Lake Rd Traverse City Michigan 49685  United States,Traverse City,Michigan,United States,49685,231 9472365 
+Jessica,Lam,Dr. Jessica Lam,Dr.,drjessicalam@gmail.com,,United States,,,United States,,
+Jamie,Ladd,Dr. Jamie Ladd,Dr.,jwholisticvet@gmail.com,http://www.jwholisticvet.com/,JW Holistic Vet Care Doctor 3470 S Waynesville Rd. Morrow Ohio 45152  United States,Morrow,Ohio,United States,45152,440 537-8646 
+Anne,Lampru,Dr. Anne Lampru,Dr.,,http://animalalternativestampa.com/,,,,,,
+Kevin,Landau,Dr. Kevin Landau,Dr.,,http://www.landauvet.com/,,,,,,
+Chelsea,Lambert,Dr. Chelsea Lambert,Dr.,crlambert1019@gmail.com,,Buckhannon Animal Clinic 57 Vicksburg Rd. Buckhannon West Virginia 26201  United States,Buckhannon,West Virginia,United States,26201,304 472-0323 
+Christa,Lambert,Dr. Christa Lambert,Dr.,clambert@canyonvet.com,,Canyon City Animal Hospital 13755 FM 306 Canyon Lake Texas 78133  United States,Canyon Lake,Texas,United States,78133,830 964-3551 
+Emily,Lantzsch,Dr. Emily Lantzsch,Dr.,horseandhoundias@gmail.com,,Horse & Hound Integrative Animal Solutions 260 Mt. Union Rd. Fayetteville Pennsylvania 17222  United States,Fayetteville,Pennsylvania,United States,17222,717 372-4529 
+Cynthia,Lankenau,Dr. Cynthia Lankenau,Dr.,,,Holistic Center for Veterinary Care 9002 Sunset Dr Colden New York 14033  United States,Colden,New York,United States,14033,(716) 941-9477 
+Robyn,Lantz,Dr. Robyn Lantz,Dr.,osuvet@hotmail.com,,33888 SE Peoria Rd Corvallis Oregon 97333  United States,Corvallis,Oregon,United States,97333,541 752-3786 
+Lorna,Lanman,Dr. Lorna L. Lanman,Dr.,lldvmnaz@aol.com,,Petsvet Animal Hospital 15808 N. El Mirage Rd. Surprise Arizona 85378  United States,Surprise,Arizona,United States,85378,623 910-5654 
+Angela,Le,Dr. Angela Le,Dr.,le.angelac@gmail.com,,Taber Pet Clinic 6212 54 Ave. Taber Alberta T1G 1X3  Canada,Taber,Alberta,Canada,T1G 1X3,403 223-2474 Ext. 2 
+Linda,Lauper,Dr. Linda Lauper,Dr.,,,"H.A.P.P.E.E. Horses, Inc. PO Box 719 Clements California 95227  United States",Clements,California,United States,95227,209 759-0051 
+Valerie,Latchford,Dr. Valerie Latchford,Dr.,,,6530 Old National Pike Boonsboro Maryland 21713  United States,Boonsboro,Maryland,United States,21713,
+Derek,LaVoie,Dr. Derek K. LaVoie,Dr.,,,"DVM, CVA, CVTP, CAC PO Box 943 San Luis Obispo California 93406  United States",San Luis Obispo,California,United States,93406,805 305-1396 
+Mischa,Leavey,Dr. Mischa Leavey,Dr.,mischa.leavey@vca.com,,VCA Westboro Animal Hospital 155 Turnpike Road Westboro Massachusetts 01581  United States,Westboro,Massachusetts,United States,01581,508 366-1444 
+JiaKim,Leclair-Vance,Dr. JiaKim Leclair-Vance,Dr.,jlv.acuvet@gmail.com,,157 Windcrest Hudson J0P 1H0  Canada,Hudson,,Canada,J0P 1H0,
+Suzanne,Leduc,Dr. Suzanne Leduc,Dr.,coolbizllc@gmail.com,,Edgewood Animal Hospital 4010 Donald Eugene Oregon 97405  United States,Eugene,Oregon,United States,97405,541 341-6558 
+Shama,Lee,Dr. Shama D. Lee,Dr.,shama.lee@leemobilevet.com,,Dr. Lee's Mobile Veterinary Services PO Box 1954 Apex North Carolina United States,Apex,North Carolina,United States,,
+Wendy,Leich,Dr. Wendy Leich,Dr.,,http://bwfurlong.com/,B.W. Furlong & Associates PO Box 16 Oldwick New Jersey 08858  United States,Oldwick,New Jersey,United States,08858,908 439-2821 
+Ronald,Leick,Dr. Ronald Leick,Dr.,,http://ronleickdvm.com/,,,,,,
+James,Leonard,Dr. James Leonard,Dr.,,http://blissfieldveterinaryservice.com/,Blissfield Veterinary Services 8353 E US 223 Blissfield Michigan 49228  United States,Blissfield,Michigan,United States,49228,(517) 486-4395 
+Douglas,Lemire,Dr. Douglas Lemire,Dr.,,http://www.oceanvalleyvet.com/,Ocean Valley Veterinary Hospital 72 Portsmouth Ave. Stratham New Hampshire 3885  United States,Stratham,New Hampshire,United States,3885,603-778-8050 
+Gary,Levy,Dr. Gary Levy,Dr.,,http://www.vetacupuncturenj.com/,325 S. Hope Chapel Rd Jackson New Jersey 08527  United States,Jackson,New Jersey,United States,08527,732-849-0408 
+Jeffrey,Levy,Dr. Jeffrey Levy,Dr.,,http://www.housecallvetnyc.com/,"House Calls For Your Pet 322 West 57th Street, Apt 34U Manhattan New York 10019  United States",Manhattan,New York,United States,10019,212 465-1667 
+Vivien,Leung,Dr. Vivien Leung,Dr.,vivi_leung@hotmail.com,http://www.burkeviewpet.ca/,Burkeview Animal Hospital Dr. 104-1125 Nicola Ave. Port Coquitlam British Canada V3B 8B2  Canada,Port Coquitlam,British Canada,Canada,V3B 8B2,604 475-5134 
+Nicole,LeVeque,Dr. Nicole LeVeque,Dr.,,http://www.naturalhealingpetcare.com/,Natural Healing Pet Care 1722 W. 11 Mile Rd. Berkley Michigan 48072  United States,Berkley,Michigan,United States,48072,248 797-5139 
+Lauren,Liba-Scally,Dr. Lauren Liba-Scally,Dr.,ljldvm@yahoo.com,,Animal Alignment PLLC 2779 Towering Oaks Dr. White Lake Michigan 48383  United States,White Lake,Michigan,United States,48383,248 387-9370 
+Marjorie,Lewter,Dr. Marjorie Lewter,Dr.,,http://www.holisticveterinaryconsultants.com/,"Holistic Veterinary Consultants, PLLX 2401F S. Main St. Blacksburg Virginia 24127  United States",Blacksburg,Virginia,United States,24127,540-616-9247 
+Carol,Lewis,Dr. Carol Lewis,Dr.,,http://www.hhahsalisbury.com/,Healing Hands Animal Hospital 727 E Main Street Salisbury Maryland 21804  United States,Salisbury,Maryland,United States,21804,410-742-4884 
+Wenfang,Li,Dr. Wenfang Li,Dr.,wfli1990@gmail.com,,Oriental Horse Capieal (Tianjin) Ltd. Gao wang Road West 99 Gaocun Town Wiging District China,Gaocun Town,Wiging District,China,,
+Lisa,Lin,Dr. Lisa Lin,Dr.,lisahlin@yahoo.com,,1431 SE 23rd Ave Portland 97214  United States,Portland,,United States,97214,
+Priscilla,Limehouse,Dr. Priscilla Limehouse,Dr.,,,PO Box 106 White Bird Idaho 83554  United States,White Bird,Idaho,United States,83554,208 839-2300 
+Lisa,Lindesmith,Dr. Lisa A. Lindesmith,Dr.,drlisal@allpawsvets.com,,All Paws Animal Hospital 5225 Excelsior Blvd. St. Louis Park Minnesota 55416  United States,St. Louis Park,Minnesota,United States,55416,952 848-0913 
+Jean,Liljegren,Dr. Jean L. Liljegren,Dr.,,http://www.amcph.com/,Animal Medical Center of Park HIlls 107 Strauss Drive Park Hills Missouri 63601  United States,Park Hills,Missouri,United States,63601,573 431-9500 
+Wendy,Lipman,Dr. Wendy Lipman,Dr.,dogterw@gmail.com,,Lipman Veterinary Relief Services 7741 Compass Lake Dr. San Diego California 92119  United States,San Diego,California,United States,92119,619 787-4644 
+Catherine,Lindstrand,Dr. Catherine Lindstrand,Dr.,,,,,,,,
+Richard,Jr.,Dr. Richard D. Lindsay Jr.,Dr.,,http://www.altvetservices.com/,"Alternative Veterinary Services, LLC 9 Hodges Street North Andover Massachusetts 01845  United States",North Andover,Massachusetts,United States,01845,978 683-5775 
+Krista,Lindquist,Dr. Krista Lindquist,Dr.,kristalindquistdvm@gmail.com,,"Krista Lindquist, DVM PO Box 16026 Portland Maine 04101  United States",Portland,Maine,United States,04101,207 613-6838 
+Amy,Lockwood,Dr. Amy Lockwood,Dr.,,http://www.aahc.com/,VCA Acacia Animal Hospital 655 W. Citracado PKWY Escondido California 92025  United States,Escondido,California,United States,92025,760-745-8115 
+Quentin,Llop,Dr. Quentin Llop,Dr.,,,,,,,,
+Sharon,Liu,Dr. Sharon Liu,Dr.,sharonliu@berkeley.edu,,United States,,,United States,,
+Dawn,Loesch,Dr. Dawn A. Loesch,Dr.,drdawndvm10@gmail.com,,1053 Pinewood Lake Ct. Green Acres Florida 33415  United States,Green Acres,Florida,United States,33415,561 578-7041 
+Donald,Loden,Dr. Donald Loden,Dr.,,http://www.cornerstonevet.info/,,,,,,
+Lisa,Lomond,Dr. Lisa Lomond,Dr.,,,VCA Miller Animal Hospital 8807 Melrose Ave West Hollywood California 90069  United States,West Hollywood,California,United States,90069,310 657-7050 
+Andrea,Lovas,Dr. Andrea Lovas,Dr.,andrea.lovas@gmail.com,,Sport Horse Vet BT A8 . Hunyadi Street Gyor g024 Hungary  Hungary,Gyor,,Hungary,g024,+36 205A66230 
+Tracy,Lord,Dr. Tracy Lord,Dr.,,http://fourpawsholistic.com/,,,,,,
+Christina,Lorenson,Dr. Christina M. Lorenson,Dr.,npvet1215@yahoo.com,,Wickford Veterinary Clinic 7260 Post Road Suite 101 N. Kingstown Rhode Island 02852  United States,N. Kingstown,Rhode Island,United States,02852,401 295-9739 
+Carolyn,Love,Dr. Carolyn Love,Dr.,,http://www.lovepethospital.com/,Animalkind Holistic Veterinary Clinc PO Box 1510 Jacksonville Oregon 97530  United States,Jacksonville,Oregon,United States,97530,541 702-2288 
+Kristina,Lu,Dr. Kristina Lu,Dr.,,http://www.hagyard.com/,Hagyard Equine Medical Institute 4520 Iron Works Pike Lexington Kentucky 40511  United States,Lexington,Kentucky,United States,40511,859 255-8741 
+Lu,Lu,Dr. Lu Lu,Dr.,luvstumpy@gmail.com,,VCA Bond Animal Hospital 250 Central Ave. White Plains New York 10606  United States,White Plains,New York,United States,10606,914 949-8860 
+Sarah,Love,Dr. Sarah Love,Dr.,sblovedvm@gmail.com,http://www.sportdogvet.com/,"Sport Dog Specialty Medicine Owner, Veterinary Specialist PO Box 361 Yampa Colorado 80483  United States",Yampa,Colorado,United States,80483,970 4577697 
+Sarah,Lowry,Dr. Sarah Lowry,Dr.,slowry95@gmail.com,,Day Six Veterinary Services United States,,,United States,,
+Jaclyn,Luckstone,Dr. Jaclyn Luckstone,Dr.,jaclyn.luckstone@gmail.com,http://www.iahvets.com/,Island Animal Hospital Dr. 2603 Demere Road St. Simons Island Georgia 31522  United States,St. Simons Island,Georgia,United States,31522,912 638-2583 
+Albert,Lynch,Dr. Albert Lynch,Dr.,,http://www.holisticvettc.com/,Integrative Veterinary Therapies 521 Second Street Traverse City Michigan 49684  United States,Traverse City,Michigan,United States,49684,231-409-6036 
+Brad,Luckenbill,Dr. Brad Luckenbill,Dr.,,,The Pony Express Veterinary Hospital 893 Lower Bellbrook Rd Xenia Ohio 45385  United States,Xenia,Ohio,United States,45385,(937) 376-7669 
+Pamela,Lumnah,Dr. Pamela Lumnah,Dr.,,http://vetacupunctureattleboro.com/,"Veterinary Acupuncture & Herbs 50 Brook Street, Suite 2 Attleboro Massachusetts 02703  United States",Attleboro,Massachusetts,United States,02703,508-223-5300 
+Heidi,Macey,Dr. Heidi Macey,Dr.,heidi2009@gmail.com,,Banfield Pet Hospital Leesburg Village 1614 Village Market Blvd. Ste. 105 Leesburg Virginia 20175  United States,Leesburg,Virginia,United States,20175,703 777-4125 
+Karen,Lyons,Dr. Karen Lyons,Dr.,,,Desert Mobile Veterinary Service 2021 E Amber Ln Gilbert Arizona 85296  United States,Gilbert,Arizona,United States,85296,(480) 497-6862 
+Brenda,Cain,Dr. Brenda Mack Cain,Dr.,,,Valencia Animal Clinic 1533 E River Road Belen New Mexico 87002  United States,Belen,New Mexico,United States,87002,505-864-4075 
+Heather,Mack,Dr. Heather Mack,Dr.,,http://www.balancedequinewellness.com/,Holistic Veterinary Services PO Box 597 Mountain Home Idaho 83647  United States,Mountain Home,Idaho,United States,83647,760-447-0776 
+Josephine,Magurn,Dr. Josephine Magurn,Dr.,,,"Josephine A. Magurn, DVM P O Box 580 Goodview Virginia 24095  United States",Goodview,Virginia,United States,24095,757 377-4598 
+Dale,Magnusson,Dr. Dale Magnusson,Dr.,,http://www.magvet.biz/,"Magnusson Veterinary Services, LLC 531 Old Hwy 35 Hudson Wisconsin 54016  United States",Hudson,Wisconsin,United States,54016,715-386-6485 
+Marie,Maelfait,Dr. Marie Maelfait,Dr.,,,PO Box 83 Versailles Ohio 45380  United States,Versailles,Ohio,United States,45380,937 417-0727 
+Marianne,Mackay,Dr. Marianne Mackay,Dr.,,,Pioneer Veterinary Clinic 5610 SW Philomath Blvd Corvallis Oregon 97333  United States,Corvallis,Oregon,United States,97333,541 753-4681 
+Megan,Malone,Dr. Megan R. Malone,Dr.,msacuvet@gmail.com,,Gluckstadt Animal Hospital 1070 Gluckstadt Rd. Madison Mississippi 39110  United States,Madison,Mississippi,United States,39110,601 856-2002 
+Patrick,Maizels,Dr. Patrick M. Maizels,Dr.,pmaizels@gmail.com,,United States,,,United States,,
+Nina,Malik,Dr. Nina Malik,Dr.,,http://www.liveterinaryacupuncture.com/,Long Island Veterinary Acupuncture 1924 Wantagh Avenue Wantagh New York 11793  United States,Wantagh,New York,United States,11793,516 404-1529 
+Clairissa,Maples,Dr. Clairissa Maples,Dr.,clairissa.craige@okstate.edu,,"Great Plains Veterinary Services 210 N. Odor St., Unit 212 Arcadia Oklahoma 73007  United States",Arcadia,Oklahoma,United States,73007,405 396-5047 
+Angela,Manosalva,Dr. Angela M. Manosalva,Dr.,amgarciam@unal.edu.co,,United States,,,United States,,
+Caitlin,Manring,Dr. Caitlin Manring,Dr.,drmanring@eclap.org,,East County Large and Small Animal Practice 10312 Quail Canyon Road El Cajon California 92021  United States,El Cajon,California,United States,92021,
+W.,Manning,Dr. W. Scott Manning,Dr.,,,,,,,,
+Azra,Marghoob,Dr. Azra Marghoob,Dr.,azradvm@gmail.com,http://www.companionsahny.com/,Companions Animal Hospital Merrick New York 11566  United States,Merrick,New York,United States,11566,516 431-1133 
+Cynthia,Maro,Dr. Cynthia L. Maro,Dr.,,http://www.holistic.vetsuite.com/,Ellwood Animal Hospital 728 Lawrence Ave Ellwood City Pennsylvania 16117  United States,Ellwood City,Pennsylvania,United States,16117,(724) 758-8882 
+Megan,Marr,Dr. Megan Marr,Dr.,meganchristiedvm@gmail.com,,Vista Pet Hospital 8855 SW Canyon Lane Portland Oregon 97225  United States,Portland,Oregon,United States,97225,503 297-2218 
+Amanda,Marino,Dr. Amanda Marino,Dr.,,,Veterinary Center for Birds & Exotics Associate Veterinarian 709 Bedford Rd Bedford Hills New York 10507-1501  United States,Bedford Hills,New York,United States,10507-1501,914 8641414 
+Pauli,Marshall,Dr. Pauli Marshall,Dr.,,http://www.fidalgovets.com/,,,,,,
+Deborah,Marshall,Dr. Deborah Marshall,Dr.,,,3422 161st Terrace N Loxahatchee Florida 33470  United States,Loxahatchee,Florida,United States,33470,561-784-5251 
+Christine,Martin,Dr. Christine Martin,Dr.,,,Critters and Pals Animal Clinic 804 Broadway St Lamar Missouri 64759  United States,Lamar,Missouri,United States,64759,417-682-5335 
+Allison,Marshall,Dr. Allison Marshall,Dr.,,http://www.fullcirclevet.com/,"Full Circle Veterinary Services, PL PO Box 1764 Mechanicsville Virginia 23116  United States",Mechanicsville,Virginia,United States,23116,(804) 389-5929 
+Nancy,Martin,Dr. Nancy Martin,Dr.,,,East Meets West Veterinary Services 5170 Maple Road Vacaville California 95687  United States,Vacaville,California,United States,95687,707 446-5545 
+Venera,Martinis,Dr. Venera J. Martinis,Dr.,vinjmhf@gmail.com,,273 Windsor Hwy. New Windson New York 12553  United States,New Windson,New York,United States,12553,
+Kimberly,Martin,Dr. Kimberly A. Martin,Dr.,kim.villines@gmail.com,,Sunset Hill Veterinary and Rehabilitation Center 2403 NW Market St. Seattle Washington 98107  United States,Seattle,Washington,United States,98107,206 706-7800 
+Jennie,Marvelle,Dr. Jennie H. Marvelle,Dr.,jhmarvelle@gmail.com,,Boothbay Animal Hospital 285 Wiscasset Rd. Boothbay Maine 04537  United States,Boothbay,Maine,United States,04537,207 633-3447 
+Chloe',Matelski,Dr. Chloe' R. Matelski,Dr.,chlraqmat@gmail.com,,United States,,,United States,,
+Magda,Massicotte,Dr. Magda Massicotte,Dr.,,http://www.acupetaz.com/,"Acupuncture for Pets Arizona Veterinarian, Certified in Acupuncture Scottsdale Arizona 85254  United States",Scottsdale,Arizona,United States,85254,480 619-0125 
+Deborah,Mathis,Dr. Deborah Mathis,Dr.,,http://www.5elementvet.com/,"Deborah Mathis, DVM Saratoga California 95070  United States",Saratoga,California,United States,95070,408 499-3647 
+Richard,Mathes,Dr. Richard Mathes,Dr.,,http://www.pumpkinhillvet.com/,Pumpkin Hill Veterinary Clinic 6265 Tower Hill Road Byron New York 14422  United States,Byron,New York,United States,14422,585 548-9097 
+Kelly,Maxwell,Dr. Kelly Maxwell,Dr.,kmax1118@gmail.com,,Healing Arts Animal Care Veterinarian 14835 SW Allen Blvd Suite 102 Beaverton Oregon 97005  United States,Beaverton,Oregon,United States,97005,971 703-3303 
+Dr,Mattson,Dr Rebecca Mattson,,,,Greylock Animal Hospital assoc. vet 1028 State Rd North Adams Massachusetts 01247  United States,North Adams,Massachusetts,United States,01247,413 6635365 
+Jessica,Mattingly,Dr. Jessica Mattingly,Dr.,aggiehorsevet@gmail.com,,The Oaks Veterinary Clinic 14204 Benns Church Blvd. Smithfield Virginia 23430  United States,Smithfield,Virginia,United States,23430,757 617-0239 
+Jessica,Mathis,Dr. Jessica E. Mathis,Dr.,athomevet@comcast.net,http://www.ahvetcare.com/,At Home Veterinary Care Veterinarian/Owner PO Box 2484 Chester Virginia 23831  United States,Chester,Virginia,United States,23831,804 638-3205 
+Kevin,May,Dr. Kevin May,Dr.,,http://www.ecvvh.com/,El Cajon Valley Veterinary Hospital 560 N Johnson Ave El Cajon California 92020  United States,El Cajon,California,United States,92020,619-444-9491 
+Shawna,McArdle,Dr. Shawna R. McArdle,Dr.,s.rae.mcardle@gmail.com,,Bucksport Vet Hospital 11 Gross Pt Rd. Orland Maine 04472  United States,Orland,Maine,United States,04472,207 469-3614 
+Micki,McCabe,Dr. Micki McCabe,Dr.,,http://www.sagecenters.com/,Sage Veterinary Centers 1410 Monument Blvd. Ste 100 Concord California 94520  United States,Concord,California,United States,94520,925 627-7243 
+Jamie,Mayer,Dr. Jamie A. Mayer,Dr.,jamiemayerdvm@gmail.com,,1827 Golden Cape Dr. Katy Texas 77494  United States,Katy,Texas,United States,77494,
+Laurie,McCauley,Dr. Laurie McCauley,Dr.,rthawk.143@gmail.com,,North Carolina 28790  United States,,North Carolina,United States,28790,
+William,McCormick,Dr. William McCormick,Dr.,,,,,,,,
+Elizabeth,McClure,Dr. Elizabeth M. McClure,Dr.,bvhpc@hotmail.com,http://wwwboonevethospital.com/,Boone Veterinary Hospital Dr. 2128 4th Street Boone Iowa 50036  United States,Boone,Iowa,United States,50036,515 432-4601 
+Tina,McCollester,Dr. Tina McCollester,Dr.,drtinamac@gmail.com,,United States,,,United States,,
+Charles,McDaniel,Dr. Charles McDaniel,Dr.,,,Heartland Acupuncture Service PO Box 19095 Albuquerque New Mexico 87119  United States,Albuquerque,New Mexico,United States,87119,515 491-4557 
+Cynthia,McDowell,Dr. Cynthia McDowell,Dr.,csprigg@mac.com,,2601 Hopper Rd Cape Girardeau Missouri 63701  United States,Cape Girardeau,Missouri,United States,63701,573 334-0070 
+Katherine,McDermott,Dr. Katherine McDermott,Dr.,klwilliams.vmd@gmail.com,,309 Locust Ave Haddon Twp New Jersey 08108  United States,Haddon Twp,New Jersey,United States,08108,
+Patricia,McElmuray,Dr. Patricia J. McElmuray,Dr.,tbrannon830@aol.com,,Compassionate Care Veterinary Hospital 2013 NUS Hwy 87 Fredericksburg Texas 78624  United States,Fredericksburg,Texas,United States,78624,830 997-7643 
+Melissa,McFarland,Dr. Melissa McFarland,Dr.,,http://www.capehornvet.com/,Cape Horn Veterinary Associates 613 Lombard Rd. Red Lion Pennsylvania 17356  United States,Red Lion,Pennsylvania,United States,17356,717 501-4800 
+Kayleen,McLain,Dr. Kayleen McLain,Dr.,layleenmclain@gmail.com,,Cowlitz Animal Clinic 763 Commerce Ave. Longview Washington 98632  United States,Longview,Washington,United States,98632,360 425-6440 
+Heather,McEvoy,Heather McEvoy,,mcevoyh@live.com,,Whitefish Animal Hospital Veterinarian Whitefish Montana United States,Whitefish,Montana,United States,,
+Nita,McNeill,Dr. Nita McNeill,Dr.,,http://mustanganimalhealthclinic.com/,Mustang Animal Health Clinic 130 E Hwy 152 Mustang Oklahoma 73064  United States,Mustang,Oklahoma,United States,73064,(405) 376-4556 
+Chaplin,McWhorter,Dr. Chaplin McWhorter,Dr.,chaplinmcwhorter@gmail.com,,McWhorter Veterinary Services PLLC Dallas 75238  United States,Dallas,,United States,75238,214 4367273 
+Laura,McMahan,Dr. Laura McMahan,Dr.,drlauradvm93@gmail.com,,14 Night Rain Ct The Woodlands Texas 77381  United States,The Woodlands,Texas,United States,77381,
+Paula,Medler,Dr. Paula Medler,Dr.,,http://www.integrativemedvet.com/,Animal Healing and Wellness Clinic 4727 N. 1st Ave. Tucson Arizona 85718  United States,Tucson,Arizona,United States,85718,520-975-7281 
+Michelle,Mendolia,Dr. Michelle Mendolia,Dr.,mmendolia@noesark.com,,Noe's Ark Animal Hospital 717 N. Lindsay Mesa Arizona 85213  United States,Mesa,Arizona,United States,85213,480 830-6810 
+Roderick,Meier,Dr. Roderick Meier,Dr.,,,3 Custer Ln Great Falls Montana 59405  United States,Great Falls,Montana,United States,59405,
+Sandra,Memenis,Dr. Sandra Memenis,Dr.,sandra.memenis@gmail.com,,Hearthwood Dog and Cat Clnic 14516 SE Mill Plain Blvd. Vancouver Washington 98684  United States,Vancouver,Washington,United States,98684,360 892-1440 
+Belinda,Mendenhall,Dr. Belinda Mendenhall,Dr.,mendenhallequineservices@yahoo.com,http://equineservicesllc.com/,Equine Services LLC Dr. 3515 Hwy 231 N. Shelbyville Tennessee 37160  United States,Shelbyville,Tennessee,United States,37160,931 437-2463 
+Stephanie,Meyer,Dr. Stephanie Meyer,Dr.,smeyer@pvhstaff.com,,Pilchuck Veterinary Hospital Veterinarian 17717 41st St SE Snohomish Washington 98290-8595  United States,Snohomish,Washington,United States,98290-8595,425 3081280 
+David,Miller,Dr. David Miller,Dr.,,http://www.dmillerdvm.com/,Summit Equine Veterinary Services 1745 N Hametown Rd Akron Ohio 44333  United States,Akron,Ohio,United States,44333,330-666-7909 
+Heidi,Mier,Dr. Heidi Mier,Dr.,,http://www.drheidimier.com/,"Dr. Heidi Mier, PLLC c/o Dixboro Veterinary Dental & Medical Center 5740 Plymouth Rd. (Mail Returned) Ann Arbor Michigan 48105  United States",Ann Arbor,Michigan,United States,48105,734 929-6539 
+Heather,Misener,Dr. Heather Misener,Dr.,vet@ruffday.vet,https://www.ruffday.vet/,Ruff Day Veterinary Services LLC PO Box 1294 Gig Harbor Washington 98335  United States,Gig Harbor,Washington,United States,98335,253 252-0127 
+Deanna,Miller,Dr. Deanna Miller,Dr.,,http://www.risingsunanimalcare.com/,Rising Sun Animal Care 100 Spruce Street Unit 106 Denver Colorado 80230  United States,Denver,Colorado,United States,80230,303 577-0195 
+Deborah,Mitchell,Dr. Deborah Mitchell,Dr.,,http://www.knollwoodhospitalforpets.com/,Knollwood Hospital For Pets 2237 W Schaumburg Rd Schaumburg Illinois 60194  United States,Schaumburg,Illinois,United States,60194,(847) 891-8944 
+Julie,Miller,Dr. Julie Miller,Dr.,juliemlr@comcast.net,,Pet's Friend Animal Clinic 158 San Lazaro Ave. Sunnyvale California 94087  United States,Sunnyvale,California,United States,94087,408 739-2688 
+William,Mitchell,Dr. William H. Mitchell,Dr.,,,,,,,,
+Howard,Mitchell,Dr. Howard Mitchell,Dr.,,,,,,,,
+Richard,Mitchell,Dr. Richard Mitchell,Dr.,,,"Fairfield Equine Associates, PC 32 Barnabas Rd Newtown Connecticut 6470  United States",Newtown,Connecticut,United States,6470,(203) 270-3600 
+Jane,Mittelsteadt,Dr. Jane Mittelsteadt,Dr.,,http://www.360petmedical.com/,Total Animal Wellness 105 W. Graf Bozeman Montana 59715  United States,Bozeman,Montana,United States,59715,406-600-6641 
+Dr,Molidor,Dr Lisa Molidor,,Clarivetag85@msn.com,,East Dallas Veterinary Clinic Veterinarian United States,,,United States,,
+Jamie,Molinelli,Dr. Jamie Molinelli,Dr.,,,,,,,,
+Keiko,Miyata,Dr. Keiko Miyata,Dr.,keimiyata@gmail.com,,Banfield Pet Hospital Associate Veterinarian 620 W 17th St Costa Mesa California 92627  United States,Costa Mesa,California,United States,92627,
+Claire,Mollard,Dr. Claire Mollard,Dr.,,,Mollard Veterinary Acupuncture 3532 Kendell Hill Dr Santa Rosa California 95404  United States,Santa Rosa,California,United States,95404,(707) 321-3260 
+Paula,Monte,Dr. Paula Monte,Dr.,,http://www.drpaulamontedvm.com/,Litchfield Animal Wellness PO Box 1997 Mashpee Massachusetts 2649  United States,Mashpee,Massachusetts,United States,2649,508 240-4676 
+Jeff,Monroe,Dr. Jeff Monroe,Dr.,,,Monroe Veterinary Options PO Box 712199 Salt Lake City Utah 84171  United States,Salt Lake City,Utah,United States,84171,801-424-0748 
+Alicia,Moon,Dr. Alicia A. Moon,Dr.,,http://www.moonmobilevet.com/,Moon Mobile Veterinary Service Loganville Georgia 30052  United States,Loganville,Georgia,United States,30052,678 794-3057 
+Kenton,Moore,Dr. Kenton Moore,Dr.,,,,,,,,
+Charles,Moore,Dr. Charles Moore,Dr.,,,PO Box 6099 Freehold New Jersey 7728  United States,Freehold,New Jersey,United States,7728,
+Judy,Morgan,Dr. Judy Morgan,Dr.,,http://www.claytonvetnj.com/,"Clayton Veterinary Associates, LLC 820 N Delsea Drive Clayton New Jersey 08312  United States",Clayton,New Jersey,United States,08312,856 881-7470 
+Louise,Morin,Dr. Louise Morin,Dr.,,http://vcadelawarevalley.com/,VCA Delaware Valley Animal Hospital 183 B Bristol Oxford Valley Rd. Langhorne Pennsylvania 19047  United States,Langhorne,Pennsylvania,United States,19047,(215) 946-1111 
+Kelly,Murphy,Dr. Kelly Murphy,Dr.,vegedelic@yahoo.com,,Healthy Pets Animal Hospital 2022 4th Ave. E. Olympia Washington 98506  United States,Olympia,Washington,United States,98506,360 943-8900 
+Amber,Myers,Dr. Amber Myers,Dr.,myersamb@gmail.com,http://www.fowlervillevetclinic.com/,Fowlerville Veterinary Clinic Associate Veterinarian 6440 W. Grand River PO BOX 383 Fowlerville Michigan 48836  United States,Fowlerville,Michigan,United States,48836,517 223-8812 
+Elizabeth,Myers,Dr. Elizabeth Myers,Dr.,emyersdvm@gmail.com,,Columbia Veterinary Center 5106 NE 78th St. Vancouver Washington 98665  United States,Vancouver,Washington,United States,98665,360 694-9514 
+Kelby,Myers,Dr. Kelby Myers,Dr.,kelbymyers@gmail.com,,United States,,,United States,,
+Tracy,Myers,Dr. Tracy L. Myers,Dr.,animaldoc1998@yahoo.com,http://www.whitneyvet.com/,Whitney Veterinary Hospital Associate Veterinarian 2627 N. Knoxville Ave. Peoria Illinois 61604  United States,Peoria,Illinois,United States,61604,309 685-4707 
+Elizabeth,Myers,Dr. Elizabeth A. Myers,Dr.,drlizmyers2011@gmail.com,,Hollybank Animal Hospital Associate Veterinarian 1030 Kennedy Circle Suite 3i Milton Ontario L9T 0J9  Canada,Milton,Ontario,Canada,L9T 0J9,905 864-0022 
+Marjorie,Nard,Dr. Marjorie Nard,Dr.,,,,,,,,
+Dr,Naimoli,Dr Lindsey Naimoli,,,http://www.anchoranimal.com/,Anchor Animal Veterinarian & Practice Owner 283 Granada Rd West Palm Beach Florida 33401  United States,West Palm Beach,Florida,United States,33401,561 313-4847 
+Dusty,Nagy,Dr. Dusty Nagy,Dr.,dnagy@cvm.tamu.edu,,Texas A&M University Clinical Associate Professor College of Veterinary Medidine and Biomed Science 4475 TAMU College Station Texas 77843-4475  United States,College Station,Texas,United States,77843-4475,979 845-3541 
+Kimberly,Neff,Dr. Kimberly Neff,Dr.,,http://horses-n-houndsvet.com/,4345 Autumn Ct. Canton Georgia 30115  United States,Canton,Georgia,United States,30115,678 835-3300 
+Drew,Neilley,Dr. Drew R. Neilley,Dr.,drewneilley@gmail.com,,All About Petcare 3410 Tytus Ave. Middletown Ohio 45042  United States,Middletown,Ohio,United States,45042,513 424-1626 
+Robert,Ness,Dr. Robert Ness,Dr.,,http://www.nessexotic.com/,Ness Exotic Wellness Center 1007 Maple Ave Lisle Illinois 60532  United States,Lisle,Illinois,United States,60532,(630) 737-1281 
+Dr,Nelson,Dr Andrew Nelson,,nelsondvm2015@gmail.com,,Veterinary Specialty and Emergency Center Emergency Veterinarian 1114 S Front St Philadelphia Pennsylvania 19147  United States,Philadelphia,Pennsylvania,United States,19147,
+Lani,Newcomb,Dr. Lani Newcomb,Dr.,,http://www.broadrunvet.com/,Broad Run Veterinary Service 33715 Snickersville Turnpike Bluemont Virginia 20135  United States,Bluemont,Virginia,United States,20135,540-554-2004 
+Mindy,Newman,Dr. Mindy Newman,Dr.,,,,,,,,
+Scott,Newman,Dr. Scott Newman,Dr.,dogdoc6@gmail.com,http://www.georgetownanimalclinic.com/,Georgetown Animal Clinic Medical Director 5155 Sheridan Dr. Williamsville New York 14221  United States,Williamsville,New York,United States,14221,716 633-7123 
+Robert,Neubauer,Dr. Robert Neubauer,Dr.,,,Mt. Healthy Animal Hospital 2818 Blue Rock Road Cincinnati Ohio 45239  United States,Cincinnati,Ohio,United States,45239,(513) 931-9127 
+Spencer,Newman,Dr. Spencer Newman,Dr.,,,Alternative Medicine For Animals POB 680671 Marietta Georgia 30068  United States,Marietta,Georgia,United States,30068,(404) 822-1110 
+Deborah,Niedermiller,Dr. Deborah Niedermiller,Dr.,,http://www.mvs-animal-clinic.com/,MVS Animal Clinic with Mobile Veterinary Service 18 NE 2nd Avenue Deerfield Beach Florida 33441  United States,Deerfield Beach,Florida,United States,33441,954 425-0013 
+Adrienne,Ng,Dr. Adrienne T. Ng,Dr.,adriennetng@gmail.com,,Lake Union Veterinary Clinic 1222 Republican St. Seattle Washington 98109  United States,Seattle,Washington,United States,98109,206 467-5882 
+Steven,Nichols,Dr. Steven Nichols,Dr.,,http://www.nvetservices.com/,N-Vet Services 3219 N 1100 E Sheridan Indiana 46069  United States,Sheridan,Indiana,United States,46069,317-727-8340 
+Rachel,Norris,Dr. Rachel K. Norris,Dr.,rachel.norris1987@gmail.com,,Charlotte Animal Hospital 4200 Kings Hwy. Port Charlotte Florida 33980  United States,Port Charlotte,Florida,United States,33980,941 625-6111 
+Catherine,Nokay,Dr. Catherine Nokay,Dr.,,,Las Vegas Nevada 89178  United States,Las Vegas,Nevada,United States,89178,925-247-4445 
+Amy,Norton,Dr. Amy Norton,Dr.,dr.norton@coanimals.com,,"Circle of Animals, LLC PO Box 1266 Evergreen Colorado 80437  United States",Evergreen,Colorado,United States,80437,303 653-8388 
+Karen,Novak,Dr. Karen Novak,Dr.,,,"Village Veterinary 10490 Howard Street, PO Box 769 Mendocino California 95460  United States",Mendocino,California,United States,95460,707-937-0300 
+Jody,Oelschlager,Dr. Jody Oelschlager,Dr.,,,Veterinary Alternative Therapy PO Box 252 St. Clairsville Ohio 43950  United States,St. Clairsville,Ohio,United States,43950,740 6992800 
+Christina,Ochrymowych,Dr. Christina Ochrymowych,Dr.,,,Knoll's End Animal Hospital 106 Hartwell Rd Berkshire New York 13736  United States,Berkshire,New York,United States,13736,(607) 657-8555 
+Michaele,Oberbroeckling,Dr. Michaele M. Oberbroeckling,Dr.,isushelo@hotmail.com,,VitalPet Kings Crossing Animal Hospital 3425 W. Lake Houston Pkwy. Kingwood Texas 77339  United States,Kingwood,Texas,United States,77339,281 360-5550 
+Christy,Novick,Dr. Christy Novick,Dr.,,http://www.felinemedicalclinic.com/,Columbia Companion Animal Acupuncture/Feline Medical Clinic 5801 NE 105th Avenue Vancouver Washington 98662  United States,Vancouver,Washington,United States,98662,360 892-0224 
+Julie,Oghigian,Dr. Julie Oghigian,Dr.,,,,,,,,
+Dale,Olm,Dr. Dale Olm,Dr.,,https://www.southamptonpethospital.com/,"Southampton Pet Hospital, Ltd. 490 East L Street Benicia California 94510  United States",Benicia,California,United States,94510,707 745-1135 
+Jill,Oliphant,Dr. Jill E. Oliphant,Dr.,oliphantequine@gmail.com,,"Oliphant Equine Specialty Veterinary Services, PLLC PO Box 248 Georgetown Kentucky 40324  United States",Georgetown,Kentucky,United States,40324,859 779-0404 
+James,OKrepki,Dr. James OKrepki,Dr.,,,Knoll's End Animal Hospital 106 Hartwell Rd Berkshire New York 13736  United States,Berkshire,New York,United States,13736,(607) 657-8555 
+John,O'Mahony,Dr. John O'Mahony,Dr.,,,Veterinary Acupuncture PO Box 121 Stewartsville New Jersey 08886  United States,Stewartsville,New Jersey,United States,08886,(908) 454-9689 
+Cynthia,Olsen,Dr. Cynthia Olsen,Dr.,cynthia.juui@gmail.com,,Ravenswood Animal Hospital LLC 2752 W. Montrose Chicago Illinois,Chicago,Illinois,,,773 539-7387 
+Christine,Olson,Dr. Christine Olson,Dr.,,http://www.countryviewvets.com/,Country View Veterinary Service Dr. 1350 S. Fish Hatchery Road Oregon Wisconsin 53575  United States,Oregon,Wisconsin,United States,53575,608 835-0551 
+Amy,Onderdonk,Dr. Amy F. Onderdonk,Dr.,afodvm@gmail.com,,All Creatures Veterinary Hospital 643 Washington Ave. Brooklyn New York 11238  United States,Brooklyn,New York,United States,11238,347 915-1420 
+Shelley,Onderdonk,Dr. Shelley Onderdonk,Dr.,,http://aikenveterinaryacupuncture.com/,372 Langdon Rd Aiken South Carolina 29805  United States,Aiken,South Carolina,United States,29805,803-215-3955 
+Janell,Osborn,Dr. Janell Osborn,Dr.,,https://www.bemidjivethospital.com/,,,,,,
+Keri,O'Neal,Dr. Keri M. O'Neal,Dr.,keri.m.oneal@gmail.com,,29862 N. Tatum Blvd. #2041 Cane Creek Arizona 85331  United States,Cane Creek,Arizona,United States,85331,602 703-2049 
+Leslie,Osborne,Dr. Leslie Osborne,Dr.,,http://www.harborwoodsvet.net/,Harborwoods Integrative Veterinary Care 109 Oak Road Conestoga Pennsylvania 17516  United States,Conestoga,Pennsylvania,United States,17516,717 876-0117 
+Erica,Ossi,Dr. Erica M. Ossi,Dr.,ericaossie@yahoo.com,,Bluegrass Veterinary Specialists & Animal Emergency Lexington Kentucky 40505  United States,Lexington,Kentucky,United States,40505,859 268-7604 
+Brenda,Owens,Dr. Brenda Owens,Dr.,,http://www.coatsvet.com/,Coats Veterinary Hospital 4710 Sunset Avenue Rocky Mount North Carolina 27804  United States,Rocky Mount,North Carolina,United States,27804,252-407-1616 
+Kelley,Owen,Dr. Kelley Owen,Dr.,dog8theremote@gmail.com,,Hillcrest Veterinary Clinic 3083 Pt. Marion Rd. Morgantown West Virginia 26505  United States,Morgantown,West Virginia,United States,26505,304 292-8009 
+Nell,Ostermeier,Dr. Nell Ostermeier,Dr.,,http://www.lombardanimalhospital.com/,Lombard Animal Hospital 607 NE Lombard Street Portland Oregon 97211  United States,Portland,Oregon,United States,97211,503-285-2337 
+Patricia,Pagel,Dr. Patricia Pagel,Dr.,,,Cole Park Veterinary Hospital 55 Woodbridge Drive Chapel Hill North Carolina 27516  United States,Chapel Hill,North Carolina,United States,27516,919-929-3352 
+Candace,Pagano,Dr. Candace Pagano,Dr.,candacepagano@gmail.com,,Summit Veterinary Referral Center United States,,,United States,,
+Dr,Pancotto,Dr Theresa E. Pancotto,,tepdvm@vt.edu,,Virginia Maryland College of Veterinary Medicine Associate Professor 225 Duckpond Drive Mail Code 0442 Blacksburg Virginia 24061  United States,Blacksburg,Virginia,United States,24061,540 2312430 
+Kim,Pang,Dr. Kim Pang,Dr.,kimpangdvm@gmail.com,http://www.kimpangdvm.com/,Irvine California 92618  United States,Irvine,California,United States,92618,949 5212445 
+Victoria,Papscoe,Dr. Victoria Papscoe,Dr.,,http://www.littletonanimalhospital.com/,Littleton Animal Hospital 29 King Street Littleton Massachusetts 01460  United States,Littleton,Massachusetts,United States,01460,978-486-3101 
+Dr,Partlow,Dr Jill Partlow,,,http://www.petcarevb.com/,Martin's Point Veterinary Hospital 6405 N. Croatan Hwy Kitty Hawk North Carolina 27949  United States,Kitty Hawk,North Carolina,United States,27949,252 335-7708 
+Julia,Partin,Dr. Julia Partin,Dr.,,,Hickory Flat Animal Hospital 2939 E Cherokee Dr Canton Georgia 30115  United States,Canton,Georgia,United States,30115,(770) 345-2816 
+Carmelina,Panza,Dr. Carmelina Panza,Dr.,cpanza77@gmail.com,,Platt College 1551 S. Douglass Rd. Anaheim California 92806  United States,Anaheim,California,United States,92806,714 333-9606 
+Autumn,Paul,Dr. Autumn Paul,Dr.,,,United States,,,United States,,830-739-2280 
+Leonard,Partridge,Dr. Leonard Partridge,Dr.,,,5609 W Misty Willow Ln Glendale Arizona 85310  United States,Glendale,Arizona,United States,85310,602 499-4404 
+Anne,Pasek,Dr. Anne Pasek,Dr.,dr.apasek@yahoo.com,,Academy Veterinary Hospital 3470 S. Knox Ct/ Englewood Colorado 80110  United States,Englewood,Colorado,United States,80110,303 789-1858 
+Derek,Paul,Dr. Derek Paul,Dr.,,http://www.pawscolorado.com/,,,,,,
+Endia,Peckham,Dr. Endia Peckham,Dr.,,,Ohio United States,,Ohio,United States,,
+Haydee,Perez-Tirse,Dr. Haydee Perez-Tirse,Dr.,,http://www.pandaanimalclinic.com/,Panda Animal Clinic 329 East 9th St Hialeah Florida 33010  United States,Hialeah,Florida,United States,33010,305-887-1018 
+Tia,Perry,Dr. Tia L. Perry,Dr.,drtiavet@gmail.com,,Cumberland Valley Veterinary Clinic 17747 Virginia Ave. Hagerstown Maryland 21740  United States,Hagerstown,Maryland,United States,21740,301 739-3121 
+Michael,Peltier,Dr. Michael J. Peltier,Dr.,mpeltier@tampabay.rr.com,,2420 Andalusia Way St. St. Petersburg Florida 33704  United States,St. Petersburg,Florida,United States,33704,
+Karen,Prine,Dr. Karen C. Prine,Dr.,karenprine@hotmail.com,,On Point Acupuncture & Veterinary Services Ocala Florida 34471  United States,Ocala,Florida,United States,34471,
+Patty,Pruitt,Dr. Patty Pruitt,Dr.,,,Open Air Pet Repair 53 Washington St. Ext. Middlebury Vermont 05753  United States,Middlebury,Vermont,United States,05753,802-388-8303 
+Colleen,Prather,Dr. Colleen D. Prather,Dr.,,,Look Ahead Veterinary Services 1451Clark Rd Oroville California 95965  United States,Oroville,California,United States,95965,530-534-0722 
+Katherine,Pruitt,Dr. Katherine Pruitt,Dr.,drktpruitt@gmail.com,,Coit North Veterinary Hospital 8937 Coit Rd. Plano Texas 75024  United States,Plano,Texas,United States,75024,214 618-8285 
+Sarah,Quentin,Dr. Sarah E. Quentin,Dr.,,http://www.mendoequine.com/,Meridian Holistic Veterinary Services 33401 Simpson Road Fort Bragg California 95437  United States,Fort Bragg,California,United States,95437,707-964-5792 
+Jennifer,Puttress,Dr. Jennifer Puttress,Dr.,jputtress@gmail.com,,Eastview Veterinary Clinic 1260 Route 14A Penn Yan New York 14527  United States,Penn Yan,New York,United States,14527,315 536-9871 
+Marie,Quicksall,Dr. Marie S. Quicksall,Dr.,quicksalldvm@gmail.com,,Day Road Animal Hospital 8355 NE Day Road East Bainbridge Island Washington 98110  United States,Bainbridge Island,Washington,United States,98110,206 842-1200 
+Janice,Raab,Dr. Janice L. Raab,Dr.,,http://allpetsholisticvet.com/,All Pets Holistic Veterinary Care Free Union Virginia 22940  United States,Free Union,Virginia,United States,22940,434 981-1309 
+Donna,Raditic,Dr. Donna Raditic,Dr.,,,,,,,,
+Donna,Raines,Dr. Donna Raines,Dr.,,,Landrum Veterinary Hospital 1600 E. Rutherford St. Landrum South Carolina 29356  United States,Landrum,South Carolina,United States,29356,864 457-3351 
+Steven,Raabe,Dr. Steven Raabe,Dr.,,,Prairie Animal Hospital PO Box 31 North Prairie Wisconsin 53153  United States,North Prairie,Wisconsin,United States,53153,262 392-9199 
+Lisa,Radwan,Dr. Lisa R. Radwan,Dr.,,https://www.onemedicine.center/,,,,,,
+Marshall,Randall,Dr. Marshall C. Randall,Dr.,randalldvm@gmail.com,,North Country Veterinary Services 9251 Lake St. PO Box 123 Ellsworth Michigan 49729  United States,Ellsworth,Michigan,United States,49729,231 588-2190 
+Alexis,Rambaud,Dr. Alexis Rambaud,Dr.,alexis.rambaud@gmail.com,,"Paws and Claws Urgent Care 73345 Hwy. 111, Ste. 101 Palm Desert California 92260  United States",Palm Desert,California,United States,92260,760 610-2454 
+Thomas,Ramsey,Dr. Thomas Ramsey,Dr.,,,812 Morningside Dr San Antonio Texas 78209  United States,San Antonio,Texas,United States,78209,(210) 650-3141 
+Jennifer,Raphael,Dr. Jennifer Raphael,Dr.,stuhlerdvm@gmail.com,,Waverly Animal Hospital Dr. 233 Sout Waverly Road Lansing Michigan 48917  United States,Lansing,Michigan,United States,48917,517 323-4156 
+Lacy,Redmond,Dr. Lacy Redmond,Dr.,,http://www.eaglefernvet.com/,Eagle Fern Veterinary Hospital 585 NW Zobrist Street Estacada Oregon 97023  United States,Estacada,Oregon,United States,97023,503-657-3171 
+Fran,Reed,Dr. Fran M. Reed,Dr.,,,VCA Holly Farms Animal Hospital 6705 West Bancroft St. Toledo Ohio 43615  United States,Toledo,Ohio,United States,43615,419 841-3233 
+Lauren,Ray-McCarley,Dr. Lauren Ray-McCarley,Dr.,lray@southernequineservice.com,,Southern Equine Service 1258 Banks Mill Rd. Aiken South Carolina 29803  United States,Aiken,South Carolina,United States,29803,803 644-1544 
+Rhonda,Rathgeber,Dr. Rhonda Rathgeber,Dr.,,http://www.hagyard.com/,Hagyard Equine Medical Institute 4250 Iron Works Pike Lexington Kentucky 40511  United States,Lexington,Kentucky,United States,40511,859 255-8741 
+Brian,Reeves,Dr. Brian Reeves,Dr.,,,Reeves Veterinary Clinic 2101 S SE Loop 323 Tyler Texas 75701  United States,Tyler,Texas,United States,75701,(903) 595-1088 
+Stephenie,Rensberger,Dr. Stephenie A. Rensberger,Dr.,test@test.com,,Family Pet Health Center 2910 Mishawaka Ave. South Bend Indiana 46615  United States,South Bend,Indiana,United States,46615,574 282-2303 
+Cynthia,Reynolds,Dr. Cynthia Reynolds,Dr.,,,434 E Main St Searsport Maine 04974  United States,Searsport,Maine,United States,04974,207-323-4272 
+Alissa,Rexo,Dr. Alissa Rexo,Dr.,doctorrexo@gmail.com,http://www.deepwoodvet.net/,Deepwood Veterinary Clinic veterinarian 7300 Ordway Road Centreville Virginia 20121  United States,Centreville,Virginia,United States,20121,703 631-9133 
+Steph,Rhebergen,Dr. Steph Rhebergen,Dr.,srhebergen@abbvet.ca,,,,,,,
+Shelby,Riddle,Dr. Shelby Riddle,Dr.,,http://www.southamptonpethospital.com/,Southampton Pet Hospital PO Box 547 Benicia California 94510  United States,Benicia,California,United States,94510,707 745-1135 
+Anne,Rice,Dr. Anne Rice,Dr.,,http://www.mihomevet.com/,The Visiting Vet of Mid Michigan 314 Turner Rd Williamston Michigan 48895  United States,Williamston,Michigan,United States,48895,(517) 655-3479 
+Amanda,Richards,Dr. Amanda R. Richards,Dr.,a.richards81@yahoo.com,,Boonville Animal Hospital 5665 FM 1179 Bryan Texas 77808  United States,Bryan,Texas,United States,77808,979 774-4818 
+Annette,Richmond,Dr. Annette B. Richmond,Dr.,annette.richmond@comcast.net,http://www.naturalveterinarytherapy.com/,owner 26135 Carmel Rancho Blvd Ste. E-103 Carmel California 93923  United States,Carmel,California,United States,93923,831 655-0501 
+Ann,Rizzo,Dr. Ann M. Rizzo,Dr.,annmarierizzo@frontier.com,,Williamston Michigan 48895  United States,Williamston,Michigan,United States,48895,
+Tiffany,Rimar,Dr. Tiffany Rimar,Dr.,,,Veterinary Healing Arts 431 Corey Ave St. Petersburg Beach Florida 33706  United States,St. Petersburg Beach,Florida,United States,33706,727-360-5700 
+Amanda,Rizner,Dr. Amanda Rizner,Dr.,tempiandgale@gmail.com,,Practice owner 12 Newfield Rd Shapleigh Maine 04076  United States,Shapleigh,Maine,United States,04076,207 5124166 
+Kerry,Ridgway,Dr. Kerry Ridgway,Dr.,,,,,,,,
+Patricia,Robinett,Dr. Patricia Robinett,Dr.,crittercalls@yahoo.com,http://www.crittercallsmobilevet.com/,"Critter Calls Mobile Vet Dr. 5129 Evergreen Way, Ste 275 Everett Washington 98203  United States",Everett,Washington,United States,98203,425 231-0227 
+Lillian,Roberts,Dr. Lillian M. Roberts,Dr.,drroberts@countryclubdvm.com,,Country Club Animal Clinic 36869 Cook St. #103 Palm Desert California 92211  United States,Palm Desert,California,United States,92211,760 776-7555 
+Janet,Roark,Dr. Janet M. Roark,Dr.,dr.janet.roark@gmail.com,,Hill Country Mobile Vet PO Box 92402 Austin Texas 78709  United States,Austin,Texas,United States,78709,512 529-1733 
+Jessica,Robertson,Dr. Jessica C. Robertson,Dr.,jessicarobertson@sdequine.com,,San Dieguito Equine Group Dr. 1202 Calle Maria San Marcos California 92069  United States,San Marcos,California,United States,92069,760 591-9952 
+Josefina,Rodriguez,Dr. Josefina S. Rodriguez,Dr.,josefinasardiwas@gmail.com,,Gvupo Veterinario EGOAVIL SARDIWAS Calle La Coliua #3 Caracus Md. Venezuela,Caracus,Md.,Venezuela,,580129637322 
+Wendy,Rodrigues,Dr. Wendy M. Rodrigues,Dr.,,http://www.visitingvetnj.com/,Visiting Holistic Veterinary Care of NJ 5 Powderhorn Rd. Flemington New Jersey 08822  United States,Flemington,New Jersey,United States,08822,908 892-9991 
+Trisha,Roisum,Dr. Trisha Roisum,Dr.,,http://www.berryhillveterinarycenter.com/,,,,,,
+Susan,Rogers-Swaney,Dr. Susan Rogers-Swaney,Dr.,,http://www.veterinaryalternatives.com/,Veterinary Alternatives 111 N Winter Street Yellow Springs Ohio 45387  United States,Yellow Springs,Ohio,United States,45387,937-767-1579 
+Jennifer,Rosen,Dr. Jennifer A. Rosen,Dr.,jenniferrosendvm@gmail.com,,South Wilton Veterinary Group 51Danbury Rd. Wilton Connecticut 06897  United States,Wilton,Connecticut,United States,06897,203 762-2002 
+Tanner,Ross,Dr. Tanner Ross,Dr.,tanner@petwellnesscenter.vet,,Pet Wellness Center 23644 Clinton Keith Rd. Murrieta California 92562  United States,Murrieta,California,United States,92562,951 473-2227 
+Giselle,Rossa,Dr. Giselle A. Rossa,Dr.,giselleayres@gmail.com,,"Integravetcare Av. N. Sra. da Assunggco, 6715 Sao Paulo SP 05359001  Brazil",Sao Paulo,SP,Brazil,05359001,55 11976250963 
+Sarah,Roschen,Dr. Sarah Roschen,Dr.,,,"Blue Mountain Veterinary Acupuncture, PLLC Bedford Virginia 24523  United States",Bedford,Virginia,United States,24523,540 355-6923 
+Ashley,Rossman,Dr. Ashley Rossman,Dr.,,http://www.glenoakanimalhospital.com/,Glen Oak Dog & Cat Hospital 33-0 Waukegan Road Glenview Illinois 60025  United States,Glenview,Illinois,United States,60025,847-729-5200 
+Howard,Rothstein,Dr. Howard Rothstein,Dr.,,,Saugerties Animal Hospital 163 Ulster Ave Saugerties New York 12477  United States,Saugerties,New York,United States,12477,845 246-6150 
+Kim,Rotner,Dr. Kim Rotner,Dr.,,,,,,,,
+Teri,Rowan,Dr. Teri Rowan,Dr.,,http://www.rutherfordvet.com/,Rutherford Veterinary Hospital 924 S Haskell Ave Dallas Texas 75223  United States,Dallas,Texas,United States,75223,214-826-4166 
+Barbara,Royal,Dr. Barbara Royal,Dr.,,http://royaltreatmentveterinarycenter.com/,The Royal Treatment Veterinary Center 4130 N Rockwell Street Chicago Illinois 60618  United States,Chicago,Illinois,United States,60618,773-267-9966 
+Nicolle,Rubendall,Dr. Nicolle Rubendall,Dr.,nicolleredig@hotmail.com,,Coastal Mobile Natural Animal Healing United States,,,United States,,
+Michelle,Rupp,Dr. Michelle Rupp,Dr.,,http://www.allgoodpetrehabilitation.com/,"All Good Pets, Inc. 722 Park Rd Lansdale Pennsylvania 19446  United States",Lansdale,Pennsylvania,United States,19446,610 858-0623 
+Porrakote,Rungsri,Dr. Porrakote Rungsri,Dr.,p-kulchaiwat@hotmail.com,,"Faculty of Veterinary Medicine Chiang MaiUniversity Mae-Hae, Muang Chiang Mai 50100  Thailand",Chiang Mai,,Thailand,50100,
+Linda,Rydgig,Dr. Linda Rydgig,Dr.,,http://www.progeq.com/,"Progressive Equine, Inc. 601 E Daily Dr Ste 114 Camarillo California 93010  United States",Camarillo,California,United States,93010,805 482-1902 
+Mark,Russo,Dr. Mark Russo,Dr.,,http://www.healthyveterinaryalternatives.com/,Kingston Animal Hospital 192 Main St Kingston Massachusetts 02364  United States,Kingston,Massachusetts,United States,02364,(781) 585-6525 
+Dr,Rushing,Dr Kendra Rushing,,kendra.rushing.dvm@gmail.com,http://www.graceveterinary.com/,"Grace Veterinary Services Dr Kendra Rushing, CCRT, CVAT Seattle Washington 98118  United States",Seattle,Washington,United States,98118,206 486-2719 
+Megan,Salaj,Dr. Megan Salaj,Dr.,msalaj@vt.edu,,Williamsburg Virginia 23188  United States,Williamsburg,Virginia,United States,23188,
+Karina,Salvo,Dr. Karina Salvo,Dr.,drkarinasalvollc@gmail.com,,"Karina Salvo, DVM, CTPEP PO Box 921 Loxahootche Florida 33470  United States",Loxahootche,Florida,United States,33470,
+Jessica,Salomon,Dr. Jessica Salomon,Dr.,jsalomon00@gmail.com,,West Boulevard Veterinary Clinic 5383 West Boulevard Vancouver British Columbia V6M 3W4  Canada,Vancouver,British Columbia,Canada,V6M 3W4,
+Debra,Sally,Dr. Debra Sally,Dr.,,,United States,,,United States,,
+Theresa,SaLee,Dr. Theresa SaLee,Dr.,,http://www.twpvet.com/,The Whole Pet 810 S IL Rt. 59 Bartlett Illinois 60103  United States,Bartlett,Illinois,United States,60103,630-289-2288 
+Martina,Sander,Dr. Martina Sander,Dr.,,,,,,,,
+Sara,Santin,Dr. Sara A. Santin,Dr.,sara.santin@hotmail.com,,United States,,,United States,,
+Mary,Sayre,Dr. Mary E. Sayre,Dr.,,http://www.zenpet-vet.com/,"ZenPet, LLC 2836 Earlystown Road Centre Hall Pennsylvania 16828  United States",Centre Hall,Pennsylvania,United States,16828,814 404-2466 
+Nancy,Saxe,Dr. Nancy Saxe,Dr.,,http://www.saxeveterinaryservice.com/,"Saxe Veterinary Services, PA 170 Biscayne Boulevard Islamorada Florida 33036  United States",Islamorada,Florida,United States,33036,561-818-2598 
+Ann,Scearce,Dr. Ann Scearce,Dr.,,http://www.riponvet.com/,Ripon Veterinary Hospital Veterinarian 134 W Main St Ripon California 95366  United States,Ripon,California,United States,95366,209 5996153 
+Kelsey,Scanlan,Dr. Kelsey C. Scanlan,Dr.,kscanlan10@gmail.com,,Claus Paws Animal Hospital 5819 NE 162nd Ave. Vancouver Washington 98629  United States,Vancouver,Washington,United States,98629,360 896-7449 
+Patti,Schaefer,Dr. Patti Schaefer,Dr.,,http://www.canisport.com/,"Canisport Veterinary Services 3701 Pacific Ave SE, PMB 232 Olympia Washington 98501  United States",Olympia,Washington,United States,98501,360-923-5759 
+Robert,Schaeffer,Dr. Robert Schaeffer,Dr.,,http://sthillsvet.com/,St. Louis Hills Veterinary Clinic 7001 Hampton Ave St. Louis Missouri 63109  United States,St. Louis,Missouri,United States,63109,314-353-3444 
+Ron,Scharf,Dr. Ron Scharf,Dr.,rasdvm1@gmail.com,http://animalhospitalniskayuna.com/,Animal Hospital of Niskayuna 2764 Troy Schenectady Road Niskayuna New York 12309  United States,Niskayuna,New York,United States,12309,518-785-9731 
+Richard,Schafer,Dr. Richard Schafer,Dr.,,,All Creatures Acupuncture 2149 Terrace Bay Dr. Corpus Christi Texas 78418  United States,Corpus Christi,Texas,United States,78418,
+Hilary,Scher,Dr. Hilary Scher,Dr.,dalm8n@aol.com,,Ridgehill Animal Hospital 430 State Street North Haven Connecticut 06473  United States,North Haven,Connecticut,United States,06473,203 288-3307 
+Elizabeth,Schilling,Dr. Elizabeth Schilling,Dr.,efsdvm@gmail.com,,PO Box 1785 Redlands California 92353  United States,Redlands,California,United States,92353,
+Joseph,Schmitt,Dr. Joseph Schmitt,Dr.,,http://lindenheightsanimal.com/,Linden Heights Animal Hospital 274 Linden Dr Winchester Virginia 22601  United States,Winchester,Virginia,United States,22601,540-667-4290 
+Kimberly,Schmidt,Dr. Kimberly Schmidt,Dr.,,http://www.napaholisticvet.com/,Napa Valley Holistic Veterinary Services P.O. Box 10482 Napa California 94558  United States,Napa,California,United States,94558,707 5359979 
+Linda,Schneider,Dr. Linda Schneider,Dr.,,,Relief Service 6772 Colyer Crossing Victor New York 14564  United States,Victor,New York,United States,14564,585 703-8284 
+Cathy,Schmall,Dr. Cathy Schmall,Dr.,caschmall@aol.com,,,,,,,
+Pamela,Schrager,Dr. Pamela Schrager,Dr.,drschrager.floridawild@gmail.com,,FloridaWild Veterinary Hospital 115 E. Euclid DeLand Florida 32724  United States,DeLand,Florida,United States,32724,386 7349899 
+Michelle,Schraeder,Dr. Michelle Schraeder,Dr.,,http://www.mtnvet.com/,Mountain Veterinary Hospital 3413 Mt Baker Hwy Bellingham Washington 98226  United States,Bellingham,Washington,United States,98226,360-592-5113 
+Allen,Schoen,Dr. Allen Schoen,Dr.,,http://drschoen.com/,"Allen M. Schoen, DVM, MS & Assoc. LLC PO Box 670 Sherman Connecticut 06784  United States",Sherman,Connecticut,United States,06784,(860) 354-2287 
+Erica,Schorr-Evans,Dr. Erica M. Schorr-Evans,Dr.,,http://www.anddogstoo.com/,And Dogs Too Veterinary Clinic Owner 2508 Allen Blvd. Middleton Wisconsin 53562  United States,Middleton,Wisconsin,United States,53562,608 608-836-0010 
+Jennifer,Schwind,Dr. Jennifer Schwind,Dr.,gatadoc@gmail.com,,718 US Highway 82 East PMB 295 Sherman 75090  United States,Sherman,,United States,75090,
+Nicole,Schwinkendorf,Dr. Nicole A. Schwinkendorf,Dr.,nschwink@gmail.com,,Arizona Animal Wellness Center 3279 E. Pesos Road Gilbert Arizona 85295  United States,Gilbert,Arizona,United States,85295,480 988-3660 
+Veronica,Schwartz,Dr. Veronica Schwartz,Dr.,v.schwartz@hotmail.com,,Horseshoe Lake Animal Hospital 5230 Horseshoe Lake Road Collinsville Illinois 62234  United States,Collinsville,Illinois,United States,62234,618 344-7949 
+Karla,Scott,Dr. Karla Scott,Dr.,dr.karla@omvs.ca,,Oro Medonte Veterinary Services 96 School House Rd. Oro Medonte Ontario L0L 1T0  Canada,Oro Medonte,Ontario,Canada,L0L 1T0,705 487-8387 
+Cinda,Scott,Dr. Cinda Scott,Dr.,cinda@cindascott.com,,,,,,,
+Robert,Schwyzer,Dr. Robert Schwyzer,Dr.,,,Santa Fe Equidae PO Box 2677 Santa Fe New Mexico 87504  United States,Santa Fe,New Mexico,United States,87504,505-988-7999 
+Sheryl,Scolnick,Dr. Sheryl Scolnick,Dr.,,http://www.petsonbroadway.net/,Pets on Broadway 2232 S Broadway Denver Colorado 80210  United States,Denver,Colorado,United States,80210,303-282-0808 
+Clare,Seagren,Dr. Clare Seagren,Dr.,,http://www.acuvet.net/,"GCS, Inc. 1605 Cornelius Trace Lexington Kentucky 40509  United States",Lexington,Kentucky,United States,40509,859 421-6395 
+Janet,Sears,Dr. Janet Sears,Dr.,iacowgirlup@gmail.com,,Earthwise Veterinary Services Owner 12034 150th Fayette Iowa 52042  United States,Fayette,Iowa,United States,52042,641 990-9307 
+Heidi,Servi,Dr. Heidi Servi,Dr.,missheidibeth@yahoo.com,,Veterinary Specialists of the Rockies 774 Maleta Lane Castle Rock Colorado 80108  United States,Castle Rock,Colorado,United States,80108,303 660-1027 
+Elizabeth,Shafer,Dr. Elizabeth Shafer,Dr.,,,Kentucky Equine Medical Associates 4210 Southern Parkway Louisville Kentucky 40214  United States,Louisville,Kentucky,United States,40214,
+Dr,Selmer,Dr Michel Selmer,,,http://www.advancedcareforpets.com/,Long Island Veterinary Specialists Integrative Veterinarian 163 South Service Road Plainview New York 11803  United States,Plainview,New York,United States,11803,516 501-1700 
+Nako,Shinohara,Dr. Nako Shinohara,Dr.,,,Bulger Veterinary Hospital 247 Chickering Road N. Andover Massachusetts 1845  United States,N. Andover,Massachusetts,United States,1845,978-682-9905 
+Lynn,Shiner,Dr. Lynn Shiner,Dr.,,,Acupuncture for Animals 9501 S. Padre Island Drive Corpus Christi Texas 78418  United States,Corpus Christi,Texas,United States,78418,(361) 442-9066 
+Melissa,Shaver,Dr. Melissa Shaver,Dr.,,http://www.equineperformancesolutions.com/,"Equine Performance Solutions, LLC 16330 NE Wilkerson Way Newberg Oregon 97132  United States",Newberg,Oregon,United States,97132,971-400-3773 
+Bianca,Shaw,Dr. Bianca Shaw,Dr.,,http://wwwbackontrackvetrehab.com/,Back on Track Veterinary Rehab 9045 SW Barber Blvd. #130 Portland Oregon 97719  United States,Portland,Oregon,United States,97719,503-546-8995 
+Deborah,Shores,Dr. Deborah L. Shores,Dr.,hawkeyevet@gmail.com,,Animal Medical Corpus Christi 6822 Everhart Rd. Corpus Christi Texas 78414  United States,Corpus Christi,Texas,United States,78414,361 993-6752 
+Jack,Shuler,Dr. Jack Shuler,Dr.,,,"Chapel Hill Equine Associates PO Box 3593, 76 Plum Tree Lane Chapel Hill North Carolina 27515  United States",Chapel Hill,North Carolina,United States,27515,(919) 932-5225 
+Judith,Shoemaker,Dr. Judith Shoemaker,Dr.,,http://www.judithshoemaker.com/,Always Helpful Veterinary Services 305 Nottingham Rd Nottingham Pennsylvania 19362  United States,Nottingham,Pennsylvania,United States,19362,717-529-0526 
+Rachael,Shuster,Dr. Rachael Shuster,Dr.,,http://www.shusterequine.com/,"Shuster Equine, LLC 795 Route 70 East, Suite E-143 Marlton New Jersey 8053  United States",Marlton,New Jersey,United States,8053,609-968-9723 
+Brian,Siever,Dr. Brian K. Siever,Dr.,bsiever70@gmail.com,,Knox Pet Clinic DVM 658 W. Main St. Galesburg Illinois 61401  United States,Galesburg,Illinois,United States,61401,309 343-6156 
+Hannah,Siebens,Dr. Hannah C. Siebens,Dr.,hannah@siebens.com,,Weston Veterinary Clinic 152 Boston Post Rd. Weston Massachusetts 02493  United States,Weston,Massachusetts,United States,02493,281 337-6622 
+Larry,Siegler,Dr. Larry Siegler,Dr.,,,Animal Healing Center 16336 NE 81st Redmond Washington 98052  United States,Redmond,Washington,United States,98052,425 8855400 
+Andrea,Sinnamon,Dr. Andrea Sinnamon,Dr.,,,AA Vetcare LLC 8232 S US Hwy 35 Walton Indiana 46994  United States,Walton,Indiana,United States,46994,
+Stephanie,Silberstang,Dr. Stephanie Silberstang,Dr.,stephanie.silberstang@gmail.com,,Blue Pearl Veterinary Partners 190 3rd Ave. Brooklyn New York 11217  United States,Brooklyn,New York,United States,11217,718 596-0099 
+Leslie,Sirmons,Dr. Leslie Sirmons,Dr.,elginvetdrsirmons@yahoo.com,,Elgin Family Pet Center 1399 Hwy. 290W Elgin Texas 78621  United States,Elgin,Texas,United States,78621,512 285-3375 
+Daniel,Slovis,Dr. Daniel Slovis,Dr.,dslovis@lakeannaveterinaryhospital.com,,Lake Anna Veterinary Hospital 11012 Kentucky Springs Rd. Mineral Virginia 23117  United States,Mineral,Virginia,United States,23117,540 894-4572 
+Teri,Skadron,Dr. Teri Skadron,Dr.,,,Skadron Animal Hospital 178 E Marie Ave West St. Paul Minnesota 55118  United States,West St. Paul,Minnesota,United States,55118,651-451-6421 
+Neal,Sivula,Dr. Neal Sivula,Dr.,,,Dancing Paws Animal Wellness Center 4646 West Streetsboro Road Richfield Ohio 44286  United States,Richfield,Ohio,United States,44286,330-659-3441 
+Jennifer,Smallwood,Dr. Jennifer Smallwood,Dr.,,http://integrativeveterinarywellness.com/,Integrative Veterinary Wellness 2701 Custer Pkwy Richardson Texas 75080  United States,Richardson,Texas,United States,75080,469 250-4023 
+Colleen,Smith,Dr. Colleen Smith,Dr.,,http://chattanoogaholisticvet.com/,CHAI- Chattanooga Holistic Animal Institute 918 E. Main Street Chattanooga Tennessee 37408  United States,Chattanooga,Tennessee,United States,37408,423 531-8899 
+Barbara,Smith,Dr. Barbara Smith,Dr.,barbara_smith1@dfci.harvard.edu,,Dana-Farber Cancer Institute Senior Director 68 Grover St. Beverly Massachusetts 01915  United States,Beverly,Massachusetts,United States,01915,617 632-4146 
+Julie,DVM,Dr. Julie M. Smiley DVM,Dr.,jam220@yahoo.com,,East Emporia Veterinary Clinic 602 Exchange St. Emporia Kansas 66801  United States,Emporia,Kansas,United States,66801,620 343-7682 
+Heather,Smith,Dr. Heather Smith,Dr.,heatherlsmith@yahoo.com,,North Creek Pet Hospital Dr. 19509 Bothell-Everett Hwy Bothell Washington 98012  United States,Bothell,Washington,United States,98012,425 481-9400 
+Amanda,Slocum,Dr. Amanda L. Slocum,Dr.,amandaslocum1990@gmail.com,,East Padden Animal Hospital 15721 NE Fourth Plain Blvd. Vancouver Washington 98682  United States,Vancouver,Washington,United States,98682,360 892-1500 
+Jeff,Smith,Dr. Jeff Smith,Dr.,,https://www.banfield.com/veterinarians/nc/durham/drm,Banfield Pet Hospital 3615 Witherspoon Blvd Ste 101 Durham North Carolina 27707  United States,Durham,North Carolina,United States,27707,919 402-8801 
+Kathryn,Smith,Dr. Kathryn J. Smith,Dr.,,,Highland Animal Hospital 1180 Co. Rt. 45 Central Square New York 13036  United States,Central Square,New York,United States,13036,315 727-6392 
+Katie,Smith,Dr. Katie Smith,Dr.,smith@virginiasinclair.com,http://www.virginiasinclair.com/,Virginia Sinclair Veterinary Services Owner/Veterinarian Lafayette Indiana United States,Lafayette,Indiana,United States,,317 732-5159 
+Katie,Smithson,Dr. Katie Smithson,Dr.,,http://www.chattanoogaholisticvet.com/,Chattanooga Holistic Animal Institute (CHAI) 918 East Main Street Chattanooga Tennessee 37408  United States,Chattanooga,Tennessee,United States,37408,423-531-8899 
+Trudy,Smith,Dr. Trudy R. Smith,Dr.,trsmithdvm@yahoo.com,,3111 CR 2134 Caddo Mills 75135  United States,Caddo Mills,,United States,75135,
+Sheila,Snodgrass,Dr. Sheila Snodgrass,Dr.,,http://www.holisticarevet.com/,Animal Health and Healing 2615 S. Big Bend Maplewood Missouri 63143  United States,Maplewood,Missouri,United States,63143,(314) 781-1738 
+Ilana,Smolkin,Dr. Ilana Smolkin,Dr.,drsmolkin@guelphvet.com,,"Guelph Animal Hospital 110 Gordon St. Guelph, ON N1H 4H6  Canada","Guelph, ON",,Canada,N1H 4H6,519 836-2782 
+Mike,Smith,Dr. Mike Smith,Dr.,mjsmithevs@gmail.com,,Equine Veterinary Services 12300 Jabez Rd. Edmond Oklahoma 73013  United States,Edmond,Oklahoma,United States,73013,
+Andrew,Sparling,Dr. Andrew M. Sparling,Dr.,dr.andrewsparling@gmail.com,,Osgoode Veterinary Services 5721 Main St. Osgoode Ontario K0A 2W0  Canada,Osgoode,Ontario,Canada,K0A 2W0,613 826-3456 
+Sandra,Springer,Dr. Sandra Springer,Dr.,drtruli@vetvmd.com,http://vetvmd.com/,Boston Brain Bank LLC 3983 Orchard Hill Circle Palm Harbor Florida 34684  United States,Palm Harbor,Florida,United States,34684,877 378-7854 
+Karen,Spracklen,Dr. Karen Spracklen,Dr.,,http://www.karenspracklendvm.com/,,,,,,
+Liane,Sperlich,Dr. Liane Sperlich,Dr.,,,Browns Point Veterinary Clinic 6720 Eastside Drive NE #4 Tacoma Washington 98422  United States,Tacoma,Washington,United States,98422,253-927-1323 
+Kate,FAAVA,Dr. Kate Steinhacker MS CVA CVCH CVFT CVTP FAAVA,Dr.,,http://www.drkateboston.com/,Dr. Kate's Housecalls for Dogs & Cats Integrative Veterinary Medicine drkatehousecalls@gmail.com Boston and Cambridge Massachusetts United States,Boston and Cambridge,Massachusetts,United States,,
+Lisa,Starr,Dr. Lisa Starr,Dr.,,http://www.petsinbalancevet.com/,Pets in Balance 3926 W. Touhy Ave Lincolnwood Illinois 60712  United States,Lincolnwood,Illinois,United States,60712,(312) 724-7844 
+Kattis,Stengard,Dr. Kattis Stengard,Dr.,,http://www.verobeachveterinaryhospital.com/,,,,,,
+Michael,Stanford,Dr. Michael B. Stanford,Dr.,stanford@taylorequine.com,,Taylor Equine Hospital 1231 Taylor Rd. Turlock California 95382  United States,Turlock,California,United States,95382,209 669-6800 
+Alissa,Stephens,Dr. Alissa Q. Stephens,Dr.,drstephens@thevillagevets.com,,The Village Vets Buckhead 3404 Northside Pkwy. NW Atlanta Georgia 30327  United States,Atlanta,Georgia,United States,30327,404 844-4824 
+Rachel,Stephensen,Dr. Rachel Stephensen,Dr.,,http://chiropracticforeverybody.com/,Chiropractic for Everybody Twin Cities Minnesota United States,Twin Cities,Minnesota,United States,,952 484-5460 
+Brenda,Stevens,Dr. Brenda J. Stevens,Dr.,brenda_stevens@ncsu.edu,,3130 SE 17th Place Cape Coral Florida 33904  United States,Cape Coral,Florida,United States,33904,919 308-1196 
+Kathryn-Kari,Stephens,Dr. Kathryn-Kari G. Stephens,Dr.,kodvm@msn.com,,Cowlite Animal Clinic 763 Commerce Ave. Longview Washington 98632  United States,Longview,Washington,United States,98632,360 425-6440 
+Sue,Stiff,Dr. Sue A. Stiff,Dr.,sastiff@aol.com,http://www.animalcareofgloucester.com/,Animal Care of Gloucester 4614 Geo. Washington Memorial Hwy Hayes Virginia 23072  United States,Hayes,Virginia,United States,23072,804 642-5740 
+Kelsey,Stover,Dr. Kelsey Stover,Dr.,kestover@ncsu.edu,,Lazy 5 Vet Hospital 2916 S. Main St. Salisbury North Carolina 28147  United States,Salisbury,North Carolina,United States,28147,704 636-1100 
+Laura,Strom,Dr. Laura Strom,Dr.,,http://www.extramilevet.com/,"Extra Mile Veterinary Care 17675 SW Farmington Rd., PMB 119 Aloha Oregon 97007  United States",Aloha,Oregon,United States,97007,503-332-9347 
+Jennifer,Strasser,Dr. Jennifer Strasser,Dr.,jlsdvm@hotmail.com,,Sage Veterinary Centers 7127 Amador Plaza Rd. Dublin California 84568  United States,Dublin,California,United States,84568,925 574-7243 
+Ilana,Strubel,Dr. Ilana Strubel,Dr.,drilana@awelladjustedpet.com,http://awelladjustedpet.com/,"A Well Adjusted Pet, Inc Practice Owner 1040 Palmetto Ave Pacifica California 94044  United States",Pacifica,California,United States,94044,415 9673861 
+Gary,Stuer,Dr. Gary Stuer,Dr.,,http://www.bethelanimalhospital.com/,,,,,,
+Ray,Stuckey,Dr. Ray L. Stuckey,Dr.,rstuckeydvm@gmail.com,,Stuckey Animal Hospital PO Box 442 Whitesboro Texas 76273  United States,Whitesboro,Texas,United States,76273,903 564-5926 
+Erika,Sullenberger,Dr. Erika Sullenberger,Dr.,esullenberger@ymail.com,,Animal Rehabilitation Center of Santa Cruz 2651 Soquel Ave. Santa Cruz California 95062  United States,Santa Cruz,California,United States,95062,831 464-4691 
+Jessica,Stumph,Dr. Jessica G. Stumph,Dr.,firstflightvet@gmail.com,,First Flight Mobile Veterinary Services PO Box 1275 Kitty Hawk North Carolina 27949  United States,Kitty Hawk,North Carolina,United States,27949,
+Carlye,Summers,Dr. Carlye Summers,Dr.,drcarlyesummers@gmail.com,,United States,,,United States,,
+Christine,Susumi,Dr. Christine Susumi,Dr.,,,Winslow Animal Clinic 800 Ericksen Ave NE Bainbridge Island Washington 98110  United States,Bainbridge Island,Washington,United States,98110,206-842-6621 
+Rachael,Swann,Dr. Rachael Swann,Dr.,rswannvet@gmail.com,,Simplicity Animal Hospital 2545 Germantown Rd. Keysville Virginia 23947  United States,Keysville,Virginia,United States,23947,436 736-9032 
+Jill,Sullivan,Dr. Jill Sullivan,Dr.,,,Gentle Care Animal Hospital 2958 Covington Pike Memphis Tennessee 38053  United States,Memphis,Tennessee,United States,38053,901-273-2273 
+Janet,Tast,Dr. Janet Tast,Dr.,,,Wellesley Animal Hospital 314 Weston Road Wellesley Massachusetts 02482  United States,Wellesley,Massachusetts,United States,02482,781-237-0066 
+Mary,Talbott,Dr. Mary Talbott,Dr.,talbott.38@osu.edu,,Oberlin Animal Hosital 45840 Kipton Nickle Plate Oberlin Ohio 44074  United States,Oberlin,Ohio,United States,44074,440 774-5311 
+David,Tamas,Dr. David Tamas,Dr.,davidtamas28@gmail.com,,United States,,,United States,,
+Cesar,Tello,Dr. Cesar Tello,Dr.,drctello@gmail.com,,Noah's Ark Pet Clinic in NY 85-05 37 Avenue Jackson Heights New York 11372  United States,Jackson Heights,New York,United States,11372,718 396-2111 
+Allison,Tate,Dr. Allison Tate,Dr.,atate226@gmail.com,,United States,,,United States,,
+Eleanor,Teplin,Dr. Eleanor Teplin,Dr.,dr.eleanor.teplin@gmail.com,,South Willamette Veterinary Clinic PO Box 430 255 Emerald Parkway Creswell Oregon 97426  United States,Creswell,Oregon,United States,97426,541 895-5665 
+Diane,Thomas,Dr. Diane Thomas,Dr.,,http://www.hawthorneanimalhealth.com/,Hawthorne Animal Health Care 120 Canal St. Salem Massachusetts 1970  United States,Salem,Massachusetts,United States,1970,(978) 741-2300 
+Kellye,Thompson,Dr. Kellye E. Thompson,Dr.,kthompsondvm@gmail.com,,Texas Litter Control 24950 Spring Ridge Dr. Spring Texas 77386  United States,Spring,Texas,United States,77386,281 528-1238 
+Karin,Thomasson,Dr. Karin Thomasson,Dr.,thomassondvm@live.com,,Chaparral Veterinary Medical Center 32100 N. Cave Creek Rd. Cave Creek Arizona 85331  United States,Cave Creek,Arizona,United States,85331,480 595-8600 
+Donald,Thompson,Dr. Donald P. Thompson,Dr.,,http://www.elkparkvet.com/,Elk Park Animal Hospital 9572 West Highway 160 Pagosa Springs Colorado 81147  United States,Pagosa Springs,Colorado,United States,81147,970-731-6400 
+Sharon,Thomas,Dr. Sharon Thomas,Dr.,srthomasdvm@gmail.com,,792 Cromwell Ct. Fredrick Maryland 21701  United States,Fredrick,Maryland,United States,21701,
+Michelle,Tilghman,Dr. Michelle Tilghman,Dr.,,,Loving Touch Animal Center 1975 Glenn Club Drive Stone Mountain Georgia 30087  United States,Stone Mountain,Georgia,United States,30087,770 498-5956 
+Kimberly,Thornton,Dr. Kimberly Thornton,Dr.,,,Graceful Points Veterinary Acupuncture Hutto Texas 78634  United States,Hutto,Texas,United States,78634,512 626-9096 
+Gregory,Todd,Dr. Gregory Todd,Dr.,,,Animal Hospital of Dunedin 1355 Pinehurst Rd Dunedin Florida 34698  United States,Dunedin,Florida,United States,34698,(727) 733-9351 
+Rosemary,Tilghman-Rumiser,Dr. Rosemary Tilghman-Rumiser,Dr.,rtilghmanrumiser@gmail.com,,Loving Touch Animal Center 1975 Glenn Club Dr. Stone Mountain Georgia 30087  United States,Stone Mountain,Georgia,United States,30087,770 498-5956 
+Stephanie,Torlone,Dr. Stephanie Torlone,Dr.,,http://acupuncturedog.com/,,,,,,
+T-na,Tran,Dr. T-na Tran,Dr.,,http://www.thefamilyvet.net/,,,,,,
+Gina,Tranquillo,Dr. Gina Tranquillo,Dr.,,http://www.hagyard.com/,All Points Equine PO Box 100 Orefield Pennsylvania 18069  United States,Orefield,Pennsylvania,United States,18069,610 351-1404 
+Chante,Tran,Dr. Chante D. Tran,Dr.,chantetran@gmail.com,,Mountain View Small Animal Hospital 151 Diamond Dr. Lake Elsinore California 92530  United States,Lake Elsinore,California,United States,92530,951 674-1475 
+Bruce,Towne,Dr. Bruce Towne,Dr.,townevet@wccta.net,,Towne Veterinary Clinic 1021 Market Box 378 Gowrie Iowa 50543  United States,Gowrie,Iowa,United States,50543,515 352-3044 
+Corinna,Tressler,Dr. Corinna Tressler,Dr.,ct2000vet@yahoo.com,,Green Country Vet Hospital 12126 S. Yukon Glenpool Oklahoma 74033  United States,Glenpool,Oklahoma,United States,74033,918 298-4085 
+Ellen,Trapp,Dr. Ellen Trapp,Dr.,,,Albertville Animal Hospital 530 Highway 75 N Albertville Alabama 35951  United States,Albertville,Alabama,United States,35951,(256) 878-5321 
+Jan,Treybig,Dr. Jan Treybig,Dr.,,,South Cooper Animal Hospital 6516 S Cooper St Arlington Texas 76001  United States,Arlington,Texas,United States,76001,817 468-1717 
+Erin,Trawick-Smith,Dr. Erin Trawick-Smith,Dr.,jackson.ea.dvm@gmail.com,,Millington Equine 87 Millington Rd. East Haddam Connecticut 06423  United States,East Haddam,Connecticut,United States,06423,
+K.,Tsai,Dr. K. Tsai,Dr.,,,Companion Animal Hospital 460 Rt 46 West Parsippany New Jersey 7054  United States,Parsippany,New Jersey,United States,7054,(973) 227-7500 
+Alison,Trotta,Dr. Alison Trotta,Dr.,,http://www.vetrehabac.com/,Veterinary Rehabilitation and Aquatic Ce 29 Low Road Sharon Connecticut 06069  United States,Sharon,Connecticut,United States,06069,860 364 2200 
+Victoria,Trupin,Dr. Victoria Trupin,Dr.,,,,,,,,
+Patricia,Ungar,Dr. Patricia Ungar,Dr.,,,Kensington Veterinary Hospital 3817 Adams Ave San Diego California 92116  United States,San Diego,California,United States,92116,(619) 584-8418 
+Margaret,Valentino,Dr. Margaret Valentino,Dr.,test@test.com,,Banfield Pet Hospital 2571 Blackmon Dr. Ste. 120 Decatur Georgia 30033  United States,Decatur,Georgia,United States,30033,
+Allie,Turner,Dr. Allie Turner,Dr.,allie@vetacupuncturesvc.com,https://www.vetacupuncturesvc.com/,"Veterinary Acupuncture & Rehabilitation Services Owner, DVM Woodside California 94028  United States",Woodside,California,United States,94028,541 602-3737 
+Dr,Underwood,Dr Norette L. Underwood,,catdoc56@gmail.com,http://www.trumannanimalclinic.com/,Owner 1121 Hwy 69 West Trumann Arkansas 72472  United States,Trumann,Arkansas,United States,72472,
+Jodi,Tine,Dr. Jodi Van Tine,Dr.,,,Holistic Veterinary Medicine Clinic 41 Lincoln Blvd #10 Lincoln California 95648  United States,Lincoln,California,United States,95648,916 543-9663 
+Jeffrey,Petten,Dr. Jeffrey Van Petten,Dr.,,,Meriden Animal Hospital 7146 K-4 Highway Meriden Kansas 66512  United States,Meriden,Kansas,United States,66512,(785) 484-3358 
+Kim,Vanderholm,Dr. Kim Vanderholm,Dr.,,,"Franktown Animal Clinic PO Box 832, 7658 E Burning Tree Dr Franktown Colorado 80116  United States",Franktown,Colorado,United States,80116,303-688-4690 
+Kathryn,Winkle,Dr. Kathryn Van Winkle,Dr.,,http://www.bartoncreekanimalclinic.com/,Barton Creek Animal Clinic 4201 Westbank Drive Austin Texas 78746  United States,Austin,Texas,United States,78746,(512) 327-8300 
+Greg,Ugarte,Dr. Greg Ugarte,Dr.,,,"Greg Ugarte, DVM PO Box 43 Palos Verdes Estates California 90274  United States",Palos Verdes Estates,California,United States,90274,134 (805) 963-9292 
+Alejandra,Vasquez,Dr. Alejandra C. Vasquez,Dr.,aceball@alumni.uno.ca,,521--3688 Sawmill Cres Vancouver British Columbia V5S 0E6  Canada,Vancouver,British Columbia,Canada,V5S 0E6,226 979-4247 
+Mailie,VanDerWouden,Dr. Mailie VanDerWouden,Dr.,,http://equinesurgical@aol.com/,Equine Surgical Services Associate Veterinarian PO Box 9041 Rancho Santa Fe California 92067  United States,Rancho Santa Fe,California,United States,92067,858 7568809 
+Mitsie,Vargas,Mitsie Vargas,,drmitsie@gmail.com,http://www.osahvets.com/,Orchid Springs Animal Hospital CEO 615 Overlook Drive Winter Haven Florida 33884  United States,Winter Haven,Florida,United States,33884,863 324-6964 
+Gloria,Verrecchio,Dr. Gloria Verrecchio,Dr.,verrecchiodvm@gmail.com,,Penridge Veterinary Service LLC 12 Jackson Grove S Landrum South Carolina 29356  United States,Landrum,South Carolina,United States,29356,612-741-4994 
+Dr,Veals,Dr Laura S. Veals,,ahimsavetacupuncture@gmail.com,,Boise Idaho United States,Boise,Idaho,United States,,
+Frank,Virga,Dr. Frank Virga,Dr.,,http://www.norvet.com/,North of the River Veterinary Hospital 207 China Grade Loop Bakersfield California 93309  United States,Bakersfield,California,United States,93309,661-399-6406 
+Rebecca,Verna,Dr. Rebecca Verna,Dr.,,http://www.drverna.com/,Paws for Holistic Pet Care 8381 W. Main St. Marshall Virginia 20115  United States,Marshall,Virginia,United States,20115,703-395-0795 
+Nicholas,Vaughan,Dr. Nicholas Vaughan,Dr.,nicholas@pazvet.com,http://pazvet.com/,Paz Veterinary Dr. 2613 S. First Street Austin Texas 78704  United States,Austin,Texas,United States,78704,512 326-8200 
+Linda,Vognar,Dr. Linda Vognar,Dr.,,http://acupuncture4animals.com/,"Four Paws, Five Treasures, LLC 364 Heather Ct Eau Claire Wisconsin 54701  United States",Eau Claire,Wisconsin,United States,54701,715-579-9472 
+Jenny,Vokral,Dr. Jenny R. Vokral,Dr.,jennyvokral@gmail.com,,Rutherford Animal Hospital 755 Rutherford Ave. Ruterford New Jersey 07070  United States,Ruterford,New Jersey,United States,07070,201 933-4111 
+Mallory,Waldner,Dr. Mallory von Waldner,Dr.,turnermallory18@gmail.com,,Savannah Veterinary Medical Center 2014 E. Victory Drive Savannah Georgia 31404  United States,Savannah,Georgia,United States,31404,912 447-8711 
+Brian,Voynick,Dr. Brian Voynick,Dr.,,,American Animal Hospital 1202 Sussex Turnpike Randolph New Jersey 7869  United States,Randolph,New Jersey,United States,7869,(973) 895-4999 
+Diane,Wagner,Dr. Diane Wagner,Dr.,,,,,,,,
+William,Waddell,Dr. William Waddell,Dr.,drcwaddell@att.net,,Provenance Veterinary Hospital 1811 Pecan Square Ave. Shreveport Louisiana 71106  United States,Shreveport,Louisiana,United States,71106,318 673-1194 
+Ilka,Wagner,Dr. Ilka Wagner,Dr.,,,Healing Arts Veterinary Acupuncture DVM CVA 13223 FM 2154 College Station Texas 77845  United States,College Station,Texas,United States,77845,979 777-5754 
+Cornelia,Wagner,Dr. Cornelia Wagner,Dr.,,http://www.hawthornevet.com/,Hawthorne Veterinary Clinic 1431 SE 23rd Avenue Portland Oregon 97214  United States,Portland,Oregon,United States,97214,503-233-2332 
+Wendy,Wallace,Dr. Wendy Wallace,Dr.,,,Walnut Creek Veterinary Hospital 130 La Casa Via Walnut Creek California 94598  United States,Walnut Creek,California,United States,94598,925-448-2908 
+Mizue,Wagner,Dr. Mizue Wagner,Dr.,,,Haslett Animal Hospital 5686 Marsh Road Haslett Michigan 48840  United States,Haslett,Michigan,United States,48840,517 3399555 
+Cami,Wallis,Dr. Cami J. Wallis,Dr.,alliedvetservice@gmail.com,,Allied Veterinary Service 327 Sooner Park Rd. Bartlesville Oklahoma 74006  United States,Bartlesville,Oklahoma,United States,74006,918 214-6088 
+Nathan,Wall,Dr. Nathan Wall,Dr.,,http://www.muscapetvet.com/,Muscatine Veterinary Hospital P.C. 2200 Park Ave Muscatine Iowa 52761  United States,Muscatine,Iowa,United States,52761,(563) 263-2831 
+David,Warren,Dr. David Warren,Dr.,davidwarrendvm@gmail.com,,Warren Equine Sports Medicine 1235 Hallemann Rd. Goliad Texas 77963  United States,Goliad,Texas,United States,77963,361 645-5109 
+Carol,Warren,Dr. Carol C. Warren,Dr.,carolwarrendvm@yahoo.com,,1235 Hallmann Rd. Goliad Texas 77963  United States,Goliad,Texas,United States,77963,
+Allison,Wansky,Dr. Allison Wansky,Dr.,,http://www.allatoonavets.com/,Allatoona Animal Hospital 6733 Bells Ferry Rd Woodstock Georgia 30189  United States,Woodstock,Georgia,United States,30189,678 445-1111 
+Cynthia,Wallis,Dr. Cynthia Wallis,Dr.,,,"Natural Vet 1101 Village Rd, Ste UL-3C Carbondale Colorado 81623  United States",Carbondale,Colorado,United States,81623,970-963-4577 
+Makoto,Washizu,Dr. Makoto Washizu,Dr.,makawc@yahoo.co.jp,,CEO Alabama United States,,Alabama,United States,,
+Lindsey,Watson,Dr. Lindsey Watson,Dr.,,http://www.mtnvet.com/,Mountain Veterinary Hospital 3413 Mt. Baker Hwy Bellingham Washington 98226  United States,Bellingham,Washington,United States,98226,360 5925113 
+Loren,Weaver,Dr. Loren Weaver,Dr.,,http://www.lorenweaverdvm.com/,"Loren A. Weaver, Mobile Equine 63111 Peck Academy Rd. Constantine Michigan 49042  United States",Constantine,Michigan,United States,49042,520-507-1576 
+Christine,Wilson,Dr. Christine Weidmann Wilson,Dr.,,http://www.allcreaturesha.com/,"All Creatures Healing Arts, Inc. 1925 Juan Tabo NE, Ste E Albuquerque New Mexico 87112  United States",Albuquerque,New Mexico,United States,87112,505-332-0273 
+Erin,West,Dr. Erin E. West,Dr.,erin.west168@gmail.com,,Carkeek Park Banfield 9756 Holman Rd. Seattle Washington 98117  United States,Seattle,Washington,United States,98117,206 789-8505 
+Matthew,Wesley,Dr. Matthew S. Wesley,Dr.,matt.wesley@gmail.com,,Bend Animal Hospital 63240 Service Rd Bend Oregon 92703  United States,Bend,Oregon,United States,92703,541 389-7778 
+Lisa,Weppner,Dr. Lisa Weppner,Dr.,,,Westover Animal Clinic 1361 Memorial Drive Chicopee Massachusetts 1020  United States,Chicopee,Massachusetts,United States,1020,413-535-1777 
+Jan,Weiher,Dr. Jan Weiher,Dr.,,http://www.k9movementimprovement.com/,"K9 Movement Improvement, LLC PO. Box 234 Toms Brook Virginia 22660  United States",Toms Brook,Virginia,United States,22660,540 333-2858 
+Patricia,White,Dr. Patricia White,Dr.,dermdiva@atlantaskinvet.com,http://atlantaskinvet.com/,"Atlanta Veterinary Skin & Allergy Clinic, PC Dr. 2803 Shallowford Rd., NE Atlanta Georgia 30341  United States",Atlanta,Georgia,United States,30341,770 936-8922 
+Ashley,White,Dr. Ashley White,Dr.,,,El Cajon Valley Veterinary Hospital 560 North Johnson Avenue El Cajon California 92020  United States,El Cajon,California,United States,92020,619 444-9491 
+Elizabeth,Whalen,Dr. Elizabeth A. Whalen,Dr.,,,Layfield Vet Services 32002 Perryhawkin Rd. Pittsille Maryland 21853  United States,Pittsille,Maryland,United States,21853,410 219-8276 
+Leah,Whipple,Dr. Leah Whipple,Dr.,,http://www.berwynvetcenter.com/,Berwyn Veterinary Center PO Box 123 Berwyn Pennsylvania 19312  United States,Berwyn,Pennsylvania,United States,19312,(610) 640-9188 
+Kelli,Wildfang-Rosen,Dr. Kelli Wildfang-Rosen,Dr.,,,Cascade Animal Clinic 901 W. Centennial Blvd. Springfield Oregon 97477  United States,Springfield,Oregon,United States,97477,541 741-1992 
+Jennifer,Wieners,Dr. Jennifer C. Wieners,Dr.,jenniferkcarroll@hotmail.com,,Janesville Veterinary Clinic 1802 Mineral Pt. Ave. Janesville Wisconsin 53545  United States,Janesville,Wisconsin,United States,53545,608 754-6606 
+Julie,Wickel,Dr. Julie Wickel,Dr.,,http://www.cpvh.com/,Claws & Paws Veterinary Hospital 2556 E Broadway Pearland Texas 77581  United States,Pearland,Texas,United States,77581,281-997-1426 
+Scott,White,Dr. Scott E. White,Dr.,swtvh@me.com,,Tidmore Veterinary Hospital 2914 Lurleen B. Wallace Blvd. Northport Alabama 35476  United States,Northport,Alabama,United States,35476,205 339-5555 
+Curtis,Willauer,Dr. Curtis Willauer,Dr.,,http://cenralmauianimalclinic.com/,Central Maui Animal Clinic 45 Ho'okele Street Kahului Hawaii 96732  United States,Kahului,Hawaii,United States,96732,(808) 893-2380 
+Sarah,Wilkinson,Dr. Sarah Wilkinson,Dr.,sarahwilkinsondvm@icloud.com,,Gabnel Park Veterinary Clinic 4421 SW Vermont St. Portland Oregon 97219  United States,Portland,Oregon,United States,97219,503 245-7275 
+Anne,Williams,Dr. Anne M. Williams,Dr.,,,Del Ray Animal Hospital 524 E Mount Ida Ave Alexandria Virginia 22301  United States,Alexandria,Virginia,United States,22301,(703) 739-0000 
+Deanne,Wilkinson,Dr. Deanne Wilkinson,Dr.,dwvs.mb@gmail.com,,DW Veterinary Services Box 815 Ste. Rose du Lac Manitoba R0L 1S0  Canada,Ste. Rose du Lac,Manitoba,Canada,R0L 1S0,431 233-3138 
+Desiree,Williams,Dr. Desiree Williams,Dr.,,,,,,,,
+Maria,Williams,Dr. Maria Williams,Dr.,,http://www.holisticpetdoc.com/,,,,,,
+Emily,Wilson,Dr. Emily Wilson,Dr.,eawilsondvm@gmail.com,,Birch Lane Therapeutics Vacaville California 95688  United States,Vacaville,California,United States,95688,
+James,Williams,Dr. James Williams,Dr.,,,Main Street Veterinary Hospital PO Box 1330 Madison Georgia 30650  United States,Madison,Georgia,United States,30650,706-342-2955 
+Robert,Wippman,Dr. Robert Wippman,Dr.,,,PO Box 189 Bella Vista California 96008  United States,Bella Vista,California,United States,96008,530-547-3149 
+Steven,Winokur,Dr. Steven Winokur,Dr.,,http://www.prahvet.com/,Pharr Road Animal Hospital 553 Pharr Road NE Atlanta Georgia 30305  United States,Atlanta,Georgia,United States,30305,404-237-4601 
+Joan,Winter,Dr. Joan Winter,Dr.,,,"Joan D. Winter, DVM, Inc. - Home Practice 1740 Sunndale Ave Simi Valley California 93065  United States",Simi Valley,California,United States,93065,805-955-0159 
+Geoffrey,Wisbrock,Dr. Geoffrey Wisbrock,Dr.,,http://www.lovepethospital.com/,Love Pet Hospital 8106 Brodie Lane Suite 102 Austin Texas 78745  United States,Austin,Texas,United States,78745,512 282-0221 
+Robert,Wishner,Dr. Robert Wishner,Dr.,rew.cavmrc@gmail.com,,Wishner Veterinary Services 141 Little Oak Road Oroville California 95966  United States,Oroville,California,United States,95966,
+Marisa,Wlodek,Dr. Marisa Wlodek,Dr.,marisawlodek@yahoo.com,,Ravenswood Animal Hospital LLC 2752 W. Montrose Chicago Illinois,Chicago,Illinois,,,
+Amanda,Wohlwend,Dr. Amanda Wohlwend,Dr.,,http://www.soundanimalwellness.com/,Sound Animal Wellness Kent Washington 98042  United States,Kent,Washington,United States,98042,253 518-6031 
+Cynthia,Wiseman,Dr. Cynthia Wiseman,Dr.,cynthdvm@yahoo.com,,Springfield Veterinary Center 330 E. Battlefield Springfield Missouri 65807  United States,Springfield,Missouri,United States,65807,417 887-8030 
+Amy,Wong,Dr. Amy L. Wong,Dr.,amylynnwong@gmail.com,,United States,,,United States,,
+Lilian,Wong,Dr. Lilian Wong,Dr.,lilianckim@gmail.com,,"Lilian Wong, DVM Portland Oregon 97219  United States",Portland,Oregon,United States,97219,
+Ann-Marie,Wolfrum,Dr. Ann-Marie Wolfrum,Dr.,deldiosdvm@gmail.com,http://www.deldiosdvm.com/,Del Dios Veterinary Acupuncture Veterinarian 9727 Cabrillo Place Escondido California 92029  United States,Escondido,California,United States,92029,442 777-2262 
+Carolyn,Wollenberger,Dr. Carolyn Wollenberger,Dr.,cwolldvm@aol.com,,Wollenberger Equine Service PO Box 321 1800 Stage Rd. Pescadero California 94060  United States,Pescadero,California,United States,94060,650 823-8943 
+Robert,Woods,Dr. Robert Woods,Dr.,,http://www.robertwoodsdvm.com/,Integrative Veterinary Health Center 451 N. Tustin St. Orange California 92867  United States,Orange,California,United States,92867,714-539-0755 
+Bonnie,Wright,Dr. Bonnie Wright,Dr.,mistralvet@gmail.com,http://www.mistralvet.com/,MistralVet United States,,,United States,,
+Courtney,Woodside,Dr. Courtney Woodside,Dr.,,,Sherwood Family Pet Clinic 15970 SW Tualatin-Sherwood Rd Sherwood Oregon 97140  United States,Sherwood,Oregon,United States,97140,503-625-5664 
+Lisa,Woodside,Dr. Lisa Woodside,Dr.,rtgvetrehab@gmail.com,http://www.readytogovetrehab.com/,Ready to Go Veterinary Rehabilitation IN045 Richard Avenue Wheaton Illinois 60187  United States,Wheaton,Illinois,United States,60187,630 923-5383 
+Julia,Wuerz,Dr. Julia Wuerz,Dr.,wuerzj@ufl.edu,,8930 SW 78th Ct Gainesville Florida 32608  United States,Gainesville,Florida,United States,32608,
+Audrey,Yank,Dr. Audrey L. Yank,Dr.,horsevet007@hotmail.com,,Mile Hi Animal Hospital 334 White Spar Rd. Prescott Arizona 86303  United States,Prescott,Arizona,United States,86303,928 445-4581 
+Richard,Yacowitz,Dr. Richard Yacowitz,Dr.,,,Little Silver Animal Hospital 675 Branch Ave Little Silver New Jersey 7739  United States,Little Silver,New Jersey,United States,7739,(732) 842-8266 
+Lisa,Wright,Dr. Lisa F. Wright,Dr.,,,Divergent DVM LLC Dr. 42819 Jones rd Wellington Ohio 44090  United States,Wellington,Ohio,United States,44090,330 6476622 
+Dirk,Yelinek,Dr. Dirk Yelinek,Dr.,,http://www.redondoshoresvet.com/,Redondo Shores Veterinary Center 701 S Pacific Coast Hwy Redondo Beach California 90277  United States,Redondo Beach,California,United States,90277,(310) 540-5588 
+Sherri,Youngblood,Dr. Sherri W. Youngblood,Dr.,,,United States,,,United States,,
+Theodore,Yuhas,Dr. Theodore Yuhas,Dr.,,http://www.doctorted.net/,Pet Vet Clinic 1602 East Passyunk Ave Philadelphia Pennsylvania 19148  United States,Philadelphia,Pennsylvania,United States,19148,215 271-2800 
+Danielle,Younes,Dr. Danielle Younes,Dr.,younesdanielle@gmail.com,,United States,,,United States,,
+Mollie,Zaback,Dr. Mollie L. Zaback,Dr.,mzaback@vetmail.lsu.edu,,Loyal Companion Animal Care 22330 NE Marketplace Dr. #115 Redmond Washington 98053  United States,Redmond,Washington,United States,98053,425 868-7000 
+Adrien,Zap,Dr. Adrien M. Zap,Dr.,,http://www.integrative-vet-care.com/,Integrative Veterinary Care Veterinarian Ridgefield Connecticut 06877  United States,Ridgefield,Connecticut,United States,06877,203 4424665 
+Dawn,Ziegler,Dr. Dawn Ziegler,Dr.,,http://www.sdhousecallvet.com/,Home Sweet Home Veterinary Housecalls 2218 Seaside Street San Diego California 92107  United States,San Diego,California,United States,92107,619-226-7297 
+Katarzyna,Zukiewicz,Dr. Katarzyna Zukiewicz,Dr.,kasia.zukiewicz@gmail.com,,United States,,,United States,,
+Colleen,Prather,Dr. Colleen D. Prather,Dr.,,,Look Ahead Veterinary Services 1451Clark Rd Oroville California 95965  United States,Oroville,California,United States,95965,530-534-0722 
+Patty,Pruitt,Dr. Patty Pruitt,Dr.,,,Open Air Pet Repair 53 Washington St. Ext. Middlebury Vermont 05753  United States,Middlebury,Vermont,United States,05753,802-388-8303 
+Karen,Prine,Dr. Karen C. Prine,Dr.,karenprine@hotmail.com,,On Point Acupuncture & Veterinary Services Ocala Florida 34471  United States,Ocala,Florida,United States,34471,
+Katherine,Pruitt,Dr. Katherine Pruitt,Dr.,drktpruitt@gmail.com,,Coit North Veterinary Hospital 8937 Coit Rd. Plano Texas 75024  United States,Plano,Texas,United States,75024,214 618-8285 
+Marie,Quicksall,Dr. Marie S. Quicksall,Dr.,quicksalldvm@gmail.com,,Day Road Animal Hospital 8355 NE Day Road East Bainbridge Island Washington 98110  United States,Bainbridge Island,Washington,United States,98110,206 842-1200 
+Sarah,Quentin,Dr. Sarah E. Quentin,Dr.,,http://www.mendoequine.com/,Meridian Holistic Veterinary Services 33401 Simpson Road Fort Bragg California 95437  United States,Fort Bragg,California,United States,95437,707-964-5792 
+Janice,Raab,Dr. Janice L. Raab,Dr.,,http://allpetsholisticvet.com/,All Pets Holistic Veterinary Care Free Union Virginia 22940  United States,Free Union,Virginia,United States,22940,434 981-1309 
+Jennifer,Puttress,Dr. Jennifer Puttress,Dr.,jputtress@gmail.com,,Eastview Veterinary Clinic 1260 Route 14A Penn Yan New York 14527  United States,Penn Yan,New York,United States,14527,315 536-9871 
+Donna,Raditic,Dr. Donna Raditic,Dr.,,,,,,,,
+Steven,Raabe,Dr. Steven Raabe,Dr.,,,Prairie Animal Hospital PO Box 31 North Prairie Wisconsin 53153  United States,North Prairie,Wisconsin,United States,53153,262 392-9199 
+Lisa,Radwan,Dr. Lisa R. Radwan,Dr.,,https://www.onemedicine.center/,,,,,,
+Donna,Raines,Dr. Donna Raines,Dr.,,,Landrum Veterinary Hospital 1600 E. Rutherford St. Landrum South Carolina 29356  United States,Landrum,South Carolina,United States,29356,864 457-3351 
+Marshall,Randall,Dr. Marshall C. Randall,Dr.,randalldvm@gmail.com,,North Country Veterinary Services 9251 Lake St. PO Box 123 Ellsworth Michigan 49729  United States,Ellsworth,Michigan,United States,49729,231 588-2190 
+Jennifer,Raphael,Dr. Jennifer Raphael,Dr.,stuhlerdvm@gmail.com,,Waverly Animal Hospital Dr. 233 Sout Waverly Road Lansing Michigan 48917  United States,Lansing,Michigan,United States,48917,517 323-4156 
