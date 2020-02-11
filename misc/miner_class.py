@@ -11,14 +11,13 @@ class Miner(threading.Thread):
 
     '''main fucntion'''
     def run(self):
-        website = self.website
         print('mining on ', self.website)
         options = webdriver.ChromeOptions()
         options.add_argument("headless")
         child_driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
         # child_driver = webdriver.Chrome('/home/lurayy/chromedriver')
         try:
-            child_driver.get(website)
+            child_driver.get(self.website)
             employee_json = {
                 'first_name':'',
                 'last_name':'',
@@ -33,11 +32,11 @@ class Miner(threading.Thread):
                 'zip':'',
                 'phone':''
             }   
-            employee_json['website'] = website
+            # employee_json['website'] = website
             try:
                 texts = child_driver.find_element_by_class_name('big').text
             except:
-                print('error on ',website,' cannot find big')
+                print('error on ',self.website,' cannot find big')
                 child_driver.quit()
                 self.process_data({'status':0,'data':'cannot find big'})
                 print('quit on : ',self.website)
@@ -86,6 +85,7 @@ class Miner(threading.Thread):
                             temp = text.split(link.text)
                             employee_json['zip'] = str(temp[0]).strip()
             #phone
+
             try:
                 phone_element = child_driver.find_element_by_id('tdWorkPhone')
                 try:
@@ -93,12 +93,20 @@ class Miner(threading.Thread):
                     employee_json['phone'] = phone
                 except:
                     employee_json['phone'] = str(phone.text)
+                try:
+                    website_as = phone_element.find_elements_by_tag_name('a')
+                    for website_a in website_as:
+                        website_link = website_a.get_attribute('href')
+                        if website_link.__contains__('http'):
+                            employee_json['website'] = str(website_link)
+                except:
+                    employee_json['website'] = ''
             except:
                 employee_json['phone'] = ''
             child_driver.quit()
             self.process_data({'data':employee_json, 'status':1})
         except:
-            print('error on ',website, ' cannot load site or smth in the main loop')
+            print('error on ',self.website, ' cannot load site or smth in the main loop')
             child_driver.quit()
             self.process_data({'status':0, 'data':' cannot load site or smth in the main loop'})
 
