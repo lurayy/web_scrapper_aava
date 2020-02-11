@@ -1,5 +1,5 @@
 # Simple Web Scrapper
-##How to use:
+## #How to use:
 
 1. Install python3 
 2. Install requirements
