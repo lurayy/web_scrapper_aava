@@ -38,20 +38,22 @@ def miner_handler(member_links):
 
 '''main entry fucntion'''
 if __name__ == "__main__":
-    options = webdriver.ChromeOptions()
-    options.add_argument("headless")
-    driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
-    # driver = webdriver.Chrome('/home/lurayy/chromedriver')
+    # options = webdriver.ChromeOptions()
+    # options.add_argument("headless")
+    # driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
+    driver = webdriver.Chrome('/home/lurayy/chromedriver')
     driver.get(URL)
     initialize_files()
     page_data = get_page_list(driver)
     n = NUMBER_OF_THREADS
     state = True
     try:
+        x=0
         while state:
             print('-------------------------Mining on page number: ',page_data['current_page'],'---------------------------')
             member_links = get_links(driver)
             while member_links:
+                x = x + 1
                 if len(member_links) > n:
                     process_links = member_links[:n]
                     member_links = member_links[n:]
@@ -59,6 +61,8 @@ if __name__ == "__main__":
                     process_links = member_links[:len(member_links)]
                     member_links = member_links[len(member_links):]
                 miner_handler(process_links)
+                if x==20:
+                    break
             page_data = get_page_list(driver)
             state = next_page(page_data, driver)
     except:

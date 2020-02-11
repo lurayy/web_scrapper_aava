@@ -12,12 +12,21 @@ class Miner(threading.Thread):
     '''main fucntion'''
     def run(self):
         print('mining on ', self.website)
-        options = webdriver.ChromeOptions()
-        options.add_argument("headless")
-        child_driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
-        # child_driver = webdriver.Chrome('/home/lurayy/chromedriver')
+        # options = webdriver.ChromeOptions()
+        # options.add_argument("headless")
+        # child_driver = webdriver.Chrome('/home/lurayy/chromedriver', chrome_options=options)
+        child_driver = webdriver.Chrome('/home/lurayy/chromedriver')
+        child_driver.set_page_load_timeout(30)
         try:
             child_driver.get(self.website)
+        except:
+            print('error on ',self.website,' Time out')
+            child_driver.quit()
+            self.process_data({'status':0,'data':'Time out'})
+            print('quit on : ',self.website)
+            return
+
+        try:
             employee_json = {
                 'first_name':'',
                 'last_name':'',
@@ -89,8 +98,9 @@ class Miner(threading.Thread):
             try:
                 phone_element = child_driver.find_element_by_id('tdWorkPhone')
                 try:
-                    phone = str(phone_element.text).split('(Phone)')[0]
-                    employee_json['phone'] = phone
+                    if str(phone_element.text).__contains__('Phone'):
+                        phone = str(phone_element.text).split('(Phone)')[0]
+                        employee_json['phone'] = phone
                 except:
                     employee_json['phone'] = str(phone.text)
                 try:
