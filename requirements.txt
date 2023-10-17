@@ -1,6 +1,6 @@
 pkg-resources==0.0.0
 selenium==3.141.0
-urllib3==1.25.8
+urllib3==1.26.18
 numpy==1.22.0
 pandas==1.0.1
 pkg-resources==0.0.0
@@ -8,4 +8,4 @@ python-dateutil==2.8.1
 pytz==2019.3
 selenium==3.141.0
 six==1.14.0
-urllib3==1.25.8
+urllib3==1.26.18
